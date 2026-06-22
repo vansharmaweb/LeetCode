@@ -1,0 +1,29 @@
+/*
+ * Problem: 142. Linked List Cycle II (#1)
+ * Difficulty: Easy
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/linked-list-cycle/
+ * Solved on: 2026-06-22
+ * Runtime: 8
+ms | Memory: 11.90
+MB
+ */
+
+ * }; * };
+ */ */
+class Solution {class Solution {
+public:public:
+    bool hasCycle(struct ListNode *head) {    bool hasCycle(struct ListNode *head) {
+        ListNode* slow = head;        ListNode* slow = head;
+        ListNode* fast = head;        ListNode* fast = head;
+        while(fast != NULL && fast->next != NULL){        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;            slow = slow->next;
+            fast = fast->next->next;            fast = fast->next->next;
+            if(slow == fast)            if(slow == fast)
+                 return true;                 return true;
+        }        }
+        return false;        return false;
+    }    }
+};};
+
