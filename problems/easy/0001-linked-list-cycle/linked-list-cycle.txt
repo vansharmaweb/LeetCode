@@ -7,15 +7,6 @@
  * Solved on: 2026-06-23
  */
 
-/**/**
- * Definition for singly-linked list. * Definition for singly-linked list.
- * struct ListNode { * struct ListNode {
- *     int val; *     int val;
- *     ListNode *next; *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {} *     ListNode(int x) : val(x), next(NULL) {}
- * }; * };
- */ */
-class Solution {class Solution {
 public:public:
     bool hasCycle(struct ListNode *head) {    bool hasCycle(struct ListNode *head) {
         ListNode* slow = head;        ListNode* slow = head;
@@ -24,4 +15,9 @@ public:public:
             slow = slow->next;            slow = slow->next;
             fast = fast->next->next;            fast = fast->next->next;
             if(slow == fast)            if(slow == fast)
+                 return true;                 return true;
+        }        }
+        return false;        return false;
+    }    }
+};};
 
