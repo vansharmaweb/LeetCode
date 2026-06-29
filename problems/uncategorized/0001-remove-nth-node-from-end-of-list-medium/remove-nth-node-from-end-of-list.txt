@@ -1,0 +1,16 @@
+/*
+ * Problem: 19. Remove Nth Node From End of List (#1)
+ * Difficulty: Medium
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    bool isValid(string s) {    bool isValid(string s) {
+                
+    }    }
+};};
+
