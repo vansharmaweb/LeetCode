@@ -1,0 +1,16 @@
+/*
+ * Problem: 11. Container With Most Water (#1)
+ * Difficulty: Medium
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/container-with-most-water/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    int maxArea(vector<int>& height) {    int maxArea(vector<int>& height) {
+                
+    }    }
+};};
+
