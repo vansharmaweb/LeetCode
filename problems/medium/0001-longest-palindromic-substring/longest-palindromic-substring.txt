@@ -1,0 +1,16 @@
+/*
+ * Problem: 5. Longest Palindromic Substring (#1)
+ * Difficulty: Medium
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/longest-palindromic-substring/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    string longestPalindrome(string s) {    string longestPalindrome(string s) {
+                
+    }    }
+};};
+
