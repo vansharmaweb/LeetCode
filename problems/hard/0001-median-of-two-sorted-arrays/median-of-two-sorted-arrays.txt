@@ -1,0 +1,16 @@
+/*
+ * Problem: 4. Median of Two Sorted Arrays (#1)
+ * Difficulty: Hard
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+                
+    }    }
+};};
+
