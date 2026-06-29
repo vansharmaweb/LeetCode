@@ -1,0 +1,16 @@
+/*
+ * Problem: 1. Two Sum (#1)
+ * Difficulty: Easy
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/two-sum/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    vector<int> twoSum(vector<int>& nums, int target) {    vector<int> twoSum(vector<int>& nums, int target) {
+                
+    }    }
+};};
+
