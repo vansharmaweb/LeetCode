@@ -1,0 +1,16 @@
+/*
+ * Problem: 20. Valid Parentheses (#1)
+ * Difficulty: Easy
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/valid-parentheses/
+ * Solved on: 2026-06-29
+ */
+
+class Solution {class Solution {
+public:public:
+    bool isValid(string s) {    bool isValid(string s) {
+                
+    }    }
+};};
+
