@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repositoryVersion": "1.0",
+  "createdAt": "2026-07-08T06:41:53.139Z",
+  "updatedAt": "2026-07-08T06:41:54.008Z",
+  "problems": {
+    "divisor-game": {
+      "platform": "LeetCode",
+      "number": "1025",
+      "title": "1025. Divisor Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-07-08T06:41:54.008Z",
+      "url": "https://leetcode.com/problems/divisor-game/",
+      "views": [
+        "LeetCode/Easy/divisor-game"
+      ],
+      "commitMessage": "solve(easy): divisor-game | Uncategorized"
+    }
+  }
+}
