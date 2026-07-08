@@ -5,13 +5,8 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/divisor-game/
  * Solved on: 2026-07-08
- * Runtime: 0 ms | Memory: null
+ * Runtime: 0 ms | Memory: 7.7 MB
  */
 
-class Solution {
-public:
-    bool divisorGame(int n) {
-        return n % 2 == 0;
-    }
-};
+c
 

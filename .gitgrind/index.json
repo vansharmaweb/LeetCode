@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-07-08T06:41:53.139Z",
-  "updatedAt": "2026-07-08T06:41:54.008Z",
+  "updatedAt": "2026-07-08T06:44:00.801Z",
   "problems": {
     "divisor-game": {
       "platform": "LeetCode",
@@ -17,8 +17,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": null,
-      "solvedAt": "2026-07-08T06:41:54.008Z",
+      "memory": "7.7 MB",
+      "solvedAt": "2026-07-08T06:44:00.801Z",
       "url": "https://leetcode.com/problems/divisor-game/",
       "views": [
         "LeetCode/Easy/divisor-game"
