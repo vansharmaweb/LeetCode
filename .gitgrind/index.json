@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-09-22T06:35:58.364Z",
-  "updatedAt": "2026-09-22T06:35:59.153Z",
+  "updatedAt": "2026-09-22T06:37:31.987Z",
   "problems": {
     "add-two-numbers": {
       "platform": "LeetCode",
@@ -28,6 +28,33 @@
         "0002-add-two-numbers"
       ],
       "commitMessage": "solve(medium): add-two-numbers | Uncategorized"
+    },
+    "longest-substring-without-repeating-characters": {
+      "platform": "LeetCode",
+      "number": "3",
+      "title": "1695. Maximum Erasure Value",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [
+        "Google",
+        "Microsoft"
+      ],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "19.19\nMB",
+      "solvedAt": "2026-09-22T06:37:31.987Z",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "views": [
+        "0003-longest-substring-without-repeating-characters"
+      ],
+      "commitMessage": "solve(medium): longest-substring-without-repeating-characters | Uncategorized"
     }
   }
 }
