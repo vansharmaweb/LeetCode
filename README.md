@@ -6,11 +6,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## LeetCode Topics
 
-### Uncategorized
+### Dynamic Programming
+
+|  |
+| --- |
+| [0010-regular-expression-matching](https://github.com/vansharmaweb/LeetCode/tree/main/0010-regular-expression-matching) |
+
+### Hash Table
+
+|  |
+| --- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+
+### Linked List
 
 |  |
 | --- |
 | [0002-add-two-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0002-add-two-numbers) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0024-swap-nodes-in-pairs](https://github.com/vansharmaweb/LeetCode/tree/main/0024-swap-nodes-in-pairs) |
+
+### Math
+
+|  |
+| --- |
+| [0002-add-two-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0002-add-two-numbers) |
+
+### Recursion
+
+|  |
+| --- |
+| [0002-add-two-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vansharmaweb/LeetCode/tree/main/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/vansharmaweb/LeetCode/tree/main/0024-swap-nodes-in-pairs) |
+
+### Sliding Window
+
+|  |
+| --- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+
+### String
+
+|  |
+| --- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/vansharmaweb/LeetCode/tree/main/0010-regular-expression-matching) |

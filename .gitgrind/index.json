@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-09-22T06:35:58.364Z",
-  "updatedAt": "2026-09-22T06:42:19.161Z",
+  "updatedAt": "2026-09-22T07:02:25.330Z",
   "problems": {
     "add-two-numbers": {
       "platform": "LeetCode",
@@ -11,7 +11,9 @@
       "difficulty": "Medium",
       "language": "Sort by:",
       "topics": [
-        "Uncategorized"
+        "Linked List",
+        "Math",
+        "Recursion"
       ],
       "companies": [
         "Meta"
@@ -36,7 +38,9 @@
       "difficulty": "Medium",
       "language": "Sort by:",
       "topics": [
-        "Uncategorized"
+        "Hash Table",
+        "String",
+        "Sliding Window"
       ],
       "companies": [
         "Google",
@@ -63,7 +67,9 @@
       "difficulty": "Hard",
       "language": "Sort by:",
       "topics": [
-        "Uncategorized"
+        "String",
+        "Dynamic Programming",
+        "Recursion"
       ],
       "companies": [],
       "sheets": [
@@ -82,23 +88,24 @@
     "swap-nodes-in-pairs": {
       "platform": "LeetCode",
       "number": "24",
-      "title": "25. Reverse Nodes in k-Group",
+      "title": "Swap Nodes in Pairs",
       "difficulty": "Medium",
-      "language": "Sort by:",
+      "language": "JavaScript",
       "topics": [
-        "Uncategorized"
+        "Linked List",
+        "Recursion"
       ],
       "companies": [],
       "sheets": [],
       "contest": null,
       "runtime": "0\nms",
-      "memory": "11.07\nMB",
-      "solvedAt": "2026-09-22T06:42:19.161Z",
+      "memory": "11.08\nMB",
+      "solvedAt": "2026-09-22T07:02:25.330Z",
       "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
       "views": [
         "0024-swap-nodes-in-pairs"
       ],
-      "commitMessage": "solve(medium): swap-nodes-in-pairs | Uncategorized"
+      "commitMessage": "solve(medium): swap-nodes-in-pairs | Linked List, Recursion"
     }
   }
 }
