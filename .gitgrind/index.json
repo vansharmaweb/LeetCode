@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "repositoryVersion": "1.0",
+  "createdAt": "2026-09-22T06:35:58.364Z",
+  "updatedAt": "2026-09-22T06:35:59.153Z",
+  "problems": {
+    "add-two-numbers": {
+      "platform": "LeetCode",
+      "number": "2",
+      "title": "2. Add Two Numbers",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-09-22T06:35:59.153Z",
+      "url": "https://leetcode.com/problems/add-two-numbers/",
+      "views": [
+        "0002-add-two-numbers"
+      ],
+      "commitMessage": "solve(medium): add-two-numbers | Uncategorized"
+    }
+  }
+}
