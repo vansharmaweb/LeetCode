@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-09-22T06:35:58.364Z",
-  "updatedAt": "2026-09-22T06:38:57.133Z",
+  "updatedAt": "2026-09-22T06:42:19.161Z",
   "problems": {
     "add-two-numbers": {
       "platform": "LeetCode",
@@ -78,6 +78,27 @@
         "0010-regular-expression-matching"
       ],
       "commitMessage": "solve(hard): regular-expression-matching | Uncategorized"
+    },
+    "swap-nodes-in-pairs": {
+      "platform": "LeetCode",
+      "number": "24",
+      "title": "25. Reverse Nodes in k-Group",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "11.07\nMB",
+      "solvedAt": "2026-09-22T06:42:19.161Z",
+      "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "views": [
+        "0024-swap-nodes-in-pairs"
+      ],
+      "commitMessage": "solve(medium): swap-nodes-in-pairs | Uncategorized"
     }
   }
 }
