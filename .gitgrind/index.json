@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-09-22T06:35:58.364Z",
-  "updatedAt": "2026-09-22T06:37:31.987Z",
+  "updatedAt": "2026-09-22T06:38:57.133Z",
   "problems": {
     "add-two-numbers": {
       "platform": "LeetCode",
@@ -55,6 +55,29 @@
         "0003-longest-substring-without-repeating-characters"
       ],
       "commitMessage": "solve(medium): longest-substring-without-repeating-characters | Uncategorized"
+    },
+    "regular-expression-matching": {
+      "platform": "LeetCode",
+      "number": "10",
+      "title": "44. Wildcard Matching",
+      "difficulty": "Hard",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.98\nMB",
+      "solvedAt": "2026-09-22T06:38:57.134Z",
+      "url": "https://leetcode.com/problems/regular-expression-matching/",
+      "views": [
+        "0010-regular-expression-matching"
+      ],
+      "commitMessage": "solve(hard): regular-expression-matching | Uncategorized"
     }
   }
 }
