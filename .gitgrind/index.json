@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-09-22T06:35:58.364Z",
-  "updatedAt": "2026-09-22T07:02:25.330Z",
+  "updatedAt": "2026-09-23T09:44:26.936Z",
   "problems": {
     "add-two-numbers": {
       "platform": "LeetCode",
@@ -90,7 +90,7 @@
       "number": "24",
       "title": "Swap Nodes in Pairs",
       "difficulty": "Medium",
-      "language": "JavaScript",
+      "language": "Sort by:",
       "topics": [
         "Linked List",
         "Recursion"
@@ -98,9 +98,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "0\nms",
-      "memory": "11.08\nMB",
-      "solvedAt": "2026-09-22T07:02:25.330Z",
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-09-23T09:44:26.936Z",
       "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
       "views": [
         "0024-swap-nodes-in-pairs"
