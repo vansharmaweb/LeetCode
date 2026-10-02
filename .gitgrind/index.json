@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:04:19.948Z",
+  "updatedAt": "2026-10-02T20:04:37.549Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1468,6 +1468,28 @@
         "1190-reverse-substrings-between-each-pair-of-parentheses"
       ],
       "commitMessage": "solve(medium): reverse-substrings-between-each-pair-of-parentheses | String, Stack"
+    },
+    "reverse-degree-of-a-string": {
+      "platform": "LeetCode",
+      "number": "3498",
+      "title": "Reverse Degree of a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:04:37.549Z",
+      "url": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "views": [
+        "3498-reverse-degree-of-a-string"
+      ],
+      "commitMessage": "solve(easy): reverse-degree-of-a-string | String, Simulation"
     }
   }
 }
