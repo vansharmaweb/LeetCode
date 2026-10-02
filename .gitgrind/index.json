@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:22:57.384Z",
+  "updatedAt": "2026-10-02T19:24:09.399Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -125,6 +125,32 @@
         "0053-maximum-subarray"
       ],
       "commitMessage": "solve(medium): maximum-subarray | Array, Divide and Conquer"
+    },
+    "majority-element": {
+      "platform": "LeetCode",
+      "number": "169",
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "7 ms",
+      "memory": "28.1 MB",
+      "solvedAt": "2026-10-02T19:24:09.399Z",
+      "url": "https://leetcode.com/problems/majority-element/",
+      "views": [
+        "0169-majority-element"
+      ],
+      "commitMessage": "solve(easy): majority-element | Array, Hash Table"
     }
   }
 }

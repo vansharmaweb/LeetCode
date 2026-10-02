@@ -1,0 +1,28 @@
+/*
+ * Problem: Majority Element (#169)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/majority-element/
+ * Solved on: 2026-10-02
+ * Runtime: 7 ms | Memory: 28.1 MB
+ */
+
+        for(int i = 1; i < nums.size(); i++){
+            if (nums[i] == nums[i-1]){
+                freq++;
+            }
+            else{
+                freq = 1;
+                ans = nums[i];
+            }
+            if(freq > nums.size()/2){
+                return ans;
+            }
+        sort(nums.begin(), nums.end());
+        int freq = 1;
+        int ans = nums[0];
+    int majorityElement(vector<int>& nums) {
+class Solution {
+public:
+
