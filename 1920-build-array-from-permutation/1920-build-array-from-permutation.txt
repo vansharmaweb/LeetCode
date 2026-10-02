@@ -1,0 +1,20 @@
+/*
+ * Problem: Build Array from Permutation (#1920)
+ * Difficulty: Easy
+ * Topics: Array, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/build-array-from-permutation/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    vector<int> buildArray(vector<int>& nums) {
+        vector<int> ans;
+        for(int i = 0; i < nums.size(); i++){
+            ans.push_back(nums[nums[i]]);
+        }
+        return ans;
+    }
+};
+

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:06:33.907Z",
+  "updatedAt": "2026-10-02T20:06:48.963Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1602,6 +1602,28 @@
         "0160-intersection-of-two-linked-lists"
       ],
       "commitMessage": "solve(easy): intersection-of-two-linked-lists | Hash Table, Linked List"
+    },
+    "build-array-from-permutation": {
+      "platform": "LeetCode",
+      "number": "1920",
+      "title": "Build Array from Permutation",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:06:48.963Z",
+      "url": "https://leetcode.com/problems/build-array-from-permutation/",
+      "views": [
+        "1920-build-array-from-permutation"
+      ],
+      "commitMessage": "solve(easy): build-array-from-permutation | Array, Simulation"
     }
   }
 }
