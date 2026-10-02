@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:52:37.640Z",
+  "updatedAt": "2026-10-02T19:52:54.565Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -850,6 +850,27 @@
         "2535-difference-between-element-sum-and-digit-sum-of-an-array"
       ],
       "commitMessage": "solve(easy): difference-between-element-sum-and-digit-sum-of-an-array | Array, Math"
+    },
+    "to-lower-case": {
+      "platform": "LeetCode",
+      "number": "709",
+      "title": "To Lower Case",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.3 MB",
+      "solvedAt": "2026-10-02T19:52:54.565Z",
+      "url": "https://leetcode.com/problems/to-lower-case/",
+      "views": [
+        "0709-to-lower-case"
+      ],
+      "commitMessage": "solve(easy): to-lower-case | String"
     }
   }
 }
