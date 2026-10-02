@@ -1,0 +1,27 @@
+/*
+ * Problem: Add Digits (#258)
+ * Difficulty: Easy
+ * Topics: Math, Simulation, Number Theory
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/add-digits/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 8.8 MB
+ */
+
+        while (num > 9) {
+            num = digSum(num);
+        }
+        ans = num;
+        return ans;
+    }
+
+    int digSum(int num){
+        int sum = 0;
+        while(num > 0){
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
+    }
+};
+

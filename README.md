@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-33-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-25-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-34-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-26-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
@@ -183,6 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
+
+### Number Theory
+
+|  |
+| --- |
+| [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 
 ### Prefix Sum
 
@@ -209,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
 

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:50:50.113Z",
+  "updatedAt": "2026-10-02T19:51:11.392Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -784,6 +784,29 @@
         "0094-binary-tree-inorder-traversal"
       ],
       "commitMessage": "solve(easy): binary-tree-inorder-traversal | Stack, Tree"
+    },
+    "add-digits": {
+      "platform": "LeetCode",
+      "number": "258",
+      "title": "Add Digits",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Simulation",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.8 MB",
+      "solvedAt": "2026-10-02T19:51:11.392Z",
+      "url": "https://leetcode.com/problems/add-digits/",
+      "views": [
+        "0258-add-digits"
+      ],
+      "commitMessage": "solve(easy): add-digits | Math, Simulation"
     }
   }
 }
