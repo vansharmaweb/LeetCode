@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:05:44.041Z",
+  "updatedAt": "2026-10-02T20:06:00.721Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1534,6 +1534,30 @@
         "1614-maximum-nesting-depth-of-the-parentheses"
       ],
       "commitMessage": "solve(easy): maximum-nesting-depth-of-the-parentheses | String, Stack"
+    },
+    "binary-tree-postorder-traversal": {
+      "platform": "LeetCode",
+      "number": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:06:00.721Z",
+      "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "views": [
+        "0145-binary-tree-postorder-traversal"
+      ],
+      "commitMessage": "solve(easy): binary-tree-postorder-traversal | Stack, Tree"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-65-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-49-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-66-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-50-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
 
 ### Bit Manipulation
 
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
 
 ### Design
 
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
 
 ### Two Pointers
 
