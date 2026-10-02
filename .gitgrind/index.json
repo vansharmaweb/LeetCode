@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:58:39.370Z",
+  "updatedAt": "2026-10-02T19:59:04.212Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1187,6 +1187,28 @@
         "0974-subarray-sums-divisible-by-k"
       ],
       "commitMessage": "solve(medium): subarray-sums-divisible-by-k | Array, Hash Table"
+    },
+    "search-insert-position": {
+      "platform": "LeetCode",
+      "number": "35",
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "13.7 MB",
+      "solvedAt": "2026-10-02T19:59:04.212Z",
+      "url": "https://leetcode.com/problems/search-insert-position/",
+      "views": [
+        "0035-search-insert-position"
+      ],
+      "commitMessage": "solve(easy): search-insert-position | Array, Binary Search"
     }
   }
 }

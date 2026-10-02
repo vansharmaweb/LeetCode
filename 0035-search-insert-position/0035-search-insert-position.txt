@@ -1,0 +1,28 @@
+/*
+ * Problem: Search Insert Position (#35)
+ * Difficulty: Easy
+ * Topics: Array, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/search-insert-position/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 13.7 MB
+ */
+
+            return low; 
+        }
+        int mid = low + (high - low)/2;
+        if(arr[mid] == t){
+            return mid;
+        }else if(arr[mid] > t){
+            return binarySearch(arr, t, low, mid - 1);
+        }else{
+            return binarySearch(arr, t, mid + 1, high);
+        }
+    }
+public:
+    int searchInsert(vector<int>& nums, int target) {
+private: 
+    int binarySearch(vector<int> &arr, int t, int low, int high){
+        if(low > high){
+class Solution {
+
