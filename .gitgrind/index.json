@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:46:29.481Z",
+  "updatedAt": "2026-10-02T19:46:49.780Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -647,6 +647,28 @@
         "1025-divisor-game"
       ],
       "commitMessage": "solve(easy): divisor-game | Math, Dynamic Programming"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "platform": "LeetCode",
+      "number": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "22.8 MB",
+      "solvedAt": "2026-10-02T19:46:49.780Z",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "views": [
+        "0026-remove-duplicates-from-sorted-array"
+      ],
+      "commitMessage": "solve(easy): remove-duplicates-from-sorted-array | Array, Two Pointers"
     }
   }
 }
