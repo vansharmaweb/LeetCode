@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-24-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-17-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-7-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-25-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-18-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-7-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 
 ### Floyd's Cycle Finding Algorithm
 
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
@@ -200,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |

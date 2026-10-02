@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:44:00.634Z",
+  "updatedAt": "2026-10-02T19:44:49.473Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -577,6 +577,29 @@
         "1456-maximum-number-of-vowels-in-a-substring-of-given-length"
       ],
       "commitMessage": "solve(medium): maximum-number-of-vowels-in-a-substring-of-given-length | String, Sliding Window"
+    },
+    "is-subsequence": {
+      "platform": "LeetCode",
+      "number": "392",
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "solvedAt": "2026-10-02T19:44:49.473Z",
+      "url": "https://leetcode.com/problems/is-subsequence/",
+      "views": [
+        "0392-is-subsequence"
+      ],
+      "commitMessage": "solve(easy): is-subsequence | Two Pointers, String"
     }
   }
 }
