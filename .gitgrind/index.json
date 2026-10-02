@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:10:42.555Z",
+  "updatedAt": "2026-10-02T20:11:17.879Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1883,6 +1883,27 @@
         "0292-nim-game"
       ],
       "commitMessage": "solve(easy): nim-game | Math, Brainteaser"
+    },
+    "perfect-number": {
+      "platform": "LeetCode",
+      "number": "507",
+      "title": "Perfect Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:11:17.879Z",
+      "url": "https://leetcode.com/problems/perfect-number/",
+      "views": [
+        "0507-perfect-number"
+      ],
+      "commitMessage": "solve(easy): perfect-number | Math"
     }
   }
 }
