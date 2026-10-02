@@ -1,0 +1,16 @@
+/*
+ * Problem: Nim Game (#292)
+ * Difficulty: Easy
+ * Topics: Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/nim-game/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    bool canWinNim(int n) {
+        return !(n % 4 == 0);
+    }
+};
+

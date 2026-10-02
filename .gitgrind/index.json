@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:10:23.217Z",
+  "updatedAt": "2026-10-02T20:10:42.555Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1857,6 +1857,32 @@
         "0020-valid-parentheses"
       ],
       "commitMessage": "solve(easy): valid-parentheses | String, Stack"
+    },
+    "nim-game": {
+      "platform": "LeetCode",
+      "number": "292",
+      "title": "Nim Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Brainteaser",
+        "Minimax",
+        "Game Theory",
+        "Nim Game",
+        "Impartial Game"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:10:42.556Z",
+      "url": "https://leetcode.com/problems/nim-game/",
+      "views": [
+        "0292-nim-game"
+      ],
+      "commitMessage": "solve(easy): nim-game | Math, Brainteaser"
     }
   }
 }
