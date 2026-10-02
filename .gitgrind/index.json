@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:07:22.288Z",
+  "updatedAt": "2026-10-02T20:07:38.988Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1667,6 +1667,29 @@
         "1470-shuffle-the-array"
       ],
       "commitMessage": "solve(easy): shuffle-the-array | Array"
+    },
+    "transpose-matrix": {
+      "platform": "LeetCode",
+      "number": "867",
+      "title": "Transpose Matrix",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:07:38.988Z",
+      "url": "https://leetcode.com/problems/transpose-matrix/",
+      "views": [
+        "0867-transpose-matrix"
+      ],
+      "commitMessage": "solve(easy): transpose-matrix | Array, Matrix"
     }
   }
 }

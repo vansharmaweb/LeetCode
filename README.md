@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-71-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-55-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-72-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-56-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
 
 ### Merge Sort
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
