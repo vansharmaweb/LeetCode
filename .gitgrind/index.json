@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:07:03.070Z",
+  "updatedAt": "2026-10-02T20:07:22.288Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1646,6 +1646,27 @@
         "1929-concatenation-of-array"
       ],
       "commitMessage": "solve(easy): concatenation-of-array | Array, Simulation"
+    },
+    "shuffle-the-array": {
+      "platform": "LeetCode",
+      "number": "1470",
+      "title": "Shuffle the Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:07:22.288Z",
+      "url": "https://leetcode.com/problems/shuffle-the-array/",
+      "views": [
+        "1470-shuffle-the-array"
+      ],
+      "commitMessage": "solve(easy): shuffle-the-array | Array"
     }
   }
 }
