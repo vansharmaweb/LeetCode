@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:18:55.739Z",
+  "updatedAt": "2026-10-02T19:19:57.895Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -24,6 +24,30 @@
         "0009-palindrome-number"
       ],
       "commitMessage": "solve(easy): palindrome-number | Math"
+    },
+    "single-number": {
+      "platform": "LeetCode",
+      "number": "136",
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T19:19:57.895Z",
+      "url": "https://leetcode.com/problems/single-number/",
+      "views": [
+        "0136-single-number"
+      ],
+      "commitMessage": "solve(easy): single-number | Array, Bit Manipulation"
     }
   }
 }
