@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:39:23.397Z",
+  "updatedAt": "2026-10-02T19:43:20.579Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -530,6 +530,31 @@
         "0283-move-zeroes"
       ],
       "commitMessage": "solve(easy): move-zeroes | Array, Two Pointers"
+    },
+    "product-of-array-except-self": {
+      "platform": "LeetCode",
+      "number": "238",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "40.3 MB",
+      "solvedAt": "2026-10-02T19:43:20.579Z",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "views": [
+        "0238-product-of-array-except-self"
+      ],
+      "commitMessage": "solve(medium): product-of-array-except-self | Array, Prefix Sum"
     }
   }
 }
