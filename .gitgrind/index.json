@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:52:54.565Z",
+  "updatedAt": "2026-10-02T19:53:19.507Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -871,6 +871,28 @@
         "0709-to-lower-case"
       ],
       "commitMessage": "solve(easy): to-lower-case | String"
+    },
+    "find-if-digit-game-can-be-won": {
+      "platform": "LeetCode",
+      "number": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "28.7 MB",
+      "solvedAt": "2026-10-02T19:53:19.507Z",
+      "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+      "views": [
+        "3232-find-if-digit-game-can-be-won"
+      ],
+      "commitMessage": "solve(easy): find-if-digit-game-can-be-won | Array, Math"
     }
   }
 }
