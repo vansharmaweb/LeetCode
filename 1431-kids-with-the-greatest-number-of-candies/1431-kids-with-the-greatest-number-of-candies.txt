@@ -1,0 +1,27 @@
+/*
+ * Problem: Kids With the Greatest Number of Candies (#1431)
+ * Difficulty: Easy
+ * Topics: Array
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+ * Solved on: 2026-10-02
+ */
+
+        vector<bool> result(candies.size(), false);
+        for(int val : candies){
+            if(val > maximum){
+                maximum = val;
+            }
+        }
+        for(int i = 0; i < candies.size(); i++){
+            if(candies[i] + extraCandies >= maximum){
+                result[i] = true;
+            }else{
+                continue;
+            }
+        }
+public:
+    vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+        int maximum = INT_MIN;
+class Solution {
+

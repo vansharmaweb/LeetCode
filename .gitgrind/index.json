@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:30:40.646Z",
+  "updatedAt": "2026-10-02T19:32:31.351Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -487,6 +487,27 @@
         "0374-guess-number-higher-or-lower"
       ],
       "commitMessage": "solve(easy): guess-number-higher-or-lower | Binary Search, Interactive"
+    },
+    "kids-with-the-greatest-number-of-candies": {
+      "platform": "LeetCode",
+      "number": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T19:32:31.352Z",
+      "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "views": [
+        "1431-kids-with-the-greatest-number-of-candies"
+      ],
+      "commitMessage": "solve(easy): kids-with-the-greatest-number-of-candies | Array"
     }
   }
 }
