@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-74-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-56-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-17-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-75-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-56-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-18-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vansharmaweb/LeetCode/tree/main/2798-number-of-employees-who-met-the-target) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 
 ### Counting Sort
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 
 ### Heap (Priority Queue)
 
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
