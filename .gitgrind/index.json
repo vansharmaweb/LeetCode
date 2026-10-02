@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:04:37.549Z",
+  "updatedAt": "2026-10-02T20:05:26.832Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1490,6 +1490,27 @@
         "3498-reverse-degree-of-a-string"
       ],
       "commitMessage": "solve(easy): reverse-degree-of-a-string | String, Simulation"
+    },
+    "count-commas-in-range": {
+      "platform": "LeetCode",
+      "number": "3870",
+      "title": "Count Commas in Range",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:05:26.832Z",
+      "url": "https://leetcode.com/problems/count-commas-in-range/",
+      "views": [
+        "3870-count-commas-in-range"
+      ],
+      "commitMessage": "solve(easy): count-commas-in-range | Math"
     }
   }
 }
