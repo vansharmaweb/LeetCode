@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:49:36.028Z",
+  "updatedAt": "2026-10-02T19:49:54.535Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -691,6 +691,27 @@
         "0027-remove-element"
       ],
       "commitMessage": "solve(easy): remove-element | Array, Two Pointers"
+    },
+    "remove-duplicates-from-sorted-list": {
+      "platform": "LeetCode",
+      "number": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "16.3 MB",
+      "solvedAt": "2026-10-02T19:49:54.535Z",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "views": [
+        "0083-remove-duplicates-from-sorted-list"
+      ],
+      "commitMessage": "solve(easy): remove-duplicates-from-sorted-list | Linked List"
     }
   }
 }
