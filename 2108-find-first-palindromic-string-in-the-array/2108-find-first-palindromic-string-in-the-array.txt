@@ -1,0 +1,18 @@
+/*
+ * Problem: Find First Palindromic String in the Array (#2108)
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+ * Solved on: 2026-10-02
+ * Runtime: 4 ms | Memory: 19.4 MB
+ */
+
+class Solution:
+    def firstPalindrome(self, words: list[str]) -> str:
+        for i in words:
+            if i[::-1] == i:
+                return i
+                break
+        return ""
+
