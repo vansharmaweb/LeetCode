@@ -1,0 +1,27 @@
+/*
+ * Problem: Move Zeroes (#283)
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/move-zeroes/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 23.9 MB
+ */
+
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int i = 0, j = 1;
+        while(j <= nums.size() - 1){
+            if(nums[i] == 0 && nums[j] != 0){
+                swap(nums[i], nums[j]);
+                i++;
+            }
+            else if(nums[i] != 0){
+                i++;
+            }
+            j++;
+        }
+    }
+};
+

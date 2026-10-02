@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:32:31.351Z",
+  "updatedAt": "2026-10-02T19:39:23.397Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -508,6 +508,28 @@
         "1431-kids-with-the-greatest-number-of-candies"
       ],
       "commitMessage": "solve(easy): kids-with-the-greatest-number-of-candies | Array"
+    },
+    "move-zeroes": {
+      "platform": "LeetCode",
+      "number": "283",
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "23.9 MB",
+      "solvedAt": "2026-10-02T19:39:23.397Z",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "views": [
+        "0283-move-zeroes"
+      ],
+      "commitMessage": "solve(easy): move-zeroes | Array, Two Pointers"
     }
   }
 }
