@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-78-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-57-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-79-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-58-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0020-valid-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0020-valid-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0020-valid-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vansharmaweb/LeetCode/tree/main/0125-valid-palindrome) |
