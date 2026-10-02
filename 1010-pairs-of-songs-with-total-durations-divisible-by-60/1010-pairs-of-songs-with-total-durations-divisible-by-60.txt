@@ -1,0 +1,25 @@
+/*
+ * Problem: Pairs of Songs With Total Durations Divisible by 60 (#1010)
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 32.1 MB
+ */
+
+class Solution {
+public:
+    int numPairsDivisibleBy60(vector<int>& time) {
+        unordered_map<int, int> mp;
+        int count = 0;
+        for(int val : time){
+            int r = val % 60;
+            int need = (60 - r) % 60;
+                count += mp[need];
+            mp[r]++;
+        }
+        return count;
+    }
+};
+
