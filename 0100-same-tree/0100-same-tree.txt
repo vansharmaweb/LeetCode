@@ -1,0 +1,27 @@
+/*
+ * Problem: Same Tree (#100)
+ * Difficulty: Easy
+ * Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/same-tree/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 12.9 MB
+ */
+
+        vector<int> second;
+        preOrder(p, first);
+        preOrder(q, second);
+        return first == second;
+    }
+private:
+    void preOrder(TreeNode* root, vector<int>& v){
+        if(root == NULL){
+            v.push_back(INT_MIN);
+            return;
+        }
+        v.push_back(root->val);
+        preOrder(root->left, v);
+        preOrder(root->right, v);
+    }
+};
+

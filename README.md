@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-43-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-33-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-10-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-44-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-34-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-10-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 
 ### Bit Manipulation
@@ -72,6 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
+### Breadth-First Search
+
+|  |
+| --- |
+| [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
+
 ### Bucket Sort
 
 |  |
@@ -96,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 
 ### Divide and Conquer
@@ -286,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 
 ### Two Pointers
