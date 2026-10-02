@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:02:53.557Z",
+  "updatedAt": "2026-10-02T20:03:19.731Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1374,6 +1374,29 @@
         "0917-reverse-only-letters"
       ],
       "commitMessage": "solve(easy): reverse-only-letters | Two Pointers, String"
+    },
+    "squares-of-a-sorted-array": {
+      "platform": "LeetCode",
+      "number": "977",
+      "title": "Squares of a Sorted Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:03:19.731Z",
+      "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "views": [
+        "0977-squares-of-a-sorted-array"
+      ],
+      "commitMessage": "solve(easy): squares-of-a-sorted-array | Array, Two Pointers"
     }
   }
 }

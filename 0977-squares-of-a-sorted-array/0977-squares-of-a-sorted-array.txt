@@ -1,0 +1,27 @@
+/*
+ * Problem: Squares of a Sorted Array (#977)
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/squares-of-a-sorted-array/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        int i = 0; int j = nums.size() - 1;
+        int k = nums.size() - 1;
+        vector<int> ans(nums.size());
+        while(i <= j){
+            int t1 = abs(nums[i]);
+            int t2 = abs(nums[j]);
+            if(t1 > t2){
+                ans[k] = nums[i] * nums[i];
+                i++;
+            }else{
+                ans[k] = nums[j] * nums[j];
+                j--;
+            }
+            k--;
+
