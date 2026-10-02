@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:09:28.457Z",
+  "updatedAt": "2026-10-02T20:09:45.655Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1784,6 +1784,31 @@
         "0050-powx-n"
       ],
       "commitMessage": "solve(medium): powx-n | Math, Recursion"
+    },
+    "search-in-rotated-sorted-array": {
+      "platform": "LeetCode",
+      "number": "33",
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:09:45.655Z",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "views": [
+        "0033-search-in-rotated-sorted-array"
+      ],
+      "commitMessage": "solve(medium): search-in-rotated-sorted-array | Array, Binary Search"
     }
   }
 }
