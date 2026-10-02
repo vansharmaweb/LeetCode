@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:57:53.448Z",
+  "updatedAt": "2026-10-02T19:58:14.922Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1137,6 +1137,33 @@
         "0215-kth-largest-element-in-an-array"
       ],
       "commitMessage": "solve(medium): kth-largest-element-in-an-array | Array, Divide and Conquer"
+    },
+    "group-anagrams": {
+      "platform": "LeetCode",
+      "number": "49",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "15 ms",
+      "memory": "25.1 MB",
+      "solvedAt": "2026-10-02T19:58:14.922Z",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "views": [
+        "0049-group-anagrams"
+      ],
+      "commitMessage": "solve(medium): group-anagrams | Array, Hash Table"
     }
   }
 }
