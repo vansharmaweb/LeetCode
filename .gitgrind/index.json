@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:24:28.769Z",
+  "updatedAt": "2026-10-02T19:24:48.679Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -178,6 +178,30 @@
         "0121-best-time-to-buy-and-sell-stock"
       ],
       "commitMessage": "solve(easy): best-time-to-buy-and-sell-stock | Array, Dynamic Programming"
+    },
+    "binary-search": {
+      "platform": "LeetCode",
+      "number": "704",
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "31.3 MB",
+      "solvedAt": "2026-10-02T19:24:48.679Z",
+      "url": "https://leetcode.com/problems/binary-search/",
+      "views": [
+        "0704-binary-search"
+      ],
+      "commitMessage": "solve(easy): binary-search | Array, Binary Search"
     }
   }
 }
