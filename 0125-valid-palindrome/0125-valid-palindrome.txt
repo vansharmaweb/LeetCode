@@ -1,0 +1,18 @@
+/*
+ * Problem: Valid Palindrome (#125)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/valid-palindrome/
+ * Solved on: 2026-10-02
+ * Runtime: 7 ms | Memory: 19.6 MB
+ */
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        a = ""
+        for i in s:
+            if i.isalnum():
+                a+=i.lower()
+        return a[::-1] == a
+

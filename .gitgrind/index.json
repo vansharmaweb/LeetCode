@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:59:45.468Z",
+  "updatedAt": "2026-10-02T20:00:41.744Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1236,6 +1236,33 @@
         "0004-median-of-two-sorted-arrays"
       ],
       "commitMessage": "solve(hard): median-of-two-sorted-arrays | Array, Binary Search"
+    },
+    "valid-palindrome": {
+      "platform": "LeetCode",
+      "number": "125",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "7 ms",
+      "memory": "19.6 MB",
+      "solvedAt": "2026-10-02T20:00:41.744Z",
+      "url": "https://leetcode.com/problems/valid-palindrome/",
+      "views": [
+        "0125-valid-palindrome"
+      ],
+      "commitMessage": "solve(easy): valid-palindrome | Two Pointers, String"
     }
   }
 }
