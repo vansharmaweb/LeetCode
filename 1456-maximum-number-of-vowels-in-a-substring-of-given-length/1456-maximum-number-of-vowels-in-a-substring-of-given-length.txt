@@ -1,0 +1,27 @@
+/*
+ * Problem: Maximum Number of Vowels in a Substring of Given Length (#1456)
+ * Difficulty: Medium
+ * Topics: String, Sliding Window
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 13.1 MB
+ */
+
+        while (j < s.length()) {
+            if (isVowel(s[j])) {
+                vowel++;
+            }
+            if ((j - i + 1) == k) {
+                maxVowel = max(maxVowel, vowel);
+                if (isVowel(s[i])) {
+                    vowel--;
+                }
+                i++;
+            }
+            j++;
+        }
+        return maxVowel;
+    }
+};
+
