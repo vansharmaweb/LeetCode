@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-56-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-41-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-57-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-42-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vansharmaweb/LeetCode/tree/main/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/vansharmaweb/LeetCode/tree/main/0709-to-lower-case) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |

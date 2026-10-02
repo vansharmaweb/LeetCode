@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:02:13.695Z",
+  "updatedAt": "2026-10-02T20:02:39.457Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1330,6 +1330,28 @@
         "3550-smallest-index-with-digit-sum-equal-to-index"
       ],
       "commitMessage": "solve(easy): smallest-index-with-digit-sum-equal-to-index | Array, Math"
+    },
+    "reverse-vowels-of-a-string": {
+      "platform": "LeetCode",
+      "number": "345",
+      "title": "Reverse Vowels of a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10.2 MB",
+      "solvedAt": "2026-10-02T20:02:39.457Z",
+      "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "views": [
+        "0345-reverse-vowels-of-a-string"
+      ],
+      "commitMessage": "solve(easy): reverse-vowels-of-a-string | Two Pointers, String"
     }
   }
 }
