@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:26:44.585Z",
+  "updatedAt": "2026-10-02T19:27:05.489Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -298,6 +298,29 @@
         "0141-linked-list-cycle"
       ],
       "commitMessage": "solve(easy): linked-list-cycle | Hash Table, Linked List"
+    },
+    "maximum-count-of-positive-integer-and-negative-integer": {
+      "platform": "LeetCode",
+      "number": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "21.5 MB",
+      "solvedAt": "2026-10-02T19:27:05.489Z",
+      "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+      "views": [
+        "2529-maximum-count-of-positive-integer-and-negative-integer"
+      ],
+      "commitMessage": "solve(easy): maximum-count-of-positive-integer-and-negative-integer | Array, Binary Search"
     }
   }
 }
