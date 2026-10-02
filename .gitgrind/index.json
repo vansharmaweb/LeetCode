@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:24:48.679Z",
+  "updatedAt": "2026-10-02T19:25:10.562Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -202,6 +202,31 @@
         "0704-binary-search"
       ],
       "commitMessage": "solve(easy): binary-search | Array, Binary Search"
+    },
+    "reverse-linked-list": {
+      "platform": "LeetCode",
+      "number": "206",
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "11.2 MB",
+      "solvedAt": "2026-10-02T19:25:10.562Z",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "views": [
+        "0206-reverse-linked-list"
+      ],
+      "commitMessage": "solve(easy): reverse-linked-list | Linked List, Recursion"
     }
   }
 }

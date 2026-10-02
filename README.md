@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-8-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-6-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-2-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-9-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-7-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-2-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -80,6 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 
+### Linked List
+
+|  |
+| --- |
+| [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
+
 ### Math
 
 |  |
@@ -98,6 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
+
+### Recursion
+
+|  |
+| --- |
+| [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 
 ### Simulation
 
