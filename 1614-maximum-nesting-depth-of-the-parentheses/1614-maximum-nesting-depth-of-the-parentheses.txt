@@ -1,0 +1,26 @@
+/*
+ * Problem: Maximum Nesting Depth of the Parentheses (#1614)
+ * Difficulty: Easy
+ * Topics: String, Stack, Bracket Sequences
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    int maxDepth(string s) {
+        int c1 = 0;
+        int c2;
+        for(char c : s){
+            if(c == '('){
+                c1++;
+            }else if(c == ')'){
+                c1--;
+            }
+            c2 = max(c2, c1);
+        }
+        return c2;
+    }
+};
+

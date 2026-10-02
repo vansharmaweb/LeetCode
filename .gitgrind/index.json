@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:05:26.832Z",
+  "updatedAt": "2026-10-02T20:05:44.041Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1511,6 +1511,29 @@
         "3870-count-commas-in-range"
       ],
       "commitMessage": "solve(easy): count-commas-in-range | Math"
+    },
+    "maximum-nesting-depth-of-the-parentheses": {
+      "platform": "LeetCode",
+      "number": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:05:44.041Z",
+      "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "views": [
+        "1614-maximum-nesting-depth-of-the-parentheses"
+      ],
+      "commitMessage": "solve(easy): maximum-nesting-depth-of-the-parentheses | String, Stack"
     }
   }
 }
