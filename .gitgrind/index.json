@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:24:09.399Z",
+  "updatedAt": "2026-10-02T19:24:28.769Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -151,6 +151,33 @@
         "0169-majority-element"
       ],
       "commitMessage": "solve(easy): majority-element | Array, Hash Table"
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "platform": "LeetCode",
+      "number": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "7 ms",
+      "memory": "97.3 MB",
+      "solvedAt": "2026-10-02T19:24:28.769Z",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "views": [
+        "0121-best-time-to-buy-and-sell-stock"
+      ],
+      "commitMessage": "solve(easy): best-time-to-buy-and-sell-stock | Array, Dynamic Programming"
     }
   }
 }
