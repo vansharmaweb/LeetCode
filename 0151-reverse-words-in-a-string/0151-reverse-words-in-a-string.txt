@@ -1,0 +1,28 @@
+/*
+ * Problem: Reverse Words in a String (#151)
+ * Difficulty: Medium
+ * Topics: Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-words-in-a-string/
+ * Solved on: 2026-10-02
+ * Runtime: 3 ms | Memory: 10.7 MB
+ */
+
+                ans += " " + word; 
+            }
+        }
+            }
+            reverse(word);
+            if(word.length() > 0){
+                word += st[i];
+                i++;
+        for(int i = 0; i < st.length(); i++){
+            string word = "";
+            while(i < st.length() && st[i] != ' '){
+        string ans;
+        reverse(st);
+public:
+    string reverseWords(string s) {
+        string st = s;
+class Solution {
+

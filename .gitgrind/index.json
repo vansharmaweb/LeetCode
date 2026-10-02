@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:55:24.742Z",
+  "updatedAt": "2026-10-02T19:55:43.488Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -962,6 +962,28 @@
         "0144-binary-tree-preorder-traversal"
       ],
       "commitMessage": "solve(easy): binary-tree-preorder-traversal | Stack, Tree"
+    },
+    "reverse-words-in-a-string": {
+      "platform": "LeetCode",
+      "number": "151",
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "3 ms",
+      "memory": "10.7 MB",
+      "solvedAt": "2026-10-02T19:55:43.488Z",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "views": [
+        "0151-reverse-words-in-a-string"
+      ],
+      "commitMessage": "solve(medium): reverse-words-in-a-string | Two Pointers, String"
     }
   }
 }
