@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:50:28.654Z",
+  "updatedAt": "2026-10-02T19:50:50.113Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -760,6 +760,30 @@
         "0028-find-the-index-of-the-first-occurrence-in-a-string"
       ],
       "commitMessage": "solve(easy): find-the-index-of-the-first-occurrence-in-a-string | Two Pointers, String"
+    },
+    "binary-tree-inorder-traversal": {
+      "platform": "LeetCode",
+      "number": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10.8 MB",
+      "solvedAt": "2026-10-02T19:50:50.113Z",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "views": [
+        "0094-binary-tree-inorder-traversal"
+      ],
+      "commitMessage": "solve(easy): binary-tree-inorder-traversal | Stack, Tree"
     }
   }
 }
