@@ -1,0 +1,23 @@
+/*
+ * Problem: Number of Employees Who Met the Target (#2798)
+ * Difficulty: Easy
+ * Topics: Array
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/number-of-employees-who-met-the-target/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 24.5 MB
+ */
+
+class Solution {
+public:
+    int numberOfEmployeesWhoMetTarget(vector<int>& hours, int target) {
+        int count = 0;
+        for(int val : hours){
+            if(val >= target){
+                count++;
+            }
+        }
+        return count;
+    }
+};
+

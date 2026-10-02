@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:51:11.392Z",
+  "updatedAt": "2026-10-02T19:51:41.386Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -807,6 +807,27 @@
         "0258-add-digits"
       ],
       "commitMessage": "solve(easy): add-digits | Math, Simulation"
+    },
+    "number-of-employees-who-met-the-target": {
+      "platform": "LeetCode",
+      "number": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "24.5 MB",
+      "solvedAt": "2026-10-02T19:51:41.386Z",
+      "url": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "views": [
+        "2798-number-of-employees-who-met-the-target"
+      ],
+      "commitMessage": "solve(easy): number-of-employees-who-met-the-target | Array"
     }
   }
 }
