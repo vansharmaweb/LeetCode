@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:29:31.842Z",
+  "updatedAt": "2026-10-02T19:30:04.311Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -443,6 +443,28 @@
         "2390-removing-stars-from-a-string"
       ],
       "commitMessage": "solve(medium): removing-stars-from-a-string | String, Stack"
+    },
+    "merge-strings-alternately": {
+      "platform": "LeetCode",
+      "number": "1768",
+      "title": "Merge Strings Alternately",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.5 MB",
+      "solvedAt": "2026-10-02T19:30:04.311Z",
+      "url": "https://leetcode.com/problems/merge-strings-alternately/",
+      "views": [
+        "1768-merge-strings-alternately"
+      ],
+      "commitMessage": "solve(easy): merge-strings-alternately | Two Pointers, String"
     }
   }
 }

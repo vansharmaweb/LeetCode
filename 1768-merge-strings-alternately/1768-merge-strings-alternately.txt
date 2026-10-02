@@ -1,0 +1,27 @@
+/*
+ * Problem: Merge Strings Alternately (#1768)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/merge-strings-alternately/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 8.5 MB
+ */
+
+    string mergeAlternately(string word1, string word2) {
+        string s = "";
+        int i = 0;
+
+        while (i < word1.length() || i < word2.length()) {
+            if (i < word1.length()) {
+                s += word1[i];
+            }
+            if (i < word2.length()) {
+                s += word2[i];
+            }
+            i++;
+        }
+        return s;
+    }
+};
+
