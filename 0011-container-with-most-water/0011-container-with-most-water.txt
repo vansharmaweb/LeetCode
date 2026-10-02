@@ -1,0 +1,28 @@
+/*
+ * Problem: Container With Most Water (#11)
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/container-with-most-water/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 62.8 MB
+ */
+
+public:
+    int maxArea(vector<int>& height) {
+        int lp = 0, rp = height.size()-1, ans = 0;
+        while(lp < rp){
+            int w = rp - lp;
+            int h = min(height[lp], height[rp]);
+            int curr_wat = w * h;
+            ans = max(curr_wat, ans);
+            if(height[lp] < height[rp])
+             lp++;
+            else 
+             rp--;
+        }
+        return ans;
+    }
+};
+class Solution {
+

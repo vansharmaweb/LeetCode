@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:28:12.379Z",
+  "updatedAt": "2026-10-02T19:28:38.232Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -370,6 +370,32 @@
         "0021-merge-two-sorted-lists"
       ],
       "commitMessage": "solve(easy): merge-two-sorted-lists | Linked List, Recursion"
+    },
+    "container-with-most-water": {
+      "platform": "LeetCode",
+      "number": "11",
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "62.8 MB",
+      "solvedAt": "2026-10-02T19:28:38.232Z",
+      "url": "https://leetcode.com/problems/container-with-most-water/",
+      "views": [
+        "0011-container-with-most-water"
+      ],
+      "commitMessage": "solve(medium): container-with-most-water | Array, Two Pointers"
     }
   }
 }
