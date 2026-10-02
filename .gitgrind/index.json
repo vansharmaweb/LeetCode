@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:25:50.284Z",
+  "updatedAt": "2026-10-02T19:26:17.887Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -249,6 +249,28 @@
         "0344-reverse-string"
       ],
       "commitMessage": "solve(easy): reverse-string | Two Pointers, String"
+    },
+    "middle-of-the-linked-list": {
+      "platform": "LeetCode",
+      "number": "876",
+      "title": "Middle of the Linked List",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10 MB",
+      "solvedAt": "2026-10-02T19:26:17.887Z",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "views": [
+        "0876-middle-of-the-linked-list"
+      ],
+      "commitMessage": "solve(easy): middle-of-the-linked-list | Linked List, Two Pointers"
     }
   }
 }
