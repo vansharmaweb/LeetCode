@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:07:38.988Z",
+  "updatedAt": "2026-10-02T20:08:08.570Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1690,6 +1690,29 @@
         "0867-transpose-matrix"
       ],
       "commitMessage": "solve(easy): transpose-matrix | Array, Matrix"
+    },
+    "reverse-integer": {
+      "platform": "LeetCode",
+      "number": "7",
+      "title": "Reverse Integer",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:08:08.570Z",
+      "url": "https://leetcode.com/problems/reverse-integer/",
+      "views": [
+        "0007-reverse-integer"
+      ],
+      "commitMessage": "solve(medium): reverse-integer | Math"
     }
   }
 }

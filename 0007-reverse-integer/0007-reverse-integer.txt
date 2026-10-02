@@ -1,0 +1,27 @@
+/*
+ * Problem: Reverse Integer (#7)
+ * Difficulty: Medium
+ * Topics: Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-integer/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+private:
+    long rev(long n){
+        long y = 0;
+        while(n != 0){
+            y = (y * 10) + (n % 10);
+            n /= 10;
+        }
+        return y;
+    }
+
+public:
+    int reverse(int x) {
+        long ans;
+
+        ans = rev(x);
+
+
