@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:46:49.780Z",
+  "updatedAt": "2026-10-02T19:49:36.028Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -669,6 +669,28 @@
         "0026-remove-duplicates-from-sorted-array"
       ],
       "commitMessage": "solve(easy): remove-duplicates-from-sorted-array | Array, Two Pointers"
+    },
+    "remove-element": {
+      "platform": "LeetCode",
+      "number": "27",
+      "title": "Remove Element",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "solvedAt": "2026-10-02T19:49:36.028Z",
+      "url": "https://leetcode.com/problems/remove-element/",
+      "views": [
+        "0027-remove-element"
+      ],
+      "commitMessage": "solve(easy): remove-element | Array, Two Pointers"
     }
   }
 }

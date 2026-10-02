@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-28-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-20-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-29-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-21-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
