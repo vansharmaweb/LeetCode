@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:54:56.941Z",
+  "updatedAt": "2026-10-02T19:55:24.742Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -938,6 +938,30 @@
         "1002-find-common-characters"
       ],
       "commitMessage": "solve(easy): find-common-characters | Array, Hash Table"
+    },
+    "binary-tree-preorder-traversal": {
+      "platform": "LeetCode",
+      "number": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10.8 MB",
+      "solvedAt": "2026-10-02T19:55:24.742Z",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "views": [
+        "0144-binary-tree-preorder-traversal"
+      ],
+      "commitMessage": "solve(easy): binary-tree-preorder-traversal | Stack, Tree"
     }
   }
 }
