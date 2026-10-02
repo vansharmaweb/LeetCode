@@ -1,0 +1,28 @@
+/*
+ * Problem: Smallest Index With Digit Sum Equal to Index (#3550)
+ * Difficulty: Easy
+ * Topics: Array, Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+ * Solved on: 2026-10-02
+ * Runtime: 2 ms | Memory: 30.8 MB
+ */
+
+        }
+        return t;
+    }
+public:
+    int smallestIndex(vector<int>& nums) {
+        for(int i = 0; i < nums.size(); i++){
+            int s = sum(nums[i]);
+            if(s == i){
+                return i;
+            }else{
+        while(n > 0){
+            t += (n % 10);
+            n /= 10;
+    int sum(int n){
+        int t = 0;
+class Solution {
+private:
+

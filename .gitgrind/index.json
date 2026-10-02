@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:01:53.183Z",
+  "updatedAt": "2026-10-02T20:02:13.695Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1308,6 +1308,28 @@
         "1502-can-make-arithmetic-progression-from-sequence"
       ],
       "commitMessage": "solve(easy): can-make-arithmetic-progression-from-sequence | Array, Sorting"
+    },
+    "smallest-index-with-digit-sum-equal-to-index": {
+      "platform": "LeetCode",
+      "number": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "2 ms",
+      "memory": "30.8 MB",
+      "solvedAt": "2026-10-02T20:02:13.695Z",
+      "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "views": [
+        "3550-smallest-index-with-digit-sum-equal-to-index"
+      ],
+      "commitMessage": "solve(easy): smallest-index-with-digit-sum-equal-to-index | Array, Math"
     }
   }
 }
