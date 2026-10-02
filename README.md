@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-38-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-30-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-39-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-31-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vansharmaweb/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -183,6 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
+
+### Matrix
+
+|  |
+| --- |
+| [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
 
 ### Merge Sort
 

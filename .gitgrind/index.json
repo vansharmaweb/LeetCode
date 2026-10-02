@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:53:19.507Z",
+  "updatedAt": "2026-10-02T19:53:40.716Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -893,6 +893,28 @@
         "3232-find-if-digit-game-can-be-won"
       ],
       "commitMessage": "solve(easy): find-if-digit-game-can-be-won | Array, Math"
+    },
+    "richest-customer-wealth": {
+      "platform": "LeetCode",
+      "number": "1672",
+      "title": "Richest Customer Wealth",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "11.3 MB",
+      "solvedAt": "2026-10-02T19:53:40.716Z",
+      "url": "https://leetcode.com/problems/richest-customer-wealth/",
+      "views": [
+        "1672-richest-customer-wealth"
+      ],
+      "commitMessage": "solve(easy): richest-customer-wealth | Array, Matrix"
     }
   }
 }
