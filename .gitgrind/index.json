@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:03:19.731Z",
+  "updatedAt": "2026-10-02T20:03:35.008Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1397,6 +1397,29 @@
         "0977-squares-of-a-sorted-array"
       ],
       "commitMessage": "solve(easy): squares-of-a-sorted-array | Array, Two Pointers"
+    },
+    "power-of-two": {
+      "platform": "LeetCode",
+      "number": "231",
+      "title": "Power of Two",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:03:35.009Z",
+      "url": "https://leetcode.com/problems/power-of-two/",
+      "views": [
+        "0231-power-of-two"
+      ],
+      "commitMessage": "solve(easy): power-of-two | Math, Bit Manipulation"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-59-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-44-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-60-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-45-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
+| [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 
 ### Boyer–Moore Majority Vote Algorithm
 
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 
 ### Simulation
