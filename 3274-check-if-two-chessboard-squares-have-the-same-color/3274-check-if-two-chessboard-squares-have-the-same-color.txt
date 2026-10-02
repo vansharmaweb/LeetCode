@@ -1,0 +1,27 @@
+/*
+ * Problem: Check if Two Chessboard Squares Have the Same Color (#3274)
+ * Difficulty: Easy
+ * Topics: Math, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+private:
+    bool bOrw(string s){
+        int a = s[0];
+        int b = s[1];
+        int c = a + b;
+        if(c % 2 == 0){
+            return false;
+        }else{
+            return true;
+        }
+    }
+
+public:
+    bool checkTwoChessboards(string coordinate1, string coordinate2) {
+        return bOrw(coordinate1) == bOrw(coordinate2);
+    }
+

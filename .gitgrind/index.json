@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:12:03.454Z",
+  "updatedAt": "2026-10-02T20:12:18.291Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1970,6 +1970,28 @@
         "1812-determine-color-of-a-chessboard-square"
       ],
       "commitMessage": "solve(easy): determine-color-of-a-chessboard-square | Math, String"
+    },
+    "check-if-two-chessboard-squares-have-the-same-color": {
+      "platform": "LeetCode",
+      "number": "3274",
+      "title": "Check if Two Chessboard Squares Have the Same Color",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:12:18.291Z",
+      "url": "https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/",
+      "views": [
+        "3274-check-if-two-chessboard-squares-have-the-same-color"
+      ],
+      "commitMessage": "solve(easy): check-if-two-chessboard-squares-have-the-same-color | Math, String"
     }
   }
 }

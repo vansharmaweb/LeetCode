@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-84-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-63-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-85-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-64-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/vansharmaweb/LeetCode/tree/main/3870-count-commas-in-range) |
 
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 
 ### String Matching
