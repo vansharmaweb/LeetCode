@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:22:37.507Z",
+  "updatedAt": "2026-10-02T19:22:57.384Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -99,6 +99,32 @@
         "0912-sort-an-array"
       ],
       "commitMessage": "solve(medium): sort-an-array | Array, Divide and Conquer"
+    },
+    "maximum-subarray": {
+      "platform": "LeetCode",
+      "number": "53",
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "71.7 MB",
+      "solvedAt": "2026-10-02T19:22:57.384Z",
+      "url": "https://leetcode.com/problems/maximum-subarray/",
+      "views": [
+        "0053-maximum-subarray"
+      ],
+      "commitMessage": "solve(medium): maximum-subarray | Array, Divide and Conquer"
     }
   }
 }
