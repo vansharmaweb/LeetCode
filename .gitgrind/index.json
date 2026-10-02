@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:01:35.858Z",
+  "updatedAt": "2026-10-02T20:01:53.183Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1286,6 +1286,28 @@
         "2108-find-first-palindromic-string-in-the-array"
       ],
       "commitMessage": "solve(easy): find-first-palindromic-string-in-the-array | Array, Two Pointers"
+    },
+    "can-make-arithmetic-progression-from-sequence": {
+      "platform": "LeetCode",
+      "number": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "12.8 MB",
+      "solvedAt": "2026-10-02T20:01:53.183Z",
+      "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+      "views": [
+        "1502-can-make-arithmetic-progression-from-sequence"
+      ],
+      "commitMessage": "solve(easy): can-make-arithmetic-progression-from-sequence | Array, Sorting"
     }
   }
 }
