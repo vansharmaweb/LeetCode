@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:29:15.042Z",
+  "updatedAt": "2026-10-02T19:29:31.842Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -420,6 +420,29 @@
         "0234-palindrome-linked-list"
       ],
       "commitMessage": "solve(easy): palindrome-linked-list | Linked List, Two Pointers"
+    },
+    "removing-stars-from-a-string": {
+      "platform": "LeetCode",
+      "number": "2390",
+      "title": "Removing Stars From a String",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "18 ms",
+      "memory": "32.2 MB",
+      "solvedAt": "2026-10-02T19:29:31.842Z",
+      "url": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "views": [
+        "2390-removing-stars-from-a-string"
+      ],
+      "commitMessage": "solve(medium): removing-stars-from-a-string | String, Stack"
     }
   }
 }
