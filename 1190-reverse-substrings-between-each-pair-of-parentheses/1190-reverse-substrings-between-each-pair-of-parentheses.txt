@@ -1,0 +1,27 @@
+/*
+ * Problem: Reverse Substrings Between Each Pair of Parentheses (#1190)
+ * Difficulty: Medium
+ * Topics: String, Stack, Bracket Sequences
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    string reverseParentheses(string s) {
+        string st;
+        stack<int> stk;
+        for(char c : s){
+            if(c == '('){
+                stk.push(st.size());
+            }else if(c == ')'){
+                int start = stk.top();
+                stk.pop();
+                reverse(st.begin() + start, st.end());
+            }else{
+                st += c;
+            }
+        }
+        return st;
+

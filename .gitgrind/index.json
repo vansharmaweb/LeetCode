@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:04:05.674Z",
+  "updatedAt": "2026-10-02T20:04:19.948Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1445,6 +1445,29 @@
         "0191-number-of-1-bits"
       ],
       "commitMessage": "solve(easy): number-of-1-bits | Divide and Conquer, Bit Manipulation"
+    },
+    "reverse-substrings-between-each-pair-of-parentheses": {
+      "platform": "LeetCode",
+      "number": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:04:19.948Z",
+      "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "views": [
+        "1190-reverse-substrings-between-each-pair-of-parentheses"
+      ],
+      "commitMessage": "solve(medium): reverse-substrings-between-each-pair-of-parentheses | String, Stack"
     }
   }
 }
