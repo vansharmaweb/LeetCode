@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:08:08.570Z",
+  "updatedAt": "2026-10-02T20:08:40.181Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1713,6 +1713,29 @@
         "0007-reverse-integer"
       ],
       "commitMessage": "solve(medium): reverse-integer | Math"
+    },
+    "peak-index-in-a-mountain-array": {
+      "platform": "LeetCode",
+      "number": "852",
+      "title": "Peak Index in a Mountain Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Ternary Search"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:08:40.181Z",
+      "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "views": [
+        "0852-peak-index-in-a-mountain-array"
+      ],
+      "commitMessage": "solve(medium): peak-index-in-a-mountain-array | Array, Binary Search"
     }
   }
 }

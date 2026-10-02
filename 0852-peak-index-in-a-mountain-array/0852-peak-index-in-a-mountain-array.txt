@@ -1,0 +1,27 @@
+/*
+ * Problem: Peak Index in a Mountain Array (#852)
+ * Difficulty: Medium
+ * Topics: Array, Binary Search, Ternary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    int peakIndexInMountainArray(vector<int>& nums) {
+        int i = 0, j = nums.size() - 1;
+        int mid;
+        while(i < j){
+            mid = i + (j - i) / 2;
+            if(nums[mid] > nums[mid + 1]){
+                j = mid; 
+            }
+            else{
+                i = mid + 1;
+            }
+        }
+        return i;
+    }
+};
+
