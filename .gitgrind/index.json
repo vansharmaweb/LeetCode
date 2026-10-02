@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:03:35.008Z",
+  "updatedAt": "2026-10-02T20:04:05.674Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1420,6 +1420,31 @@
         "0231-power-of-two"
       ],
       "commitMessage": "solve(easy): power-of-two | Math, Bit Manipulation"
+    },
+    "number-of-1-bits": {
+      "platform": "LeetCode",
+      "number": "191",
+      "title": "Number of 1 Bits",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:04:05.674Z",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "views": [
+        "0191-number-of-1-bits"
+      ],
+      "commitMessage": "solve(easy): number-of-1-bits | Divide and Conquer, Bit Manipulation"
     }
   }
 }
