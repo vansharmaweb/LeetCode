@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:56:24.573Z",
+  "updatedAt": "2026-10-02T19:56:47.108Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1034,6 +1034,29 @@
         "0100-same-tree"
       ],
       "commitMessage": "solve(easy): same-tree | Tree, Depth-First Search"
+    },
+    "implement-stack-using-queues": {
+      "platform": "LeetCode",
+      "number": "225",
+      "title": "Implement Stack using Queues",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Design",
+        "Queue"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10 MB",
+      "solvedAt": "2026-10-02T19:56:47.108Z",
+      "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "views": [
+        "0225-implement-stack-using-queues"
+      ],
+      "commitMessage": "solve(easy): implement-stack-using-queues | Stack, Design"
     }
   }
 }
