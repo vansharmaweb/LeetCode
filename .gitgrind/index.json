@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:09:03.728Z",
+  "updatedAt": "2026-10-02T20:09:28.457Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1760,6 +1760,30 @@
         "2442-count-number-of-distinct-integers-after-reverse-operations"
       ],
       "commitMessage": "solve(medium): count-number-of-distinct-integers-after-reverse-operations | Array, Hash Table"
+    },
+    "powx-n": {
+      "platform": "LeetCode",
+      "number": "50",
+      "title": "Pow(x, n)",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:09:28.457Z",
+      "url": "https://leetcode.com/problems/powx-n/",
+      "views": [
+        "0050-powx-n"
+      ],
+      "commitMessage": "solve(medium): powx-n | Math, Recursion"
     }
   }
 }

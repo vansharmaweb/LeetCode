@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-75-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-56-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-18-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-76-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-56-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-19-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0007-reverse-integer](https://github.com/vansharmaweb/LeetCode/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/vansharmaweb/LeetCode/tree/main/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/vansharmaweb/LeetCode/tree/main/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
