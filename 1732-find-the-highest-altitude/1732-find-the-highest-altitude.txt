@@ -1,0 +1,23 @@
+/*
+ * Problem: Find the Highest Altitude (#1732)
+ * Difficulty: Easy
+ * Topics: Array, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-the-highest-altitude/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 10.8 MB
+ */
+
+class Solution {
+public:
+    int largestAltitude(vector<int>& gain) {
+        int ans = 0;
+        int maxCount = 0;
+        for(int val : gain){
+            ans += val;
+            maxCount = max(maxCount, ans);
+        }
+        return maxCount;
+    }
+};
+

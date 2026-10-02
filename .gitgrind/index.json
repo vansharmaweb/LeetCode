@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:49:54.535Z",
+  "updatedAt": "2026-10-02T19:50:09.965Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -712,6 +712,28 @@
         "0083-remove-duplicates-from-sorted-list"
       ],
       "commitMessage": "solve(easy): remove-duplicates-from-sorted-list | Linked List"
+    },
+    "find-the-highest-altitude": {
+      "platform": "LeetCode",
+      "number": "1732",
+      "title": "Find the Highest Altitude",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10.8 MB",
+      "solvedAt": "2026-10-02T19:50:09.965Z",
+      "url": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "views": [
+        "1732-find-the-highest-altitude"
+      ],
+      "commitMessage": "solve(easy): find-the-highest-altitude | Array, Prefix Sum"
     }
   }
 }
