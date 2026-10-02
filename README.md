@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-82-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-61-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-83-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-62-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/vansharmaweb/LeetCode/tree/main/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/vansharmaweb/LeetCode/tree/main/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/vansharmaweb/LeetCode/tree/main/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/vansharmaweb/LeetCode/tree/main/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |

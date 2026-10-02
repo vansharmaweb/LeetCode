@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:11:33.042Z",
+  "updatedAt": "2026-10-02T20:11:49.339Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1926,6 +1926,28 @@
         "2833-furthest-point-from-origin"
       ],
       "commitMessage": "solve(easy): furthest-point-from-origin | String, Counting"
+    },
+    "robot-return-to-origin": {
+      "platform": "LeetCode",
+      "number": "657",
+      "title": "Robot Return to Origin",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:11:49.339Z",
+      "url": "https://leetcode.com/problems/robot-return-to-origin/",
+      "views": [
+        "0657-robot-return-to-origin"
+      ],
+      "commitMessage": "solve(easy): robot-return-to-origin | String, Simulation"
     }
   }
 }
