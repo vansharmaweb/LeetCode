@@ -1,0 +1,27 @@
+/*
+ * Problem: Median of Two Sorted Arrays (#4)
+ * Difficulty: Hard
+ * Topics: Array, Binary Search, Divide and Conquer
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 95.8 MB
+ */
+
+        for(int val : nums1){
+            merged.push_back(val);
+        }
+        for(int val : nums2){
+            merged.push_back(val);
+        }
+        sort(merged.begin(), merged.end());
+        int n = merged.size();
+        if(merged.size() % 2 != 0){
+            return merged[(n)/2];
+        }else{
+            double ans = merged[n/2] + merged[(n/2)-1];
+            return ans/2;
+        }
+    }
+};
+

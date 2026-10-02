@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:59:04.212Z",
+  "updatedAt": "2026-10-02T19:59:45.468Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1209,6 +1209,33 @@
         "0035-search-insert-position"
       ],
       "commitMessage": "solve(easy): search-insert-position | Array, Binary Search"
+    },
+    "median-of-two-sorted-arrays": {
+      "platform": "LeetCode",
+      "number": "4",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "95.8 MB",
+      "solvedAt": "2026-10-02T19:59:45.468Z",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "views": [
+        "0004-median-of-two-sorted-arrays"
+      ],
+      "commitMessage": "solve(hard): median-of-two-sorted-arrays | Array, Binary Search"
     }
   }
 }
