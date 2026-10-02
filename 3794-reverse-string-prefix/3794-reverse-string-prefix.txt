@@ -1,0 +1,21 @@
+/*
+ * Problem: Reverse String Prefix (#3794)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-string-prefix/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    string reversePrefix(string s, int k) {
+        int j = k-1;
+        for(int i = 0; i < k /2; i++){
+            swap(s[i], s[j]);
+            j--;
+        }
+        return s;
+    }
+};
+

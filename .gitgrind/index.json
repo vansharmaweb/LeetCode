@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:12:18.291Z",
+  "updatedAt": "2026-10-02T20:12:32.994Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1992,6 +1992,28 @@
         "3274-check-if-two-chessboard-squares-have-the-same-color"
       ],
       "commitMessage": "solve(easy): check-if-two-chessboard-squares-have-the-same-color | Math, String"
+    },
+    "reverse-string-prefix": {
+      "platform": "LeetCode",
+      "number": "3794",
+      "title": "Reverse String Prefix",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:12:32.994Z",
+      "url": "https://leetcode.com/problems/reverse-string-prefix/",
+      "views": [
+        "3794-reverse-string-prefix"
+      ],
+      "commitMessage": "solve(easy): reverse-string-prefix | Two Pointers, String"
     }
   }
 }
