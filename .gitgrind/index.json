@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:53:40.716Z",
+  "updatedAt": "2026-10-02T19:54:56.941Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -915,6 +915,29 @@
         "1672-richest-customer-wealth"
       ],
       "commitMessage": "solve(easy): richest-customer-wealth | Array, Matrix"
+    },
+    "find-common-characters": {
+      "platform": "LeetCode",
+      "number": "1002",
+      "title": "Find Common Characters",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "15 ms",
+      "memory": "14.7 MB",
+      "solvedAt": "2026-10-02T19:54:56.941Z",
+      "url": "https://leetcode.com/problems/find-common-characters/",
+      "views": [
+        "1002-find-common-characters"
+      ],
+      "commitMessage": "solve(easy): find-common-characters | Array, Hash Table"
     }
   }
 }

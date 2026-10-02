@@ -1,0 +1,27 @@
+/*
+ * Problem: Find Common Characters (#1002)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-common-characters/
+ * Solved on: 2026-10-02
+ * Runtime: 15 ms | Memory: 14.7 MB
+ */
+
+            }
+            for (auto &it : freq) {
+                it.second = min(it.second, temp[it.first]);
+            }
+        }
+        
+        vector<string> result;
+        for (auto &it : freq) {
+            for (int i = 0; i < it.second; i++) {
+                result.push_back(string(1, it.first));
+            }
+        }
+        
+        return result;
+    }
+};
+
