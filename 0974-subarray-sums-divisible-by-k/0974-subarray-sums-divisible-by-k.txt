@@ -1,0 +1,27 @@
+/*
+ * Problem: Subarray Sums Divisible by K (#974)
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/subarray-sums-divisible-by-k/
+ * Solved on: 2026-10-02
+ * Runtime: 3 ms | Memory: 35.7 MB
+ */
+
+    int subarraysDivByK(vector<int>& nums, int k) {
+        unordered_map<int, int> mp;
+        mp[0] = 1;
+        int sum = 0, count = 0;
+
+        for(int val : nums){
+            sum += val;
+            int num = ((sum % k) + k) % k;
+            if(mp.find(num) != mp.end()){
+                count += mp[num];
+            }
+            mp[num]++;
+        }
+        return count;
+    }
+};
+

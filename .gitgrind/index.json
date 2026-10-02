@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:58:14.922Z",
+  "updatedAt": "2026-10-02T19:58:39.370Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1164,6 +1164,29 @@
         "0049-group-anagrams"
       ],
       "commitMessage": "solve(medium): group-anagrams | Array, Hash Table"
+    },
+    "subarray-sums-divisible-by-k": {
+      "platform": "LeetCode",
+      "number": "974",
+      "title": "Subarray Sums Divisible by K",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "3 ms",
+      "memory": "35.7 MB",
+      "solvedAt": "2026-10-02T19:58:39.370Z",
+      "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "views": [
+        "0974-subarray-sums-divisible-by-k"
+      ],
+      "commitMessage": "solve(medium): subarray-sums-divisible-by-k | Array, Hash Table"
     }
   }
 }
