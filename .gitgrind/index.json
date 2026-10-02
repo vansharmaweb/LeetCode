@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:55:43.488Z",
+  "updatedAt": "2026-10-02T19:56:01.502Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -984,6 +984,29 @@
         "0151-reverse-words-in-a-string"
       ],
       "commitMessage": "solve(medium): reverse-words-in-a-string | Two Pointers, String"
+    },
+    "rotate-array": {
+      "platform": "LeetCode",
+      "number": "189",
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "29.4 MB",
+      "solvedAt": "2026-10-02T19:56:01.502Z",
+      "url": "https://leetcode.com/problems/rotate-array/",
+      "views": [
+        "0189-rotate-array"
+      ],
+      "commitMessage": "solve(medium): rotate-array | Array, Math"
     }
   }
 }
