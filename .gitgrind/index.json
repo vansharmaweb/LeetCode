@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:21:33.193Z",
+  "updatedAt": "2026-10-02T19:22:37.507Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -71,6 +71,34 @@
         "0412-fizz-buzz"
       ],
       "commitMessage": "solve(easy): fizz-buzz | Math, String"
+    },
+    "sort-an-array": {
+      "platform": "LeetCode",
+      "number": "912",
+      "title": "Sort an Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Merge Sort",
+        "Bucket Sort",
+        "Radix Sort",
+        "Counting Sort"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "623 ms",
+      "memory": "295.8 MB",
+      "solvedAt": "2026-10-02T19:22:37.507Z",
+      "url": "https://leetcode.com/problems/sort-an-array/",
+      "views": [
+        "0912-sort-an-array"
+      ],
+      "commitMessage": "solve(medium): sort-an-array | Array, Divide and Conquer"
     }
   }
 }

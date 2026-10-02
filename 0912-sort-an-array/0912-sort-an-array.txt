@@ -1,0 +1,27 @@
+/*
+ * Problem: Sort an Array (#912)
+ * Difficulty: Medium
+ * Topics: Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sort-an-array/
+ * Solved on: 2026-10-02
+ * Runtime: 623 ms | Memory: 295.8 MB
+ */
+
+            int mid = st + (end - st) / 2;
+
+            mergesort(nums, st, mid);
+            mergesort(nums, mid + 1, end);
+
+            merge(nums, st, mid, end);
+        }
+    }
+
+public:
+    vector<int> sortArray(vector<int>& nums) {
+        if (nums.empty()) return nums; 
+        mergesort(nums, 0, nums.size() - 1);
+        return nums;
+    }
+};
+
