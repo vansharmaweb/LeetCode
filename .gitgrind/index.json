@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:57:29.464Z",
+  "updatedAt": "2026-10-02T19:57:53.448Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1110,6 +1110,33 @@
         "1010-pairs-of-songs-with-total-durations-divisible-by-60"
       ],
       "commitMessage": "solve(medium): pairs-of-songs-with-total-durations-divisible-by-60 | Array, Hash Table"
+    },
+    "kth-largest-element-in-an-array": {
+      "platform": "LeetCode",
+      "number": "215",
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "23 ms",
+      "memory": "72.5 MB",
+      "solvedAt": "2026-10-02T19:57:53.448Z",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "views": [
+        "0215-kth-largest-element-in-an-array"
+      ],
+      "commitMessage": "solve(medium): kth-largest-element-in-an-array | Array, Divide and Conquer"
     }
   }
 }
