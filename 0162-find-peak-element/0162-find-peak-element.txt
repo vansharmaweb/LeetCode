@@ -1,0 +1,27 @@
+/*
+ * Problem: Find Peak Element (#162)
+ * Difficulty: Medium
+ * Topics: Array, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-peak-element/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 12.5 MB
+ */
+
+public:
+    int findPeakElement(vector<int>& nums) {
+        int i = 0, j = nums.size() - 1;
+        int mid;
+        while(i < j){
+            mid = i + (j - i) / 2;
+            if(nums[mid] > nums[mid + 1]){
+                j = mid; 
+            }
+            else{
+                i = mid + 1;
+            }
+        }
+        return i;
+    }
+};
+

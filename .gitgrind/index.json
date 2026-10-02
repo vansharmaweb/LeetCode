@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:44:49.473Z",
+  "updatedAt": "2026-10-02T19:45:41.049Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -600,6 +600,28 @@
         "0392-is-subsequence"
       ],
       "commitMessage": "solve(easy): is-subsequence | Two Pointers, String"
+    },
+    "find-peak-element": {
+      "platform": "LeetCode",
+      "number": "162",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "12.5 MB",
+      "solvedAt": "2026-10-02T19:45:41.049Z",
+      "url": "https://leetcode.com/problems/find-peak-element/",
+      "views": [
+        "0162-find-peak-element"
+      ],
+      "commitMessage": "solve(medium): find-peak-element | Array, Binary Search"
     }
   }
 }
