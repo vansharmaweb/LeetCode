@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:25:10.562Z",
+  "updatedAt": "2026-10-02T19:25:50.284Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -227,6 +227,28 @@
         "0206-reverse-linked-list"
       ],
       "commitMessage": "solve(easy): reverse-linked-list | Linked List, Recursion"
+    },
+    "reverse-string": {
+      "platform": "LeetCode",
+      "number": "344",
+      "title": "Reverse String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "27.3 MB",
+      "solvedAt": "2026-10-02T19:25:50.284Z",
+      "url": "https://leetcode.com/problems/reverse-string/",
+      "views": [
+        "0344-reverse-string"
+      ],
+      "commitMessage": "solve(easy): reverse-string | Two Pointers, String"
     }
   }
 }
