@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:26:17.887Z",
+  "updatedAt": "2026-10-02T19:26:44.585Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -271,6 +271,33 @@
         "0876-middle-of-the-linked-list"
       ],
       "commitMessage": "solve(easy): middle-of-the-linked-list | Linked List, Two Pointers"
+    },
+    "linked-list-cycle": {
+      "platform": "LeetCode",
+      "number": "141",
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "8 ms",
+      "memory": "11.9 MB",
+      "solvedAt": "2026-10-02T19:26:44.585Z",
+      "url": "https://leetcode.com/problems/linked-list-cycle/",
+      "views": [
+        "0141-linked-list-cycle"
+      ],
+      "commitMessage": "solve(easy): linked-list-cycle | Hash Table, Linked List"
     }
   }
 }

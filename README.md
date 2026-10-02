@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-11-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-9-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-2-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-12-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-10-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-2-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -68,10 +68,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 
+### Floyd's Cycle Finding Algorithm
+
+|  |
+| --- |
+| [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
+
 ### Hash Table
 
 |  |
 | --- |
+| [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 
 ### Heap (Priority Queue)
@@ -84,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 
@@ -136,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
