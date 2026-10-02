@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-26-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-18-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-27-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-19-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -44,6 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 
+### Brainteaser
+
+|  |
+| --- |
+| [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
+
 ### Bucket Sort
 
 |  |
@@ -78,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
 ### Floyd's Cycle Finding Algorithm
 
@@ -85,6 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+
+### Game Theory
+
+|  |
+| --- |
+| [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
 ### Greedy
 
@@ -105,6 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
+
+### Impartial Game
+
+|  |
+| --- |
+| [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
 ### Interactive
 
@@ -129,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 
 ### Merge Sort
 

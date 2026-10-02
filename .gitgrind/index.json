@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:45:41.049Z",
+  "updatedAt": "2026-10-02T19:46:29.481Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -622,6 +622,31 @@
         "0162-find-peak-element"
       ],
       "commitMessage": "solve(medium): find-peak-element | Array, Binary Search"
+    },
+    "divisor-game": {
+      "platform": "LeetCode",
+      "number": "1025",
+      "title": "Divisor Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Game Theory",
+        "Impartial Game"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.7 MB",
+      "solvedAt": "2026-10-02T19:46:29.481Z",
+      "url": "https://leetcode.com/problems/divisor-game/",
+      "views": [
+        "1025-divisor-game"
+      ],
+      "commitMessage": "solve(easy): divisor-game | Math, Dynamic Programming"
     }
   }
 }
