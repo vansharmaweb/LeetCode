@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-67-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-51-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-68-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-52-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vansharmaweb/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
