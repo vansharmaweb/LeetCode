@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:27:05.489Z",
+  "updatedAt": "2026-10-02T19:27:34.716Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -321,6 +321,30 @@
         "2529-maximum-count-of-positive-integer-and-negative-integer"
       ],
       "commitMessage": "solve(easy): maximum-count-of-positive-integer-and-negative-integer | Array, Binary Search"
+    },
+    "linked-list-cycle-ii": {
+      "platform": "LeetCode",
+      "number": "142",
+      "title": "Linked List Cycle II",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "10 ms",
+      "memory": "11.5 MB",
+      "solvedAt": "2026-10-02T19:27:34.716Z",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "views": [
+        "0142-linked-list-cycle-ii"
+      ],
+      "commitMessage": "solve(medium): linked-list-cycle-ii | Hash Table, Linked List"
     }
   }
 }

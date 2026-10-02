@@ -1,0 +1,27 @@
+/*
+ * Problem: Linked List Cycle II (#142)
+ * Difficulty: Medium
+ * Topics: Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/linked-list-cycle-ii/
+ * Solved on: 2026-10-02
+ * Runtime: 10 ms | Memory: 11.5 MB
+ */
+
+            if(slow == fast){
+                cycle_list = true;
+                break;
+            }
+        }
+        if(!cycle_list){
+            return NULL;
+        }
+        slow = head;
+        while(slow != fast){
+            slow = slow->next;
+            fast = fast->next;
+        }
+        return fast;
+    }
+};
+
