@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:30:04.311Z",
+  "updatedAt": "2026-10-02T19:30:40.646Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -465,6 +465,28 @@
         "1768-merge-strings-alternately"
       ],
       "commitMessage": "solve(easy): merge-strings-alternately | Two Pointers, String"
+    },
+    "guess-number-higher-or-lower": {
+      "platform": "LeetCode",
+      "number": "374",
+      "title": "Guess Number Higher or Lower",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Binary Search",
+        "Interactive"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.8 MB",
+      "solvedAt": "2026-10-02T19:30:40.646Z",
+      "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+      "views": [
+        "0374-guess-number-higher-or-lower"
+      ],
+      "commitMessage": "solve(easy): guess-number-higher-or-lower | Binary Search, Interactive"
     }
   }
 }
