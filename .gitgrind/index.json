@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:06:48.963Z",
+  "updatedAt": "2026-10-02T20:07:03.070Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1624,6 +1624,28 @@
         "1920-build-array-from-permutation"
       ],
       "commitMessage": "solve(easy): build-array-from-permutation | Array, Simulation"
+    },
+    "concatenation-of-array": {
+      "platform": "LeetCode",
+      "number": "1929",
+      "title": "Concatenation of Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:07:03.070Z",
+      "url": "https://leetcode.com/problems/concatenation-of-array/",
+      "views": [
+        "1929-concatenation-of-array"
+      ],
+      "commitMessage": "solve(easy): concatenation-of-array | Array, Simulation"
     }
   }
 }
