@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:06:00.721Z",
+  "updatedAt": "2026-10-02T20:06:16.550Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1558,6 +1558,27 @@
         "0145-binary-tree-postorder-traversal"
       ],
       "commitMessage": "solve(easy): binary-tree-postorder-traversal | Stack, Tree"
+    },
+    "check-if-word-equals-summation-of-two-words": {
+      "platform": "LeetCode",
+      "number": "1880",
+      "title": "Check if Word Equals Summation of Two Words",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:06:16.550Z",
+      "url": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/",
+      "views": [
+        "1880-check-if-word-equals-summation-of-two-words"
+      ],
+      "commitMessage": "solve(easy): check-if-word-equals-summation-of-two-words | String"
     }
   }
 }
