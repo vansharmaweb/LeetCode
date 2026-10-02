@@ -1,0 +1,27 @@
+/*
+ * Problem: Merge Two Sorted Lists (#21)
+ * Difficulty: Easy
+ * Topics: Linked List, Recursion
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/merge-two-sorted-lists/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 19.4 MB
+ */
+
+ */
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
+        if(head1 == NULL || head2 == NULL){
+            return head1 == NULL ? head2 : head1;
+        }
+        if(head1->val <= head2->val){
+            head1->next = mergeTwoLists(head1->next, head2);
+            return head1;
+        }else{
+            head2->next = mergeTwoLists(head1,head2->next);
+            return head2;
+        }
+    }
+};
+

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:27:34.716Z",
+  "updatedAt": "2026-10-02T19:28:12.379Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -345,6 +345,31 @@
         "0142-linked-list-cycle-ii"
       ],
       "commitMessage": "solve(medium): linked-list-cycle-ii | Hash Table, Linked List"
+    },
+    "merge-two-sorted-lists": {
+      "platform": "LeetCode",
+      "number": "21",
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "19.4 MB",
+      "solvedAt": "2026-10-02T19:28:12.379Z",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "views": [
+        "0021-merge-two-sorted-lists"
+      ],
+      "commitMessage": "solve(easy): merge-two-sorted-lists | Linked List, Recursion"
     }
   }
 }

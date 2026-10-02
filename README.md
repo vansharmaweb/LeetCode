@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-14-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-11-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-3-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-15-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-12-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-3-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 
 ### Simulation
