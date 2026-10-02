@@ -1,0 +1,27 @@
+/*
+ * Problem: Palindrome Linked List (#234)
+ * Difficulty: Easy
+ * Topics: Linked List, Two Pointers, Stack, Recursion
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/palindrome-linked-list/
+ * Solved on: 2026-10-02
+ * Runtime: 7 ms | Memory: 132.2 MB
+ */
+
+        ListNode* temp = head;
+        while(temp != NULL){
+            v.push_back(temp->val);
+            temp = temp->next;
+        }
+        int i = 0, j = v.size() - 1;
+        while(i < j){
+            if(v[i] != v[j]){
+                return false;
+            }
+            i++;
+            j--;
+        }
+        return true;
+    }
+};
+

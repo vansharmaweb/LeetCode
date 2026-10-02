@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:28:38.232Z",
+  "updatedAt": "2026-10-02T19:29:15.042Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -396,6 +396,30 @@
         "0011-container-with-most-water"
       ],
       "commitMessage": "solve(medium): container-with-most-water | Array, Two Pointers"
+    },
+    "palindrome-linked-list": {
+      "platform": "LeetCode",
+      "number": "234",
+      "title": "Palindrome Linked List",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "7 ms",
+      "memory": "132.2 MB",
+      "solvedAt": "2026-10-02T19:29:15.042Z",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/",
+      "views": [
+        "0234-palindrome-linked-list"
+      ],
+      "commitMessage": "solve(easy): palindrome-linked-list | Linked List, Two Pointers"
     }
   }
 }
