@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:20:58.813Z",
+  "updatedAt": "2026-10-02T19:21:33.193Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -48,6 +48,29 @@
         "0136-single-number"
       ],
       "commitMessage": "solve(easy): single-number | Array, Bit Manipulation"
+    },
+    "fizz-buzz": {
+      "platform": "LeetCode",
+      "number": "412",
+      "title": "Fizz Buzz",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "11.8 MB",
+      "solvedAt": "2026-10-02T19:21:33.193Z",
+      "url": "https://leetcode.com/problems/fizz-buzz/",
+      "views": [
+        "0412-fizz-buzz"
+      ],
+      "commitMessage": "solve(easy): fizz-buzz | Math, String"
     }
   }
 }
