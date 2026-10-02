@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repositoryVersion": "1.0",
+  "createdAt": "2026-10-02T19:18:54.533Z",
+  "updatedAt": "2026-10-02T19:18:55.739Z",
+  "problems": {
+    "palindrome-number": {
+      "platform": "LeetCode",
+      "number": "9",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T19:18:55.739Z",
+      "url": "https://leetcode.com/problems/palindrome-number/",
+      "views": [
+        "0009-palindrome-number"
+      ],
+      "commitMessage": "solve(easy): palindrome-number | Math"
+    }
+  }
+}

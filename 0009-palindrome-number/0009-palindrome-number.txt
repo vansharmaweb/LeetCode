@@ -1,0 +1,27 @@
+/*
+ * Problem: Palindrome Number (#9)
+ * Difficulty: Easy
+ * Topics: Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/palindrome-number/
+ * Solved on: 2026-10-02
+ */
+
+    if(x < 0){
+        return false;
+    }
+    else{
+        while(x > 0){
+            count = (count * 10) + (x % 10);
+            x /= 10;
+        }
+        if(count == y){
+            return true;
+        }
+        else{
+            return false;
+        }
+bool isPalindrome(int x) {
+    long int y = x;
+    long int count = 0;
+
