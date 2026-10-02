@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-81-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-60-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-82-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-61-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-20-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
 
 ### Counting Sort
 
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vansharmaweb/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 
 ### String Matching

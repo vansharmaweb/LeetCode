@@ -1,0 +1,27 @@
+/*
+ * Problem: Furthest Point From Origin (#2833)
+ * Difficulty: Easy
+ * Topics: String, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/furthest-point-from-origin/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    int furthestDistanceFromOrigin(string moves) {
+        int cL = 0;
+        int cR = 0;
+        int cU = 0;
+        for(char c : moves){
+            if(c == 'L'){
+                cL++;
+            }else if(c == 'R'){
+                cR++;
+            }else{
+                cU++;
+            }
+        }
+        int maximum = abs(cL-cR)+cU;
+        return maximum;
+

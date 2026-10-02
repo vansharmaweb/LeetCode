@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:11:17.879Z",
+  "updatedAt": "2026-10-02T20:11:33.042Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1904,6 +1904,28 @@
         "0507-perfect-number"
       ],
       "commitMessage": "solve(easy): perfect-number | Math"
+    },
+    "furthest-point-from-origin": {
+      "platform": "LeetCode",
+      "number": "2833",
+      "title": "Furthest Point From Origin",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:11:33.042Z",
+      "url": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "views": [
+        "2833-furthest-point-from-origin"
+      ],
+      "commitMessage": "solve(easy): furthest-point-from-origin | String, Counting"
     }
   }
 }
