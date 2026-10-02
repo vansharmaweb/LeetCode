@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:50:09.965Z",
+  "updatedAt": "2026-10-02T19:50:28.654Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -734,6 +734,32 @@
         "1732-find-the-highest-altitude"
       ],
       "commitMessage": "solve(easy): find-the-highest-altitude | Array, Prefix Sum"
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "platform": "LeetCode",
+      "number": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching",
+        "Z Algorithm",
+        "Knuth–Morris–Pratt Algorithm",
+        "Boyer–Moore String-Search Algorithm"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "19.3 MB",
+      "solvedAt": "2026-10-02T19:50:28.654Z",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "views": [
+        "0028-find-the-index-of-the-first-occurrence-in-a-string"
+      ],
+      "commitMessage": "solve(easy): find-the-index-of-the-first-occurrence-in-a-string | Two Pointers, String"
     }
   }
 }

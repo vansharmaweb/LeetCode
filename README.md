@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-31-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-23-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-32-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-24-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-8-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -46,6 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
+
+### Boyer–Moore String-Search Algorithm
+
+|  |
+| --- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 
 ### Brainteaser
 
@@ -134,6 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
 
+### Knuth–Morris–Pratt Algorithm
+
+|  |
+| --- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
 ### Linked List
 
 |  |
@@ -212,12 +224,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
+
+### String Matching
+
+|  |
+| --- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 
 ### Two Pointers
 
@@ -226,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
@@ -234,3 +254,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
+
+### Z Algorithm
+
+|  |
+| --- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
