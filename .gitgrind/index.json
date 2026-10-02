@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T19:56:47.108Z",
+  "updatedAt": "2026-10-02T19:57:07.620Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1057,6 +1057,36 @@
         "0225-implement-stack-using-queues"
       ],
       "commitMessage": "solve(easy): implement-stack-using-queues | Stack, Design"
+    },
+    "two-sum": {
+      "platform": "LeetCode",
+      "number": "1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "companies": [
+        "Amazon",
+        "Google",
+        "Meta",
+        "Microsoft"
+      ],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.7 MB",
+      "solvedAt": "2026-10-02T19:57:07.620Z",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "views": [
+        "0001-two-sum"
+      ],
+      "commitMessage": "solve(easy): two-sum | Array, Hash Table"
     }
   }
 }

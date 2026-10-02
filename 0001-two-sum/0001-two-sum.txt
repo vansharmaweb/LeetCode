@@ -1,0 +1,25 @@
+/*
+ * Problem: Two Sum (#1)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/two-sum/
+ * Solved on: 2026-10-02
+ * Runtime: 0 ms | Memory: 14.7 MB
+ */
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> diffMap;
+        for(int i = 0; i < nums.size(); i++){
+            int diff = target - nums[i];
+            if(diffMap.find(diff) != diffMap.end()){
+                return {diffMap[diff],i};
+            }
+            diffMap[nums[i]] = i;
+        }
+        return {};
+    }
+};
+
