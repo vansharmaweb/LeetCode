@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:09:45.655Z",
+  "updatedAt": "2026-10-02T20:10:05.932Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -1809,6 +1809,28 @@
         "0033-search-in-rotated-sorted-array"
       ],
       "commitMessage": "solve(medium): search-in-rotated-sorted-array | Array, Binary Search"
+    },
+    "matrix-diagonal-sum": {
+      "platform": "LeetCode",
+      "number": "1572",
+      "title": "Matrix Diagonal Sum",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Matrix"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-02T20:10:05.932Z",
+      "url": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "views": [
+        "1572-matrix-diagonal-sum"
+      ],
+      "commitMessage": "solve(easy): matrix-diagonal-sum | Array, Matrix"
     }
   }
 }
