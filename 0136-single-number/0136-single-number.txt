@@ -1,0 +1,20 @@
+/*
+ * Problem: Single Number (#136)
+ * Difficulty: Easy
+ * Topics: Array, Bit Manipulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/single-number/
+ * Solved on: 2026-10-02
+ */
+
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int ans = 0;
+        for(int val : nums){
+            ans = ans ^ val;
+        }
+        return ans;
+    }
+};
+
