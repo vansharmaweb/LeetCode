@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-03T17:04:19.356Z",
+  "updatedAt": "2026-10-03T17:04:55.265Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2038,6 +2038,27 @@
         "0155-min-stack"
       ],
       "commitMessage": "solve(medium): min-stack | Stack, Design"
+    },
+    "find-the-integer-added-to-array-i": {
+      "platform": "LeetCode",
+      "number": "3131",
+      "title": "Find the Integer Added to Array I",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "35.3 MB",
+      "solvedAt": "2026-10-03T17:04:55.265Z",
+      "url": "https://leetcode.com/problems/find-the-integer-added-to-array-i/",
+      "views": [
+        "3131-find-the-integer-added-to-array-i"
+      ],
+      "commitMessage": "solve(easy): find-the-integer-added-to-array-i | Array"
     }
   }
 }

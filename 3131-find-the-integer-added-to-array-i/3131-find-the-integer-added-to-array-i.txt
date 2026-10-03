@@ -1,0 +1,24 @@
+/*
+ * Problem: Find the Integer Added to Array I (#3131)
+ * Difficulty: Easy
+ * Topics: Array
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-the-integer-added-to-array-i/
+ * Solved on: 2026-10-03
+ * Runtime: 0 ms | Memory: 35.3 MB
+ */
+
+class Solution {
+public:
+    int addedInteger(vector<int>& nums1, vector<int>& nums2) {
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
+        int num = abs(nums1[0] - nums2[0]);
+        if(nums2[0] > nums1[0]){
+            return num;
+        }else{
+            return -num;
+        }
+    }
+};
+
