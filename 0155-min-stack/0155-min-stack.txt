@@ -1,0 +1,28 @@
+/*
+ * Problem: Min Stack (#155)
+ * Difficulty: Medium
+ * Topics: Stack, Design
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/min-stack/
+ * Solved on: 2026-10-03
+ * Runtime: 64 ms | Memory: 151.2 MB
+ */
+
+    }
+            minSt.push(min(value, minSt.top()));
+        }
+        if(minSt.empty()){
+            minSt.push(value);
+        }else{
+    void push(int value) {
+        st.push(value);
+        
+    }
+    
+public:
+    MinStack() {
+private:
+    stack<int> st;
+    stack<int> minSt;
+class MinStack {
+

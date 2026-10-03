@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-02T20:12:32.994Z",
+  "updatedAt": "2026-10-03T17:04:19.356Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2014,6 +2014,30 @@
         "3794-reverse-string-prefix"
       ],
       "commitMessage": "solve(easy): reverse-string-prefix | Two Pointers, String"
+    },
+    "min-stack": {
+      "platform": "LeetCode",
+      "number": "155",
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "64 ms",
+      "memory": "151.2 MB",
+      "solvedAt": "2026-10-03T17:04:19.356Z",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "views": [
+        "0155-min-stack"
+      ],
+      "commitMessage": "solve(medium): min-stack | Stack, Design"
     }
   }
 }
