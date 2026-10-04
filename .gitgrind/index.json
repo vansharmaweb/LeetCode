@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-04T17:12:46.943Z",
+  "updatedAt": "2026-10-04T17:13:43.171Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2097,9 +2097,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "3 ms",
-      "memory": null,
-      "solvedAt": "2026-10-04T17:12:46.943Z",
+      "runtime": "4 ms",
+      "memory": "106.80\nMB",
+      "solvedAt": "2026-10-04T17:13:43.171Z",
       "url": "https://leetcode.com/problems/destroying-asteroids/",
       "views": [
         "2126-destroying-asteroids"

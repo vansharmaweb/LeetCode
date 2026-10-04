@@ -5,7 +5,8 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/destroying-asteroids/
  * Solved on: 2026-10-04
- * Runtime: 3 ms | Memory: null
+ * Runtime: 4 ms | Memory: 106.80
+MB
  */
 
         }
@@ -13,7 +14,7 @@
         return count == 0;
     }
         sort(asteroids.begin(), asteroids.end());
-        for(long val : asteroids){
+        for(int val : asteroids){
             if(mass >= val){
                 mass += val;
                 count--;
