@@ -1,0 +1,29 @@
+/*
+ * Problem: Distribute Elements Into Two Arrays I (#3069)
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+ * Solved on: 2026-10-04
+ * Runtime: 0 ms | Memory: 23.80
+MB
+ */
+
+        }
+                arr2.push_back(nums[i]);
+            }
+        for(int val : arr2){
+            arr1.push_back(val);
+                arr1.push_back(nums[i]);
+            }else{
+        vector<int> arr2;
+        for(int i = 2; i < nums.size(); i++){
+            if(arr1.back() > arr2.back()){
+    vector<int> resultArray(vector<int>& nums) {
+        vector<int> arr1;
+        }
+        return arr1;
+    }
+        arr1.push_back(nums[0]);
+        arr2.push_back(nums[1]);
+

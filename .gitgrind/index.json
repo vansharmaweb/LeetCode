@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-04T17:13:43.171Z",
+  "updatedAt": "2026-10-04T17:50:07.144Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2105,6 +2105,29 @@
         "2126-destroying-asteroids"
       ],
       "commitMessage": "solve(medium): destroying-asteroids | Array, Greedy"
+    },
+    "distribute-elements-into-two-arrays-i": {
+      "platform": "LeetCode",
+      "number": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "23.80\nMB",
+      "solvedAt": "2026-10-04T17:50:07.144Z",
+      "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "views": [
+        "3069-distribute-elements-into-two-arrays-i"
+      ],
+      "commitMessage": "solve(easy): distribute-elements-into-two-arrays-i | Array, Two Pointers"
     }
   }
 }
