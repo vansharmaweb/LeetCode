@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-04T16:19:12.941Z",
+  "updatedAt": "2026-10-04T16:45:32.678Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2082,6 +2082,29 @@
         "3184-count-pairs-that-form-a-complete-day-i"
       ],
       "commitMessage": "solve(easy): count-pairs-that-form-a-complete-day-i | Array, Hash Table"
+    },
+    "destroying-asteroids": {
+      "platform": "LeetCode",
+      "number": "2126",
+      "title": "Destroying Asteroids",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-04T16:45:32.678Z",
+      "url": "https://leetcode.com/problems/destroying-asteroids/",
+      "views": [
+        "2126-destroying-asteroids"
+      ],
+      "commitMessage": "solve(medium): destroying-asteroids | Array, Greedy"
     }
   }
 }

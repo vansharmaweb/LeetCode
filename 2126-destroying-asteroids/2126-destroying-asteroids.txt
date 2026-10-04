@@ -1,0 +1,25 @@
+/*
+ * Problem: Destroying Asteroids (#2126)
+ * Difficulty: Medium
+ * Topics: Array, Greedy, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/destroying-asteroids/
+ * Solved on: 2026-10-04
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
+        int count = asteroids.size();
+            if(mass >= val){
+        }
+        for(int val : asteroids){
+                mass += val;
+            }
+    }
+                count--;
+        return count == 0;
+        sort(asteroids.begin(), asteroids.end());
+};
+
