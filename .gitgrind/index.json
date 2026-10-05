@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-05T06:43:14.555Z",
+  "updatedAt": "2026-10-05T06:48:28.728Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2169,8 +2169,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": null,
-      "solvedAt": "2026-10-05T06:43:14.556Z",
+      "memory": "85.91\nMB",
+      "solvedAt": "2026-10-05T06:48:28.728Z",
       "url": "https://leetcode.com/problems/maximum-gap/",
       "views": [
         "0164-maximum-gap"
