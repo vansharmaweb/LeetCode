@@ -1,0 +1,30 @@
+/*
+ * Problem: Score of Parentheses (#856)
+ * Difficulty: Medium
+ * Topics: String, Stack, Bracket Sequences
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/score-of-parentheses/
+ * Solved on: 2026-10-05
+ * Runtime: 0 ms | Memory: 8.22
+MB
+ */
+
+            }else{
+        }
+                }
+                    score += 2 * fun(s, i);
+                }else if(s[i] == '('){
+                    i++;
+                return score;
+            }
+                    score++;
+                if(s[i] == ')'){
+            if(s[i] == '('){
+                i++;
+        int score = 0;
+        while(i < s.length()){
+    int fun(string s, int &i){
+private:
+class Solution {
+                i++;
+

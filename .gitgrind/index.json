@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-04T17:50:07.144Z",
+  "updatedAt": "2026-10-05T06:28:59.183Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2128,6 +2128,29 @@
         "3069-distribute-elements-into-two-arrays-i"
       ],
       "commitMessage": "solve(easy): distribute-elements-into-two-arrays-i | Array, Two Pointers"
+    },
+    "score-of-parentheses": {
+      "platform": "LeetCode",
+      "number": "856",
+      "title": "Score of Parentheses",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.22\nMB",
+      "solvedAt": "2026-10-05T06:28:59.183Z",
+      "url": "https://leetcode.com/problems/score-of-parentheses/",
+      "views": [
+        "0856-score-of-parentheses"
+      ],
+      "commitMessage": "solve(medium): score-of-parentheses | String, Stack"
     }
   }
 }
