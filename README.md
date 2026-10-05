@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-92-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-68-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-23-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-93-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-68-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-24-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 
 ### Counting
@@ -308,6 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 
+### Pigeonhole Principle
+
+|  |
+| --- |
+| [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
+
 ### Prefix Sum
 
 |  |
@@ -332,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 
 ### Recursion
@@ -369,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |

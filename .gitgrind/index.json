@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-05T06:28:59.183Z",
+  "updatedAt": "2026-10-05T06:43:14.555Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2151,6 +2151,31 @@
         "0856-score-of-parentheses"
       ],
       "commitMessage": "solve(medium): score-of-parentheses | String, Stack"
+    },
+    "maximum-gap": {
+      "platform": "LeetCode",
+      "number": "164",
+      "title": "Maximum Gap",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Bucket Sort",
+        "Radix Sort",
+        "Pigeonhole Principle"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-05T06:43:14.556Z",
+      "url": "https://leetcode.com/problems/maximum-gap/",
+      "views": [
+        "0164-maximum-gap"
+      ],
+      "commitMessage": "solve(medium): maximum-gap | Array, Sorting"
     }
   }
 }
