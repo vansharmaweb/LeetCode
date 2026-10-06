@@ -1,0 +1,26 @@
+/*
+ * Problem: Minimum Add to Make Parentheses Valid (#921)
+ * Difficulty: Medium
+ * Topics: String, Stack, Greedy, Bracket Sequences
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+ * Solved on: 2026-10-06
+ * Runtime: 0 ms | Memory: 8.58
+MB
+ */
+
+        for(int i = 0; i < s.length(); i++){
+    int minAddToMakeValid(string s) {
+public:
+class Solution {
+        stack<char> st;
+                continue;
+            }else{
+                st.push(s[i]);
+            }
+            if(st.empty()){
+                st.push(s[i]);
+            }else if(st.top() == '(' && s[i] == ')'){
+                st.pop();
+        }
+

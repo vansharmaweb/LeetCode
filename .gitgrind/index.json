@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-05T06:48:28.728Z",
+  "updatedAt": "2026-10-06T04:06:30.592Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2176,6 +2176,30 @@
         "0164-maximum-gap"
       ],
       "commitMessage": "solve(medium): maximum-gap | Array, Sorting"
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "platform": "LeetCode",
+      "number": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.58\nMB",
+      "solvedAt": "2026-10-06T04:06:30.592Z",
+      "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "views": [
+        "0921-minimum-add-to-make-parentheses-valid"
+      ],
+      "commitMessage": "solve(medium): minimum-add-to-make-parentheses-valid | String, Stack"
     }
   }
 }
