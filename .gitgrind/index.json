@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-06T10:04:19.233Z",
+  "updatedAt": "2026-10-06T10:50:55.881Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2223,6 +2223,28 @@
         "1137-n-th-tribonacci-number"
       ],
       "commitMessage": "solve(easy): n-th-tribonacci-number | Math, Dynamic Programming"
+    },
+    "single-number-ii": {
+      "platform": "LeetCode",
+      "number": "137",
+      "title": "Single Number II",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.09\nMB",
+      "solvedAt": "2026-10-06T10:50:55.881Z",
+      "url": "https://leetcode.com/problems/single-number-ii/",
+      "views": [
+        "0137-single-number-ii"
+      ],
+      "commitMessage": "solve(medium): single-number-ii | Array, Bit Manipulation"
     }
   }
 }

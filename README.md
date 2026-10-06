@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-95-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-25-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-96-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-26-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vansharmaweb/LeetCode/tree/main/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 
