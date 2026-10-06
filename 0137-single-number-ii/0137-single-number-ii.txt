@@ -5,23 +5,20 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/single-number-ii/
  * Solved on: 2026-10-06
- * Runtime: 0 ms | Memory: 14.09
+ * Runtime: 0 ms | Memory: 13.43
 MB
  */
 
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int unique = 0;
-        unordered_map<int, int> mp;
-        for(int val : nums){
-            mp[val]++;
+        for(int i = 1; i < nums.size(); i += 3){
+        sort(nums.begin(), nums.end());
+            if(nums[i] != nums[i - 1]){
         }
-        for(auto it : mp){
-            if(it.second < 3){
-        }
-                unique = it.first;
+                return nums[i -1];
             }
-        return unique;
     }
+        return nums[nums.size() - 1];
+};
 
