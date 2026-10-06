@@ -5,20 +5,21 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/single-number-ii/
  * Solved on: 2026-10-06
- * Runtime: 0 ms | Memory: 13.43
+ * Runtime: 0 ms | Memory: 13.27
 MB
  */
 
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        for(int i = 1; i < nums.size(); i += 3){
         sort(nums.begin(), nums.end());
+        for(int i = 1; i < n; i += 3){
             if(nums[i] != nums[i - 1]){
-        }
                 return nums[i -1];
             }
+        }
+        return nums[n - 1];
     }
-        return nums[nums.size() - 1];
+        int n = nums.size();
 };
 
