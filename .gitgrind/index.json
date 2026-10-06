@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-06T04:06:30.592Z",
+  "updatedAt": "2026-10-06T10:04:19.233Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2200,6 +2200,29 @@
         "0921-minimum-add-to-make-parentheses-valid"
       ],
       "commitMessage": "solve(medium): minimum-add-to-make-parentheses-valid | String, Stack"
+    },
+    "n-th-tribonacci-number": {
+      "platform": "LeetCode",
+      "number": "1137",
+      "title": "N-th Tribonacci Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.99\nMB",
+      "solvedAt": "2026-10-06T10:04:19.233Z",
+      "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "views": [
+        "1137-n-th-tribonacci-number"
+      ],
+      "commitMessage": "solve(easy): n-th-tribonacci-number | Math, Dynamic Programming"
     }
   }
 }
