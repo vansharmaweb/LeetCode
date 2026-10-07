@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-100-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-72-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-101-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-73-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vansharmaweb/LeetCode/tree/main/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansharmaweb/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vansharmaweb/LeetCode/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vansharmaweb/LeetCode/tree/main/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vansharmaweb/LeetCode/tree/main/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0070-climbing-stairs](https://github.com/vansharmaweb/LeetCode/tree/main/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/1137-n-th-tribonacci-number) |
 

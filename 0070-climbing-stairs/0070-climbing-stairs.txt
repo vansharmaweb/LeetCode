@@ -1,0 +1,26 @@
+/*
+ * Problem: Climbing Stairs (#70)
+ * Difficulty: Easy
+ * Topics: Math, Dynamic Programming, Memoization
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/climbing-stairs/
+ * Solved on: 2026-10-07
+ * Runtime: 0 ms | Memory: null
+ */
+
+        if(n == 0){
+            return 0;
+        }
+        for(int i = 2; i <= n; i++){
+            c = a + b;
+            a = b;
+            b = c;
+        int c;
+        int b = 1;
+        int a = 0;
+    int climbStairs(int n) {
+public:
+        if(n == 1){
+            return 1;
+        }
+

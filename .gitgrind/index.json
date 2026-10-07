@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-07T06:18:13.262Z",
+  "updatedAt": "2026-10-07T06:31:33.635Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2337,6 +2337,32 @@
         "0509-fibonacci-number"
       ],
       "commitMessage": "solve(easy): fibonacci-number | Math, Dynamic Programming"
+    },
+    "climbing-stairs": {
+      "platform": "LeetCode",
+      "number": "70",
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-07T06:31:33.635Z",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "views": [
+        "0070-climbing-stairs"
+      ],
+      "commitMessage": "solve(easy): climbing-stairs | Math, Dynamic Programming"
     }
   }
 }
