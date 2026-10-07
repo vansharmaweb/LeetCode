@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-96-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-26-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-97-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vansharmaweb/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 
 ### Hash Table
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
 
 ### Impartial Game
 

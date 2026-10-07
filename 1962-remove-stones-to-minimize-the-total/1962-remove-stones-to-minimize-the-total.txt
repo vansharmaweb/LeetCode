@@ -1,0 +1,25 @@
+/*
+ * Problem: Remove Stones to Minimize the Total (#1962)
+ * Difficulty: Medium
+ * Topics: Array, Greedy, Heap (Priority Queue)
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+ * Solved on: 2026-10-07
+ * Runtime: 0 ms | Memory: null
+ */
+
+        }
+        for(int i = 0; i < k; i++){
+            pq.push(temp - floor(temp/2));
+        }
+        while(!pq.empty()){
+            pq.push(val);
+            int temp = pq.top();
+            pq.pop();
+public:
+    int minStoneSum(vector<int>& piles, int k) {
+        priority_queue<int> pq;
+        int total = 0;
+        for(int val : piles){
+class Solution {
+

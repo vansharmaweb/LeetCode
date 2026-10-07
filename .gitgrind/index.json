@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-06T11:00:18.687Z",
+  "updatedAt": "2026-10-07T05:11:14.310Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2245,6 +2245,29 @@
         "0137-single-number-ii"
       ],
       "commitMessage": "solve(medium): single-number-ii | Array, Bit Manipulation"
+    },
+    "remove-stones-to-minimize-the-total": {
+      "platform": "LeetCode",
+      "number": "1962",
+      "title": "Remove Stones to Minimize the Total",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-07T05:11:14.310Z",
+      "url": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "views": [
+        "1962-remove-stones-to-minimize-the-total"
+      ],
+      "commitMessage": "solve(medium): remove-stones-to-minimize-the-total | Array, Greedy"
     }
   }
 }
