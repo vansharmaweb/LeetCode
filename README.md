@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-98-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-70-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-99-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-71-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 
 ### Binary Tree
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 
 ### Stack
