@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-07T05:14:56.093Z",
+  "updatedAt": "2026-10-07T05:55:32.989Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2268,6 +2268,28 @@
         "1962-remove-stones-to-minimize-the-total"
       ],
       "commitMessage": "solve(medium): remove-stones-to-minimize-the-total | Array, Greedy"
+    },
+    "find-words-containing-character": {
+      "platform": "LeetCode",
+      "number": "2942",
+      "title": "Find Words Containing Character",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "32.93\nMB",
+      "solvedAt": "2026-10-07T05:55:32.989Z",
+      "url": "https://leetcode.com/problems/find-words-containing-character/",
+      "views": [
+        "2942-find-words-containing-character"
+      ],
+      "commitMessage": "solve(easy): find-words-containing-character | Array, String"
     }
   }
 }

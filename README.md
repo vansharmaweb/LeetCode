@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-97-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-98-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-70-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vansharmaweb/LeetCode/tree/main/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/vansharmaweb/LeetCode/tree/main/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vansharmaweb/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
+| [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/vansharmaweb/LeetCode/tree/main/3794-reverse-string-prefix) |

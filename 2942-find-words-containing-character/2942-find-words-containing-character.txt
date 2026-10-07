@@ -1,0 +1,27 @@
+/*
+ * Problem: Find Words Containing Character (#2942)
+ * Difficulty: Easy
+ * Topics: Array, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-words-containing-character/
+ * Solved on: 2026-10-07
+ * Runtime: 0 ms | Memory: 32.93
+MB
+ */
+
+    vector<int> findWordsContaining(vector<string>& words, char x) {
+        vector<int> ans;
+        for(int i = 0; i < words.size(); i++){
+            for(int j = 0; j < words[i].size(); j++){
+                if(words[i][j] == x){
+            }
+                    flag = true;
+                }
+        bool flag = false;
+            if(flag){
+                ans.push_back(i);
+            }
+        }
+        return ans;
+            flag = false;
+
