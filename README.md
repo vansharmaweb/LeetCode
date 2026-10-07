@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-101-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-73-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-102-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-74-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vansharmaweb/LeetCode/tree/main/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/vansharmaweb/LeetCode/tree/main/0917-reverse-only-letters) |

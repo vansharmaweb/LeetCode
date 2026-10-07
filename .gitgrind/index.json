@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-07T06:31:33.635Z",
+  "updatedAt": "2026-10-07T10:43:59.682Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2363,6 +2363,31 @@
         "0070-climbing-stairs"
       ],
       "commitMessage": "solve(easy): climbing-stairs | Math, Dynamic Programming"
+    },
+    "intersection-of-two-arrays": {
+      "platform": "LeetCode",
+      "number": "349",
+      "title": "Intersection of Two Arrays",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.33\nMB",
+      "solvedAt": "2026-10-07T10:43:59.682Z",
+      "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "views": [
+        "0349-intersection-of-two-arrays"
+      ],
+      "commitMessage": "solve(easy): intersection-of-two-arrays | Array, Hash Table"
     }
   }
 }

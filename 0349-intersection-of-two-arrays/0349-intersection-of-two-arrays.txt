@@ -1,0 +1,27 @@
+/*
+ * Problem: Intersection of Two Arrays (#349)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Two Pointers, Binary Search, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/intersection-of-two-arrays/
+ * Solved on: 2026-10-07
+ * Runtime: 0 ms | Memory: 14.33
+MB
+ */
+
+            if(it != s.end() && it->second == 1){
+                ans.push_back(val);
+            auto it = s.find(val);
+                it->second = 0;
+            }
+        }
+        return ans;
+        for(int val : nums2){
+        for(int val : nums1){
+            s[val] = 1;
+        }
+        vector<int> ans;
+        unordered_map<int, int> s;
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+public:
+
