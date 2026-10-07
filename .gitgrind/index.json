@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-07T05:58:25.484Z",
+  "updatedAt": "2026-10-07T06:14:14.875Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2313,6 +2313,30 @@
         "2089-find-target-indices-after-sorting-array"
       ],
       "commitMessage": "solve(easy): find-target-indices-after-sorting-array | Array, Binary Search"
+    },
+    "fibonacci-number": {
+      "platform": "LeetCode",
+      "number": "509",
+      "title": "Fibonacci Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "3 ms",
+      "memory": "7.83\nMB",
+      "solvedAt": "2026-10-07T06:14:14.875Z",
+      "url": "https://leetcode.com/problems/fibonacci-number/",
+      "views": [
+        "0509-fibonacci-number"
+      ],
+      "commitMessage": "solve(easy): fibonacci-number | Math, Dynamic Programming"
     }
   }
 }
