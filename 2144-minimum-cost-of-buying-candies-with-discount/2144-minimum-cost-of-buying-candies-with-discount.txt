@@ -5,21 +5,22 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
  * Solved on: 2026-10-08
- * Runtime: 0 ms | Memory: 14.23
+ * Runtime: 0 ms | Memory: 14.05
 MB
  */
 
-        sort(cost.begin(), cost.end());
-        int count = 0;
-    int minimumCost(vector<int>& cost) {
-        return count;
 class Solution {
 public:
-        for(int i = cost.size() - 1; i >= 0; i-=3){
-            count += cost[i];
+    int minimumCost(vector<int>& cost) {
+        int count = 0;
+        sort(cost.begin(), cost.end(), greater<int>());
+        for(int i = 1; i <= cost.size(); i++){
+            if(i % 3 == 0){
         }
+                continue;
+            }
     }
-            if(i - 1 >= 0)
-                count += cost[i - 1];
+            count += cost[i - 1];
+        return count;
 };
 
