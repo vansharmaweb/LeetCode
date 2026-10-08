@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-07T10:43:59.682Z",
+  "updatedAt": "2026-10-08T13:21:57.041Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2388,6 +2388,29 @@
         "0349-intersection-of-two-arrays"
       ],
       "commitMessage": "solve(easy): intersection-of-two-arrays | Array, Hash Table"
+    },
+    "minimum-cost-of-buying-candies-with-discount": {
+      "platform": "LeetCode",
+      "number": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.23\nMB",
+      "solvedAt": "2026-10-08T13:21:57.041Z",
+      "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "views": [
+        "2144-minimum-cost-of-buying-candies-with-discount"
+      ],
+      "commitMessage": "solve(easy): minimum-cost-of-buying-candies-with-discount | Array, Greedy"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-102-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-74-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-103-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-75-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-27-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vansharmaweb/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 
 ### Hash Table
 
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 
 ### Stack
 
