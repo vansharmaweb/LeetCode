@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-08T13:21:57.041Z",
+  "updatedAt": "2026-10-08T13:34:43.602Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2411,6 +2411,28 @@
         "2144-minimum-cost-of-buying-candies-with-discount"
       ],
       "commitMessage": "solve(easy): minimum-cost-of-buying-candies-with-discount | Array, Greedy"
+    },
+    "minimum-absolute-difference": {
+      "platform": "LeetCode",
+      "number": "1200",
+      "title": "Minimum Absolute Difference",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "36.68\nMB",
+      "solvedAt": "2026-10-08T13:34:43.602Z",
+      "url": "https://leetcode.com/problems/minimum-absolute-difference/",
+      "views": [
+        "1200-minimum-absolute-difference"
+      ],
+      "commitMessage": "solve(easy): minimum-absolute-difference | Array, Sorting"
     }
   }
 }
