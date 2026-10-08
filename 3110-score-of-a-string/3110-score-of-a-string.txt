@@ -1,0 +1,24 @@
+/*
+ * Problem: Score of a String (#3110)
+ * Difficulty: Easy
+ * Topics: String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/score-of-a-string/
+ * Solved on: 2026-10-08
+ * Runtime: 0 ms | Memory: 8.94
+MB
+ */
+
+class Solution {
+public:
+    int scoreOfString(string s) {
+        int i = 0;
+        while(i < s.length() - 1){
+            count += abs(s[i] - s[i+1]);
+        }
+    }
+        int count = 0;
+        return count;
+            i++;
+};
+

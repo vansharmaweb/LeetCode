@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-08T13:34:43.602Z",
+  "updatedAt": "2026-10-08T13:49:34.497Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2433,6 +2433,27 @@
         "1200-minimum-absolute-difference"
       ],
       "commitMessage": "solve(easy): minimum-absolute-difference | Array, Sorting"
+    },
+    "score-of-a-string": {
+      "platform": "LeetCode",
+      "number": "3110",
+      "title": "Score of a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.94\nMB",
+      "solvedAt": "2026-10-08T13:49:34.497Z",
+      "url": "https://leetcode.com/problems/score-of-a-string/",
+      "views": [
+        "3110-score-of-a-string"
+      ],
+      "commitMessage": "solve(easy): score-of-a-string | String"
     }
   }
 }
