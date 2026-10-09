@@ -1,0 +1,29 @@
+/*
+ * Problem: Minimum Insertions to Balance a Parentheses String (#1541)
+ * Difficulty: Medium
+ * Topics: String, Stack, Greedy, Bracket Sequences
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+ * Solved on: 2026-10-09
+ * Runtime: 0 ms | Memory: 19.33
+MB
+ */
+
+                }else{
+                    count++;
+                }
+                if(st.empty()){
+                    count++;
+                }else{
+                    i++;
+                if(s[i+1] == ')'){
+            }else{
+                st.push(s[i]);
+            if(s[i] == '('){
+        int count = 0;
+        for(int i = 0; i < s.length(); i++){
+        stack<int> st;
+    int minInsertions(string s) {
+public:
+class Solution {
+

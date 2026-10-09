@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-08T13:56:24.307Z",
+  "updatedAt": "2026-10-09T17:27:06.315Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2454,6 +2454,30 @@
         "3110-score-of-a-string"
       ],
       "commitMessage": "solve(easy): score-of-a-string | String"
+    },
+    "minimum-insertions-to-balance-a-parentheses-string": {
+      "platform": "LeetCode",
+      "number": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "19.33\nMB",
+      "solvedAt": "2026-10-09T17:27:06.315Z",
+      "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "views": [
+        "1541-minimum-insertions-to-balance-a-parentheses-string"
+      ],
+      "commitMessage": "solve(medium): minimum-insertions-to-balance-a-parentheses-string | String, Stack"
     }
   }
 }
