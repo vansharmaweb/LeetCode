@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-09T17:27:06.315Z",
+  "updatedAt": "2026-10-10T15:57:08.232Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2478,6 +2478,28 @@
         "1541-minimum-insertions-to-balance-a-parentheses-string"
       ],
       "commitMessage": "solve(medium): minimum-insertions-to-balance-a-parentheses-string | String, Stack"
+    },
+    "minimum-element-after-replacement-with-digit-sum": {
+      "platform": "LeetCode",
+      "number": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "27.76\nMB",
+      "solvedAt": "2026-10-10T15:57:08.232Z",
+      "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "views": [
+        "3300-minimum-element-after-replacement-with-digit-sum"
+      ],
+      "commitMessage": "solve(easy): minimum-element-after-replacement-with-digit-sum | Array, Math"
     }
   }
 }
