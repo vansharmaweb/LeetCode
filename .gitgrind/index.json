@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-11T17:22:07.382Z",
+  "updatedAt": "2026-10-11T17:24:37.442Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2537,9 +2537,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "1215 ms",
-      "memory": null,
-      "solvedAt": "2026-10-11T17:22:07.382Z",
+      "runtime": "0 ms",
+      "memory": "7.82\nMB",
+      "solvedAt": "2026-10-11T17:24:37.442Z",
       "url": "https://leetcode.com/problems/sum-of-square-numbers/",
       "views": [
         "0633-sum-of-square-numbers"

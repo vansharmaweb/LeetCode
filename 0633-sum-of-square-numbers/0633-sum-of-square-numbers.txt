@@ -5,21 +5,22 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/sum-of-square-numbers/
  * Solved on: 2026-10-11
- * Runtime: 1215 ms | Memory: null
+ * Runtime: 0 ms | Memory: 7.82
+MB
  */
 
                 j--;
-            }else if((pow(i, 2)+pow(j, 2)) < c){
+            }else if(((i*i)+(j*j)) < c){
                 i++;
-            if((pow(i, 2)+pow(j, 2)) > c){
+            if(((i*i)+(j*j)) > c){
         while(i <= j){
         }
-        long j = c/2;
-        if(c == 1){
-            return true;
             }else{
                 return true;
             }
+        long j = sqrt(c);
+        if(c == 1){
+            return true;
     bool judgeSquareSum(int c) {
         int i = 0;
 class Solution {
