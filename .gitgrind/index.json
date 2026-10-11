@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-10T15:57:08.232Z",
+  "updatedAt": "2026-10-11T16:54:33.179Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2500,6 +2500,28 @@
         "3300-minimum-element-after-replacement-with-digit-sum"
       ],
       "commitMessage": "solve(easy): minimum-element-after-replacement-with-digit-sum | Array, Math"
+    },
+    "sum-of-squares-of-special-elements": {
+      "platform": "LeetCode",
+      "number": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-11T16:54:33.179Z",
+      "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "views": [
+        "2778-sum-of-squares-of-special-elements"
+      ],
+      "commitMessage": "solve(easy): sum-of-squares-of-special-elements | Array, Enumeration"
     }
   }
 }
