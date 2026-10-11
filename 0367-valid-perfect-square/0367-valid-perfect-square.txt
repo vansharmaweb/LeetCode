@@ -5,22 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/valid-perfect-square/
  * Solved on: 2026-10-11
- * Runtime: 0 ms | Memory: null
+ * Runtime: 0 ms | Memory: 7.80
+MB
  */
 
 class Solution {
 public:
     bool isPerfectSquare(int num) {
-        long long i = 0;
-        while(i <= num/2){
+        long i = 1;
+        if (num == 1) return true;
+        while(i <= num/i){
             if(i*i == num){
                 return true;
             }else{
-        }
                 i++;
             }
-    }
+        }
         return false;
-        if (num == 1) return true;
+    }
 };
 
