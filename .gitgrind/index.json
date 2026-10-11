@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-11T16:54:33.179Z",
+  "updatedAt": "2026-10-11T17:22:07.382Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2522,6 +2522,29 @@
         "2778-sum-of-squares-of-special-elements"
       ],
       "commitMessage": "solve(easy): sum-of-squares-of-special-elements | Array, Enumeration"
+    },
+    "sum-of-square-numbers": {
+      "platform": "LeetCode",
+      "number": "633",
+      "title": "Sum of Square Numbers",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "1215 ms",
+      "memory": null,
+      "solvedAt": "2026-10-11T17:22:07.382Z",
+      "url": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "views": [
+        "0633-sum-of-square-numbers"
+      ],
+      "commitMessage": "solve(medium): sum-of-square-numbers | Math, Two Pointers"
     }
   }
 }

@@ -1,0 +1,27 @@
+/*
+ * Problem: Sum of Square Numbers (#633)
+ * Difficulty: Medium
+ * Topics: Math, Two Pointers, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sum-of-square-numbers/
+ * Solved on: 2026-10-11
+ * Runtime: 1215 ms | Memory: null
+ */
+
+                j--;
+            }else if((pow(i, 2)+pow(j, 2)) < c){
+                i++;
+            if((pow(i, 2)+pow(j, 2)) > c){
+        while(i <= j){
+        }
+        long j = c/2;
+        if(c == 1){
+            return true;
+            }else{
+                return true;
+            }
+    bool judgeSquareSum(int c) {
+        int i = 0;
+class Solution {
+public:
+
