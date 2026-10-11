@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-109-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-79-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-110-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-80-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-29-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vansharmaweb/LeetCode/tree/main/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/vansharmaweb/LeetCode/tree/main/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0292-nim-game](https://github.com/vansharmaweb/LeetCode/tree/main/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/vansharmaweb/LeetCode/tree/main/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/vansharmaweb/LeetCode/tree/main/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |

@@ -1,0 +1,26 @@
+/*
+ * Problem: Valid Perfect Square (#367)
+ * Difficulty: Easy
+ * Topics: Math, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/valid-perfect-square/
+ * Solved on: 2026-10-11
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    bool isPerfectSquare(int num) {
+        long long i = 0;
+        while(i <= num/2){
+            if(i*i == num){
+                return true;
+            }else{
+        }
+                i++;
+            }
+    }
+        return false;
+        if (num == 1) return true;
+};
+

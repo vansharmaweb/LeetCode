@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-11T17:24:37.442Z",
+  "updatedAt": "2026-10-11T18:24:38.411Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2545,6 +2545,28 @@
         "0633-sum-of-square-numbers"
       ],
       "commitMessage": "solve(medium): sum-of-square-numbers | Math, Two Pointers"
+    },
+    "valid-perfect-square": {
+      "platform": "LeetCode",
+      "number": "367",
+      "title": "Valid Perfect Square",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-11T18:24:38.411Z",
+      "url": "https://leetcode.com/problems/valid-perfect-square/",
+      "views": [
+        "0367-valid-perfect-square"
+      ],
+      "commitMessage": "solve(easy): valid-perfect-square | Math, Binary Search"
     }
   }
 }
