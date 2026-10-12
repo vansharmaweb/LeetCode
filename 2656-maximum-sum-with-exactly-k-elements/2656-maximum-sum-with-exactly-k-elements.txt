@@ -1,0 +1,27 @@
+/*
+ * Problem: Maximum Sum With Exactly K Elements  (#2656)
+ * Difficulty: Easy
+ * Topics: Array, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+ * Solved on: 2026-10-12
+ * Runtime: 0 ms | Memory: 76.56
+MB
+ */
+
+public:
+    int maximizeSum(vector<int>& nums, int k) {
+        int m = INT_MIN;
+        for(int val : nums){
+            if(val > m){
+                m = val;
+            }
+        }
+        for(int i = 0; i < k; i++){
+        int sum = 0;
+            sum += (m+i);
+        }
+    }
+        return sum;
+};
+

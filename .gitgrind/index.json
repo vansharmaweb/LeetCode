@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-12T06:24:39.223Z",
+  "updatedAt": "2026-10-12T06:46:32.897Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2632,6 +2632,28 @@
         "1491-average-salary-excluding-the-minimum-and-maximum-salary"
       ],
       "commitMessage": "solve(easy): average-salary-excluding-the-minimum-and-maximum-salary | Array, Sorting"
+    },
+    "maximum-sum-with-exactly-k-elements": {
+      "platform": "LeetCode",
+      "number": "2656",
+      "title": "Maximum Sum With Exactly K Elements ",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "76.56\nMB",
+      "solvedAt": "2026-10-12T06:46:32.897Z",
+      "url": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/",
+      "views": [
+        "2656-maximum-sum-with-exactly-k-elements"
+      ],
+      "commitMessage": "solve(easy): maximum-sum-with-exactly-k-elements | Array, Greedy"
     }
   }
 }
