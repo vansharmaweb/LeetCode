@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-12T06:46:32.897Z",
+  "updatedAt": "2026-10-12T07:05:21.287Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2654,6 +2654,30 @@
         "2656-maximum-sum-with-exactly-k-elements"
       ],
       "commitMessage": "solve(easy): maximum-sum-with-exactly-k-elements | Array, Greedy"
+    },
+    "backspace-string-compare": {
+      "platform": "LeetCode",
+      "number": "844",
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.52\nMB",
+      "solvedAt": "2026-10-12T07:05:21.287Z",
+      "url": "https://leetcode.com/problems/backspace-string-compare/",
+      "views": [
+        "0844-backspace-string-compare"
+      ],
+      "commitMessage": "solve(easy): backspace-string-compare | Two Pointers, String"
     }
   }
 }

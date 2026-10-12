@@ -1,0 +1,26 @@
+/*
+ * Problem: Backspace String Compare (#844)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String, Stack, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/backspace-string-compare/
+ * Solved on: 2026-10-12
+ * Runtime: 0 ms | Memory: 8.52
+MB
+ */
+
+                st2.pop();
+            if(c == '#'){
+        for(char c : t){
+        }
+            }else{
+            if(st2.empty() && c == '#') continue;
+                st2.push(c);
+            }
+        }
+        return st1 == st2;
+    }
+};
+            }
+                st1.push(c);
+
