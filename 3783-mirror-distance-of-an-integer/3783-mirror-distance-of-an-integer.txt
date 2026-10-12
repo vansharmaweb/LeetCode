@@ -1,0 +1,27 @@
+/*
+ * Problem: Mirror Distance of an Integer (#3783)
+ * Difficulty: Easy
+ * Topics: Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/mirror-distance-of-an-integer/
+ * Solved on: 2026-10-12
+ * Runtime: 0 ms | Memory: 8.52
+MB
+ */
+
+class Solution {
+private:
+    int rev(int n){
+        while(n > 0){
+    }
+public:
+    int mirrorDistance(int n) {
+        return abs(n - rev(n));
+        int r = 0;
+            r = (r * 10) + (n % 10);
+        }
+    }
+            n /= 10;
+        return r;
+};
+

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-12T06:12:09.967Z",
+  "updatedAt": "2026-10-12T06:15:15.849Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2589,6 +2589,27 @@
         "3658-gcd-of-odd-and-even-sums"
       ],
       "commitMessage": "solve(easy): gcd-of-odd-and-even-sums | Math, Number Theory"
+    },
+    "mirror-distance-of-an-integer": {
+      "platform": "LeetCode",
+      "number": "3783",
+      "title": "Mirror Distance of an Integer",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.52\nMB",
+      "solvedAt": "2026-10-12T06:15:15.849Z",
+      "url": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+      "views": [
+        "3783-mirror-distance-of-an-integer"
+      ],
+      "commitMessage": "solve(easy): mirror-distance-of-an-integer | Math"
     }
   }
 }
