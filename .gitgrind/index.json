@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-12T06:15:15.849Z",
+  "updatedAt": "2026-10-12T06:24:39.223Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2610,6 +2610,28 @@
         "3783-mirror-distance-of-an-integer"
       ],
       "commitMessage": "solve(easy): mirror-distance-of-an-integer | Math"
+    },
+    "average-salary-excluding-the-minimum-and-maximum-salary": {
+      "platform": "LeetCode",
+      "number": "1491",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "9.46\nMB",
+      "solvedAt": "2026-10-12T06:24:39.223Z",
+      "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+      "views": [
+        "1491-average-salary-excluding-the-minimum-and-maximum-salary"
+      ],
+      "commitMessage": "solve(easy): average-salary-excluding-the-minimum-and-maximum-salary | Array, Sorting"
     }
   }
 }

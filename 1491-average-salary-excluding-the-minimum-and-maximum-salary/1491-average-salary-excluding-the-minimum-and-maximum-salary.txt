@@ -1,0 +1,24 @@
+/*
+ * Problem: Average Salary Excluding the Minimum and Maximum Salary (#1491)
+ * Difficulty: Easy
+ * Topics: Array, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+ * Solved on: 2026-10-12
+ * Runtime: 0 ms | Memory: 9.46
+MB
+ */
+
+class Solution {
+public:
+    double average(vector<int>& salary) {
+        sort(salary.begin(), salary.end());
+        double sum = 0;
+        for(int i = 1; i < n - 1; i++){
+            sum += salary[i];
+        }
+    }
+        int n = salary.size();
+        return sum/(n-2);
+};
+
