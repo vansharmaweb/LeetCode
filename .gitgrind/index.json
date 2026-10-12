@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-11T18:26:03.485Z",
+  "updatedAt": "2026-10-12T06:11:21.279Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2567,6 +2567,28 @@
         "0367-valid-perfect-square"
       ],
       "commitMessage": "solve(easy): valid-perfect-square | Math, Binary Search"
+    },
+    "gcd-of-odd-and-even-sums": {
+      "platform": "LeetCode",
+      "number": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.47\nMB",
+      "solvedAt": "2026-10-12T06:11:21.279Z",
+      "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "views": [
+        "3658-gcd-of-odd-and-even-sums"
+      ],
+      "commitMessage": "solve(easy): gcd-of-odd-and-even-sums | Math, Number Theory"
     }
   }
 }

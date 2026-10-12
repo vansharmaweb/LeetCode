@@ -1,0 +1,29 @@
+/*
+ * Problem: GCD of Odd and Even Sums (#3658)
+ * Difficulty: Easy
+ * Topics: Math, Number Theory
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/gcd-of-odd-and-even-sums/
+ * Solved on: 2026-10-12
+ * Runtime: 0 ms | Memory: 8.47
+MB
+ */
+
+        int smaller = 0;
+        if(odd > even){
+            smaller = even; 
+        }else{
+        int odd = sumOdd(n);
+        int even = sumEven(n);
+            smaller = odd;
+        }
+    int gcdOfOddEvenSums(int n) {
+        for(int i = smaller; i > 1; i--){
+            if(odd % i == 0 && even % i == 0){
+        }
+                return i;
+            }
+        return 1;
+    }
+};
+
