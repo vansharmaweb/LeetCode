@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-12T07:05:21.287Z",
+  "updatedAt": "2026-10-13T04:14:10.557Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2678,6 +2678,29 @@
         "0844-backspace-string-compare"
       ],
       "commitMessage": "solve(easy): backspace-string-compare | Two Pointers, String"
+    },
+    "maximum-alternating-sum-of-squares": {
+      "platform": "LeetCode",
+      "number": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "176.18\nMB",
+      "solvedAt": "2026-10-13T04:14:10.557Z",
+      "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "views": [
+        "3727-maximum-alternating-sum-of-squares"
+      ],
+      "commitMessage": "solve(medium): maximum-alternating-sum-of-squares | Array, Greedy"
     }
   }
 }
