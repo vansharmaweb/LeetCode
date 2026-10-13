@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-13T04:18:24.979Z",
+  "updatedAt": "2026-10-13T04:35:48.141Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2701,6 +2701,29 @@
         "3727-maximum-alternating-sum-of-squares"
       ],
       "commitMessage": "solve(medium): maximum-alternating-sum-of-squares | Array, Greedy"
+    },
+    "unique-email-addresses": {
+      "platform": "LeetCode",
+      "number": "929",
+      "title": "Unique Email Addresses",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "18.29\nMB",
+      "solvedAt": "2026-10-13T04:35:48.141Z",
+      "url": "https://leetcode.com/problems/unique-email-addresses/",
+      "views": [
+        "0929-unique-email-addresses"
+      ],
+      "commitMessage": "solve(easy): unique-email-addresses | Array, Hash Table"
     }
   }
 }

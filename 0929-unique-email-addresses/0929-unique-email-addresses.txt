@@ -1,0 +1,26 @@
+/*
+ * Problem: Unique Email Addresses (#929)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/unique-email-addresses/
+ * Solved on: 2026-10-13
+ * Runtime: 0 ms | Memory: 18.29
+MB
+ */
+
+            }
+                cleanEmail += c;
+            string cleanDomain = "";
+            for(int i = s.length(); i > 0; i--){
+                if(s[i] == '@'){
+                    break;
+                }
+                cleanDomain += s[i];
+            }
+            st.insert(cleanEmail + cleanDomain);
+        }
+        return st.size();
+    }
+};
+
