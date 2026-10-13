@@ -5,17 +5,10 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/maximum-alternating-sum-of-squares/
  * Solved on: 2026-10-13
- * Runtime: 0 ms | Memory: 176.05
+ * Runtime: 0 ms | Memory: 176.15
 MB
  */
 
-class Solution {
-public:
-    long long maxAlternatingSum(vector<int>& nums) {
-        for(int i = 0; i < nums.size(); i++){
-            nums[i] *= nums[i];
-        }
-        sort(nums.begin(), nums.end());
         long long sum = 0;
         int i = 0; 
         int j = nums.size() - 1;
@@ -25,4 +18,7 @@ public:
             j--;
             i++;
         }
+        return i != j ? sum : sum += nums[nums.size()/2];
+    }
+};
 
