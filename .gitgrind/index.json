@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-14T06:01:43.217Z",
+  "updatedAt": "2026-10-14T13:25:02.583Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2790,6 +2790,28 @@
         "2810-faulty-keyboard"
       ],
       "commitMessage": "solve(easy): faulty-keyboard | String, Simulation"
+    },
+    "can-you-eat-your-favorite-candy-on-your-favorite-day": {
+      "platform": "LeetCode",
+      "number": "1744",
+      "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "134.52\nMB",
+      "solvedAt": "2026-10-14T13:25:02.583Z",
+      "url": "https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/",
+      "views": [
+        "1744-can-you-eat-your-favorite-candy-on-your-favorite-day"
+      ],
+      "commitMessage": "solve(medium): can-you-eat-your-favorite-candy-on-your-favorite-day | Array, Prefix Sum"
     }
   }
 }

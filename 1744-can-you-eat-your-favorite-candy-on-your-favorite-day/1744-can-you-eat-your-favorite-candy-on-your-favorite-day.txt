@@ -1,0 +1,28 @@
+/*
+ * Problem: Can You Eat Your Favorite Candy on Your Favorite Day? (#1744)
+ * Difficulty: Medium
+ * Topics: Array, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/
+ * Solved on: 2026-10-14
+ * Runtime: 0 ms | Memory: 134.52
+MB
+ */
+
+class Solution {
+public:
+    vector<bool> canEat(vector<int>& candiesCount, vector<vector<int>>& queries) {
+        vector<bool> answer(queries.size());
+        vector<long> prefSum(candiesCount.size());
+        prefSum[0] = candiesCount[0];
+        for(int i = 1; i < candiesCount.size(); i++){
+            prefSum[i] = prefSum[i - 1] + candiesCount[i];
+        }
+        int i = 0;
+        for(vector<int> query : queries){
+            long favCandy = query[0];
+            long favDay = query[1];
+            long dailyCap = query[2];
+
+            long totalCandiesToBeEatenBefore = favCandy == 0 ? 0 : prefSum[favCandy - 
+
