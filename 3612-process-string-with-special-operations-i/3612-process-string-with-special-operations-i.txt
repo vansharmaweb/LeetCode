@@ -1,0 +1,29 @@
+/*
+ * Problem: Process String with Special Operations I (#3612)
+ * Difficulty: Medium
+ * Topics: String, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/process-string-with-special-operations-i/
+ * Solved on: 2026-10-14
+ * Runtime: 0 ms | Memory: 39.80
+MB
+ */
+
+            }
+            if(s[i] == '*'){
+            }
+            if(s[i] == '#'){
+                st += st;
+            }
+            if(s[i] == '%'){
+                reverse(st.begin(), st.end());
+            }
+        }
+        return st;
+                st += s[i];
+            if(s[i] >= 'a' && s[i] <= 'z'){
+        for(int i = 0; i < s.length(); i++){
+        string st = "";
+                if(st != "") st.pop_back();
+                continue;
+

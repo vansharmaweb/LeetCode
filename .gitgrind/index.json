@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-13T13:23:31.366Z",
+  "updatedAt": "2026-10-14T04:52:49.628Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2746,6 +2746,28 @@
         "1480-running-sum-of-1d-array"
       ],
       "commitMessage": "solve(easy): running-sum-of-1d-array | Array, Prefix Sum"
+    },
+    "process-string-with-special-operations-i": {
+      "platform": "LeetCode",
+      "number": "3612",
+      "title": "Process String with Special Operations I",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "39.80\nMB",
+      "solvedAt": "2026-10-14T04:52:49.628Z",
+      "url": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+      "views": [
+        "3612-process-string-with-special-operations-i"
+      ],
+      "commitMessage": "solve(medium): process-string-with-special-operations-i | String, Simulation"
     }
   }
 }

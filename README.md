@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-118-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-87-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-30-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-119-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-87-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-31-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |
 
 ### Sliding Window
 
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/vansharmaweb/LeetCode/tree/main/3794-reverse-string-prefix) |
 
 ### String Matching
