@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-119-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-87-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-31-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-120-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-88-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-31-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vansharmaweb/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3110-score-of-a-string) |

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-14T04:54:02.517Z",
+  "updatedAt": "2026-10-14T05:59:17.798Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2768,6 +2768,28 @@
         "3612-process-string-with-special-operations-i"
       ],
       "commitMessage": "solve(medium): process-string-with-special-operations-i | String, Simulation"
+    },
+    "faulty-keyboard": {
+      "platform": "LeetCode",
+      "number": "2810",
+      "title": "Faulty Keyboard",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "9.24\nMB",
+      "solvedAt": "2026-10-14T05:59:17.798Z",
+      "url": "https://leetcode.com/problems/faulty-keyboard/",
+      "views": [
+        "2810-faulty-keyboard"
+      ],
+      "commitMessage": "solve(easy): faulty-keyboard | String, Simulation"
     }
   }
 }

@@ -1,0 +1,26 @@
+/*
+ * Problem: Faulty Keyboard (#2810)
+ * Difficulty: Easy
+ * Topics: String, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/faulty-keyboard/
+ * Solved on: 2026-10-14
+ * Runtime: 0 ms | Memory: 9.24
+MB
+ */
+
+class Solution {
+public:
+    string finalString(string s) {
+        string st = "";
+        for(int i = 0; i < s.length(); i++){
+            if(s[i] == 'i'){
+                reverse(st.begin(), st.end());
+            }
+        }
+    }
+            st += s[i];
+        return st;
+                continue;
+};
+
