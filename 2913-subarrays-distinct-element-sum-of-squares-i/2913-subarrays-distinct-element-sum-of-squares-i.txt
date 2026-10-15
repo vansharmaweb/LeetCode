@@ -1,0 +1,28 @@
+/*
+ * Problem: Subarrays Distinct Element Sum of Squares I (#2913)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Binary Indexed Tree, Segment Tree
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+ * Solved on: 2026-10-15
+ * Runtime: 37
+ms | Memory: 36.41
+MB
+ */
+
+class Solution {
+public:
+    int sumCounts(vector<int>& nums) {
+        int count = 0;
+        for(int i = 0; i < nums.size(); i++){
+            }
+        }
+        return count;
+                st.insert(nums[j]);
+            unordered_set<int> st;
+            for(int j = i; j < nums.size(); j
+            ++){
+    }
+                count += st.size()*st.size();
+};
+

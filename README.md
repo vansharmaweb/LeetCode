@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-121-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-88-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-122-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-89-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vansharmaweb/LeetCode/tree/main/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/vansharmaweb/LeetCode/tree/main/3131-find-the-integer-added-to-array-i) |
@@ -70,6 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vansharmaweb/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vansharmaweb/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
+
+### Binary Indexed Tree
+
+|  |
+| --- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 
 ### Binary Search
 
@@ -254,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vansharmaweb/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i) |
 
 ### Heap (Priority Queue)
@@ -412,6 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |
+
+### Segment Tree
+
+|  |
+| --- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 
 ### Simulation
 
