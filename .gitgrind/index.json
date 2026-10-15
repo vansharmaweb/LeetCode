@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-15T13:17:51.499Z",
+  "updatedAt": "2026-10-15T13:23:28.839Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2850,9 +2850,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": null,
-      "memory": null,
-      "solvedAt": "2026-10-15T13:17:51.499Z",
+      "runtime": "0 ms",
+      "memory": "9.14\nMB",
+      "solvedAt": "2026-10-15T13:23:28.839Z",
       "url": "https://leetcode.com/problems/reverse-string-ii/",
       "views": [
         "0541-reverse-string-ii"

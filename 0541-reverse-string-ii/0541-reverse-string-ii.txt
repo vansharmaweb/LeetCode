@@ -5,17 +5,18 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/reverse-string-ii/
  * Solved on: 2026-10-15
+ * Runtime: 0 ms | Memory: 9.14
+MB
  */
 
 class Solution {
 public:
     string reverseStr(string s, int k) {
-        for(int i = 0; i < s.length()-1; i += 
-        2*k){
-            reverse(s.begin()+i, s.begin()+i
+        int n = s.length();
+        for(int i = 0; i < s.length(); i += 2*k){
+            reverse(s.begin()+i, s.begin() + min(i +k , n));
         }
         return s;
     }
-            +k);
 };
 
