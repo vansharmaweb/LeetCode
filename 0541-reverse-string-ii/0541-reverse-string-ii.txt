@@ -1,0 +1,21 @@
+/*
+ * Problem: Reverse String II (#541)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-string-ii/
+ * Solved on: 2026-10-15
+ */
+
+class Solution {
+public:
+    string reverseStr(string s, int k) {
+        for(int i = 0; i < s.length()-1; i += 
+        2*k){
+            reverse(s.begin()+i, s.begin()+i
+        }
+        return s;
+    }
+            +k);
+};
+

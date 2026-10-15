@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-15T12:58:50.813Z",
+  "updatedAt": "2026-10-15T13:17:51.499Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2836,6 +2836,28 @@
         "2913-subarrays-distinct-element-sum-of-squares-i"
       ],
       "commitMessage": "solve(easy): subarrays-distinct-element-sum-of-squares-i | Array, Hash Table"
+    },
+    "reverse-string-ii": {
+      "platform": "LeetCode",
+      "number": "541",
+      "title": "Reverse String II",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-15T13:17:51.499Z",
+      "url": "https://leetcode.com/problems/reverse-string-ii/",
+      "views": [
+        "0541-reverse-string-ii"
+      ],
+      "commitMessage": "solve(easy): reverse-string-ii | Two Pointers, String"
     }
   }
 }
