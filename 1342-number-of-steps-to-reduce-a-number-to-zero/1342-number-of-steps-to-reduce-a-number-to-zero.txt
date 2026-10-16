@@ -5,23 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
  * Solved on: 2026-10-16
- * Runtime: 0 ms | Memory: null
+ * Runtime: 0 ms | Memory: 8.06
+MB
  */
 
 class Solution {
 public:
     int numberOfSteps(int num) {
+        int count = 0;
         while(num > 0){
             if(num % 2 == 0){
                 num /= 2;
             }else{
-        }
                 num -= 1;
             }
-    }
-        int count = 0;
-                count++;
-                count++;
+        }
         return count;
+    }
+            count++;
 };
 
