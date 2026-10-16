@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T09:26:06.395Z",
+  "updatedAt": "2026-10-16T09:31:44.444Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2924,6 +2924,27 @@
         "1678-goal-parser-interpretation"
       ],
       "commitMessage": "solve(easy): goal-parser-interpretation | String"
+    },
+    "number-of-students-doing-homework-at-a-given-time": {
+      "platform": "LeetCode",
+      "number": "1450",
+      "title": "Number of Students Doing Homework at a Given Time",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.20\nMB",
+      "solvedAt": "2026-10-16T09:31:44.444Z",
+      "url": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/",
+      "views": [
+        "1450-number-of-students-doing-homework-at-a-given-time"
+      ],
+      "commitMessage": "solve(easy): number-of-students-doing-homework-at-a-given-time | Array"
     }
   }
 }
