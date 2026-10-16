@@ -5,23 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/goal-parser-interpretation/
  * Solved on: 2026-10-16
- * Runtime: 3 ms | Memory: null
+ * Runtime: 1 ms | Memory: null
  */
 
+        string st = "";
+        for(int i = 0; i < command.length(); i++){
             if(command[i] == 'G'){
                 st += "G";
-            }
-            else if(command[i] == '('){
-                if(command[i+1] == ')'){
-                    st += "o";
-                }else{
-                    st += "al";
-                    i += 3;
-                }
-                    i++;
-            }
+            }else if(command[i]=='(' && command[i+1]==')'){
+                st += "o";
+            }else if(command[i]=='(' && command[i+1]=='a'){
         }
         return st;
+    string interpret(string command) {
+                st += "al";
+            }
     }
+                i++;
+                i += 3;
 };
 
