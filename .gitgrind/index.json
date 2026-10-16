@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T11:08:23.781Z",
+  "updatedAt": "2026-10-16T11:17:42.437Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3012,6 +3012,28 @@
         "1342-number-of-steps-to-reduce-a-number-to-zero"
       ],
       "commitMessage": "solve(easy): number-of-steps-to-reduce-a-number-to-zero | Math, Bit Manipulation"
+    },
+    "count-operations-to-obtain-zero": {
+      "platform": "LeetCode",
+      "number": "2169",
+      "title": "Count Operations to Obtain Zero",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.13\nMB",
+      "solvedAt": "2026-10-16T11:17:42.437Z",
+      "url": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+      "views": [
+        "2169-count-operations-to-obtain-zero"
+      ],
+      "commitMessage": "solve(easy): count-operations-to-obtain-zero | Math, Simulation"
     }
   }
 }
