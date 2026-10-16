@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-131-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-98-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-132-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-99-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vansharmaweb/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vansharmaweb/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/vansharmaweb/LeetCode/tree/main/0657-robot-return-to-origin) |
+| [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vansharmaweb/LeetCode/tree/main/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0856-score-of-parentheses) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/vansharmaweb/LeetCode/tree/main/0917-reverse-only-letters) |
