@@ -5,24 +5,24 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/toggle-light-bulbs/
  * Solved on: 2026-10-16
- * Runtime: 0 ms | Memory: 34.57
+ * Runtime: 0 ms | Memory: 33.19
 MB
  */
 
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
-        unordered_map<int, int> mp;
+        vector<bool> chk(101, false);
+        vector<int> ans;
         for(int val : bulbs){
-            mp[val] ++;
+            chk[val] = !chk[val];
         }
-        for(auto it : mp){
-            if(it.second % 2 != 0){
+        for(int i = 0; i < chk.size(); i++){
+            if(chk[i] == true){
         }
-                ans.push_back(it.first);
+        sort(ans.begin(), ans.end());
+        return ans;
+                ans.push_back(i);
             }
     }
-        vector<int> ans;
-        return ans;
-        sort(ans.begin(), ans.end());
 };
 
