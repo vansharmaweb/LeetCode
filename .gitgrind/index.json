@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T09:31:44.444Z",
+  "updatedAt": "2026-10-16T10:46:18.168Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2945,6 +2945,27 @@
         "1450-number-of-students-doing-homework-at-a-given-time"
       ],
       "commitMessage": "solve(easy): number-of-students-doing-homework-at-a-given-time | Array"
+    },
+    "defanging-an-ip-address": {
+      "platform": "LeetCode",
+      "number": "1108",
+      "title": "Defanging an IP Address",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.56\nMB",
+      "solvedAt": "2026-10-16T10:46:18.168Z",
+      "url": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "views": [
+        "1108-defanging-an-ip-address"
+      ],
+      "commitMessage": "solve(easy): defanging-an-ip-address | String"
     }
   }
 }

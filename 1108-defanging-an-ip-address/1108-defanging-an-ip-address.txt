@@ -1,0 +1,26 @@
+/*
+ * Problem: Defanging an IP Address (#1108)
+ * Difficulty: Easy
+ * Topics: String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/defanging-an-ip-address/
+ * Solved on: 2026-10-16
+ * Runtime: 0 ms | Memory: 7.56
+MB
+ */
+
+class Solution {
+public:
+    string defangIPaddr(string address) {
+        string ans = "";
+        for(char ch : address){
+            if(ch == '.'){
+                ans += "[.]";
+            }
+        }
+    }
+            ans += ch;
+        return ans;
+                continue;
+};
+
