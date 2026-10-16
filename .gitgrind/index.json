@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-15T13:23:28.839Z",
+  "updatedAt": "2026-10-16T08:25:12.968Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2858,6 +2858,29 @@
         "0541-reverse-string-ii"
       ],
       "commitMessage": "solve(easy): reverse-string-ii | Two Pointers, String"
+    },
+    "reverse-prefix-of-word": {
+      "platform": "LeetCode",
+      "number": "2000",
+      "title": "Reverse Prefix of Word",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.46\nMB",
+      "solvedAt": "2026-10-16T08:25:12.968Z",
+      "url": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "views": [
+        "2000-reverse-prefix-of-word"
+      ],
+      "commitMessage": "solve(easy): reverse-prefix-of-word | Two Pointers, String"
     }
   }
 }

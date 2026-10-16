@@ -1,0 +1,25 @@
+/*
+ * Problem: Reverse Prefix of Word (#2000)
+ * Difficulty: Easy
+ * Topics: Two Pointers, String, Stack
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/reverse-prefix-of-word/
+ * Solved on: 2026-10-16
+ * Runtime: 0 ms | Memory: 8.46
+MB
+ */
+
+class Solution {
+public:
+    string reversePrefix(string word, char ch) {
+        int i = 0;
+        for(; i < word.length(); i++){
+            if(word[i] == ch){
+                reverse(word.begin(), word.begin()+i+1);
+            }
+        }
+    }
+                break;
+        return word;
+};
+
