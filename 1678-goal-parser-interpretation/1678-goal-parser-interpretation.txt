@@ -5,10 +5,13 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/goal-parser-interpretation/
  * Solved on: 2026-10-16
- * Runtime: 0 ms | Memory: 8.37
-MB
+ * Runtime: 2 ms | Memory: null
  */
 
+        int i = 0;
+        string st = "";
+        while(i < command.length()){
+            if(command[i] == 'G'){
                 st += "G";
             }
             else if(command[i] == '('){
@@ -18,12 +21,7 @@ MB
                     st += "al";
                 }
             }
-        while(i < command.length()){
-            if(command[i] == 'G'){
-        int i = 0;
-        string st = "";
-    string interpret(string command) {
             i++;
-        }
-        return st;
+                    i++;
+                    i += 3;
 
