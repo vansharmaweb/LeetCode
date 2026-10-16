@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T08:52:23.128Z",
+  "updatedAt": "2026-10-16T09:17:39.127Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2903,6 +2903,27 @@
         "1528-shuffle-string"
       ],
       "commitMessage": "solve(easy): shuffle-string | Array, String"
+    },
+    "goal-parser-interpretation": {
+      "platform": "LeetCode",
+      "number": "1678",
+      "title": "Goal Parser Interpretation",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.07\nMB",
+      "solvedAt": "2026-10-16T09:17:39.127Z",
+      "url": "https://leetcode.com/problems/goal-parser-interpretation/",
+      "views": [
+        "1678-goal-parser-interpretation"
+      ],
+      "commitMessage": "solve(easy): goal-parser-interpretation | String"
     }
   }
 }

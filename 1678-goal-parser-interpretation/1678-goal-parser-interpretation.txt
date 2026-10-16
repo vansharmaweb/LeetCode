@@ -1,0 +1,28 @@
+/*
+ * Problem: Goal Parser Interpretation (#1678)
+ * Difficulty: Easy
+ * Topics: String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/goal-parser-interpretation/
+ * Solved on: 2026-10-16
+ * Runtime: 0 ms | Memory: 8.07
+MB
+ */
+
+                st += "G";
+            }
+            if(command[i] == '('){
+                if(command[i+1] == ')'){
+                    st += "o";
+                }else{
+                    st += "al";
+                }
+            }
+        while(i < command.length()){
+            if(command[i] == 'G'){
+        int i = 0;
+        string st = "";
+class Solution {
+public:
+    string interpret(string command) {
+
