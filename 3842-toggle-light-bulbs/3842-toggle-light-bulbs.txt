@@ -1,0 +1,28 @@
+/*
+ * Problem: Toggle Light Bulbs (#3842)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Sorting, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/toggle-light-bulbs/
+ * Solved on: 2026-10-16
+ * Runtime: 0 ms | Memory: 34.57
+MB
+ */
+
+public:
+    vector<int> toggleLightBulbs(vector<int>& bulbs) {
+        unordered_map<int, int> mp;
+        for(int val : bulbs){
+            mp[val] ++;
+        }
+        for(auto it : mp){
+            if(it.second % 2 != 0){
+        }
+                ans.push_back(it.first);
+            }
+    }
+        vector<int> ans;
+        return ans;
+        sort(ans.begin(), ans.end());
+};
+

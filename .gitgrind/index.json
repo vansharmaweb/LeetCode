@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T10:46:18.168Z",
+  "updatedAt": "2026-10-16T10:54:46.229Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2966,6 +2966,30 @@
         "1108-defanging-an-ip-address"
       ],
       "commitMessage": "solve(easy): defanging-an-ip-address | String"
+    },
+    "toggle-light-bulbs": {
+      "platform": "LeetCode",
+      "number": "3842",
+      "title": "Toggle Light Bulbs",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "34.57\nMB",
+      "solvedAt": "2026-10-16T10:54:46.229Z",
+      "url": "https://leetcode.com/problems/toggle-light-bulbs/",
+      "views": [
+        "3842-toggle-light-bulbs"
+      ],
+      "commitMessage": "solve(easy): toggle-light-bulbs | Array, Hash Table"
     }
   }
 }
