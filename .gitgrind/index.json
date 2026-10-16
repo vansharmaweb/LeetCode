@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T09:25:18.246Z",
+  "updatedAt": "2026-10-16T09:26:06.395Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2916,9 +2916,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "1 ms",
-      "memory": "8.04\nMB",
-      "solvedAt": "2026-10-16T09:25:18.246Z",
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-16T09:26:06.395Z",
       "url": "https://leetcode.com/problems/goal-parser-interpretation/",
       "views": [
         "1678-goal-parser-interpretation"
