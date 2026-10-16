@@ -1,0 +1,27 @@
+/*
+ * Problem: Number of Steps to Reduce a Number to Zero (#1342)
+ * Difficulty: Easy
+ * Topics: Math, Bit Manipulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+ * Solved on: 2026-10-16
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    int numberOfSteps(int num) {
+        while(num > 0){
+            if(num % 2 == 0){
+                num /= 2;
+            }else{
+        }
+                num -= 1;
+            }
+    }
+        int count = 0;
+                count++;
+                count++;
+        return count;
+};
+
