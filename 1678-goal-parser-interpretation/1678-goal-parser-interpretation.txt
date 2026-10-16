@@ -5,12 +5,9 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/goal-parser-interpretation/
  * Solved on: 2026-10-16
- * Runtime: 2 ms | Memory: null
+ * Runtime: 3 ms | Memory: null
  */
 
-        int i = 0;
-        string st = "";
-        while(i < command.length()){
             if(command[i] == 'G'){
                 st += "G";
             }
@@ -19,9 +16,12 @@
                     st += "o";
                 }else{
                     st += "al";
-                }
-            }
-            i++;
-                    i++;
                     i += 3;
+                }
+                    i++;
+            }
+        }
+        return st;
+    }
+};
 
