@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-133-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-100-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-134-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-101-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vansharmaweb/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
@@ -223,6 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 
+### Euclidean Algorithm
+
+|  |
+| --- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
+
 ### Floyd's Cycle Finding Algorithm
 
 |  |
@@ -236,6 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0292-nim-game](https://github.com/vansharmaweb/LeetCode/tree/main/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
+
+### Greatest Common Divisor
+
+|  |
+| --- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 
 ### Greedy
 
@@ -333,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vansharmaweb/LeetCode/tree/main/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -384,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
 
 ### Pigeonhole Principle

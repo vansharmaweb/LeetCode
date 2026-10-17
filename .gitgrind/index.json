@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:02:58.261Z",
+  "updatedAt": "2026-10-17T11:05:50.492Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3082,6 +3082,31 @@
         "1952-three-divisors"
       ],
       "commitMessage": "solve(easy): three-divisors | Math, Enumeration"
+    },
+    "find-greatest-common-divisor-of-array": {
+      "platform": "LeetCode",
+      "number": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "0.00\nMB",
+      "solvedAt": "2026-10-17T11:05:50.492Z",
+      "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "views": [
+        "1979-find-greatest-common-divisor-of-array"
+      ],
+      "commitMessage": "solve(easy): find-greatest-common-divisor-of-array | Array, Math"
     }
   }
 }
