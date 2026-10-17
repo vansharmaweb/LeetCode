@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:05:50.492Z",
+  "updatedAt": "2026-10-17T11:09:41.925Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3107,6 +3107,28 @@
         "1979-find-greatest-common-divisor-of-array"
       ],
       "commitMessage": "solve(easy): find-greatest-common-divisor-of-array | Array, Math"
+    },
+    "smallest-even-multiple": {
+      "platform": "LeetCode",
+      "number": "2413",
+      "title": "Smallest Even Multiple",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.86\nMB",
+      "solvedAt": "2026-10-17T11:09:41.925Z",
+      "url": "https://leetcode.com/problems/smallest-even-multiple/",
+      "views": [
+        "2413-smallest-even-multiple"
+      ],
+      "commitMessage": "solve(easy): smallest-even-multiple | Math, Number Theory"
     }
   }
 }
