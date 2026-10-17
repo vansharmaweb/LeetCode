@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-16T18:00:00.472Z",
+  "updatedAt": "2026-10-17T11:02:58.261Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3057,6 +3057,31 @@
         "0680-valid-palindrome-ii"
       ],
       "commitMessage": "solve(easy): valid-palindrome-ii | Two Pointers, String"
+    },
+    "three-divisors": {
+      "platform": "LeetCode",
+      "number": "1952",
+      "title": "Three Divisors",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Enumeration",
+        "Number Theory",
+        "Prime Factorization",
+        "Sieve Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.62\nMB",
+      "solvedAt": "2026-10-17T11:02:58.261Z",
+      "url": "https://leetcode.com/problems/three-divisors/",
+      "views": [
+        "1952-three-divisors"
+      ],
+      "commitMessage": "solve(easy): three-divisors | Math, Enumeration"
     }
   }
 }

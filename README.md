@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-132-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-99-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-133-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-100-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 
 ### Floyd's Cycle Finding Algorithm
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
+| [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vansharmaweb/LeetCode/tree/main/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
+| [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
 
 ### Pigeonhole Principle
@@ -398,6 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vansharmaweb/LeetCode/tree/main/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vansharmaweb/LeetCode/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+
+### Prime Factorization
+
+|  |
+| --- |
+| [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 
 ### Queue
 
@@ -434,6 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+
+### Sieve Theory
+
+|  |
+| --- |
+| [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 
 ### Simulation
 
