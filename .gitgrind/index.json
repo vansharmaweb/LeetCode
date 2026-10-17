@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:17:16.889Z",
+  "updatedAt": "2026-10-17T11:32:44.840Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3172,6 +3172,27 @@
         "2481-minimum-cuts-to-divide-a-circle"
       ],
       "commitMessage": "solve(easy): minimum-cuts-to-divide-a-circle | Math, Geometry"
+    },
+    "count-total-number-of-colored-cells": {
+      "platform": "LeetCode",
+      "number": "2579",
+      "title": "Count Total Number of Colored Cells",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-17T11:32:44.840Z",
+      "url": "https://leetcode.com/problems/count-total-number-of-colored-cells/",
+      "views": [
+        "2579-count-total-number-of-colored-cells"
+      ],
+      "commitMessage": "solve(medium): count-total-number-of-colored-cells | Math"
     }
   }
 }

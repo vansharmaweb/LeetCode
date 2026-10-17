@@ -1,0 +1,21 @@
+/*
+ * Problem: Count Total Number of Colored Cells (#2579)
+ * Difficulty: Medium
+ * Topics: Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/count-total-number-of-colored-cells/
+ * Solved on: 2026-10-17
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    long long coloredCells(int n) {
+        long long i = 1;
+        for(long j = 1; j < n; j++){
+            i += 4*j;
+        }
+        return i;
+    }
+};
+

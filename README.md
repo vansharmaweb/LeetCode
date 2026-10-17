@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-137-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-104-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-32-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-138-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-104-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-33-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/vansharmaweb/LeetCode/tree/main/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/vansharmaweb/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2579-count-total-number-of-colored-cells](https://github.com/vansharmaweb/LeetCode/tree/main/2579-count-total-number-of-colored-cells) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vansharmaweb/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum) |
