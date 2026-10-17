@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:09:41.925Z",
+  "updatedAt": "2026-10-17T11:13:45.002Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3129,6 +3129,27 @@
         "2413-smallest-even-multiple"
       ],
       "commitMessage": "solve(easy): smallest-even-multiple | Math, Number Theory"
+    },
+    "convert-the-temperature": {
+      "platform": "LeetCode",
+      "number": "2469",
+      "title": "Convert the Temperature",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "1 ms",
+      "memory": "8.20\nMB",
+      "solvedAt": "2026-10-17T11:13:45.002Z",
+      "url": "https://leetcode.com/problems/convert-the-temperature/",
+      "views": [
+        "2469-convert-the-temperature"
+      ],
+      "commitMessage": "solve(easy): convert-the-temperature | Math"
     }
   }
 }
