@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:13:45.002Z",
+  "updatedAt": "2026-10-17T11:17:16.889Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3150,6 +3150,28 @@
         "2469-convert-the-temperature"
       ],
       "commitMessage": "solve(easy): convert-the-temperature | Math"
+    },
+    "minimum-cuts-to-divide-a-circle": {
+      "platform": "LeetCode",
+      "number": "2481",
+      "title": "Minimum Cuts to Divide a Circle",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Geometry"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.77\nMB",
+      "solvedAt": "2026-10-17T11:17:16.889Z",
+      "url": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+      "views": [
+        "2481-minimum-cuts-to-divide-a-circle"
+      ],
+      "commitMessage": "solve(easy): minimum-cuts-to-divide-a-circle | Math, Geometry"
     }
   }
 }
