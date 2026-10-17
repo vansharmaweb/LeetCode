@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-139-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-105-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-33-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-140-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-106-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-33-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/vansharmaweb/LeetCode/tree/main/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/vansharmaweb/LeetCode/tree/main/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vansharmaweb/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vansharmaweb/LeetCode/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/vansharmaweb/LeetCode/tree/main/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vansharmaweb/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vansharmaweb/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/vansharmaweb/LeetCode/tree/main/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
