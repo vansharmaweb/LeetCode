@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T11:32:44.840Z",
+  "updatedAt": "2026-10-17T12:55:37.146Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3193,6 +3193,32 @@
         "2579-count-total-number-of-colored-cells"
       ],
       "commitMessage": "solve(medium): count-total-number-of-colored-cells | Math"
+    },
+    "valid-anagram": {
+      "platform": "LeetCode",
+      "number": "242",
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "9.66\nMB",
+      "solvedAt": "2026-10-17T12:55:37.146Z",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "views": [
+        "0242-valid-anagram"
+      ],
+      "commitMessage": "solve(easy): valid-anagram | Hash Table, String"
     }
   }
 }

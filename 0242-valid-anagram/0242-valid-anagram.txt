@@ -1,0 +1,26 @@
+/*
+ * Problem: Valid Anagram (#242)
+ * Difficulty: Easy
+ * Topics: Hash Table, String, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/valid-anagram/
+ * Solved on: 2026-10-17
+ * Runtime: 0 ms | Memory: 9.66
+MB
+ */
+
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        map<char, int> mp1;
+        map<char, int> mp2;
+        for(char ch : s){
+            mp1[ch]++;
+        }
+        for(char ch : t){
+            mp2[ch]++;
+        }
+        return mp1 == mp2;
+    }
+};
+

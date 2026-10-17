@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-138-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-104-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-33-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-139-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-105-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-33-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vansharmaweb/LeetCode/tree/main/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vansharmaweb/LeetCode/tree/main/0392-is-subsequence) |
