@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T10:28:02.542Z",
+  "updatedAt": "2026-10-18T10:32:17.198Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3333,9 +3333,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "14\nms",
-      "memory": "14.88\nMB",
-      "solvedAt": "2026-10-18T10:28:02.542Z",
+      "runtime": "4\nms",
+      "memory": "14.67\nMB",
+      "solvedAt": "2026-10-18T10:32:17.198Z",
       "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
       "views": [
         "0387-first-unique-character-in-a-string"
