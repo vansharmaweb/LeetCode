@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T10:32:17.198Z",
+  "updatedAt": "2026-10-18T16:53:03.217Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3341,6 +3341,27 @@
         "0387-first-unique-character-in-a-string"
       ],
       "commitMessage": "solve(easy): first-unique-character-in-a-string | Hash Table, String"
+    },
+    "add-two-integers": {
+      "platform": "LeetCode",
+      "number": "2235",
+      "title": "Add Two Integers",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "7.99\nMB",
+      "solvedAt": "2026-10-18T16:53:03.217Z",
+      "url": "https://leetcode.com/problems/add-two-integers/",
+      "views": [
+        "2235-add-two-integers"
+      ],
+      "commitMessage": "solve(easy): add-two-integers | Math"
     }
   }
 }
