@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T10:11:47.447Z",
+  "updatedAt": "2026-10-18T10:28:02.542Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3317,6 +3317,30 @@
         "0232-implement-queue-using-stacks"
       ],
       "commitMessage": "solve(easy): implement-queue-using-stacks | Stack, Design"
+    },
+    "first-unique-character-in-a-string": {
+      "platform": "LeetCode",
+      "number": "387",
+      "title": "First Unique Character in a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "14\nms",
+      "memory": "14.88\nMB",
+      "solvedAt": "2026-10-18T10:28:02.542Z",
+      "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "views": [
+        "0387-first-unique-character-in-a-string"
+      ],
+      "commitMessage": "solve(easy): first-unique-character-in-a-string | Hash Table, String"
     }
   }
 }

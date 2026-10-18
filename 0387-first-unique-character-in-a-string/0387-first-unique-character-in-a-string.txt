@@ -1,0 +1,28 @@
+/*
+ * Problem: First Unique Character in a String (#387)
+ * Difficulty: Easy
+ * Topics: Hash Table, String, Queue, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/first-unique-character-in-a-string/
+ * Solved on: 2026-10-18
+ * Runtime: 14
+ms | Memory: 14.88
+MB
+ */
+
+class Solution {
+public:
+    int firstUniqChar(string s) {
+        unordered_map<char, int> mp;
+        for(char ch : s){
+            mp[ch]++;
+        }
+        for(int i = 0; i < s.length(); i++){
+            if(mp[s[i]] == 1){
+        }
+                return i;
+            }
+    }
+        return -1;
+};
+
