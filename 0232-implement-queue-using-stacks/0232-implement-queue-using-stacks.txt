@@ -1,0 +1,28 @@
+/*
+ * Problem: Implement Queue using Stacks (#232)
+ * Difficulty: Easy
+ * Topics: Stack, Design, Queue
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/implement-queue-using-stacks/
+ * Solved on: 2026-10-18
+ * Runtime: 0
+ms | Memory: 10.00
+MB
+ */
+
+            st.pop();
+        while(!st.empty()){
+            tempStack.push(st.top());
+    
+    int pop() {
+    }
+    void push(int x) {
+        st.push(x);
+    
+    }
+    MyQueue() {
+public:
+class MyQueue {
+    stack<int> st;
+    stack<int> tempStack;
+

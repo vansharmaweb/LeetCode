@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T09:43:43.138Z",
+  "updatedAt": "2026-10-18T10:11:47.447Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3294,6 +3294,29 @@
         "0104-maximum-depth-of-binary-tree"
       ],
       "commitMessage": "solve(easy): maximum-depth-of-binary-tree | Tree, Depth-First Search"
+    },
+    "implement-queue-using-stacks": {
+      "platform": "LeetCode",
+      "number": "232",
+      "title": "Implement Queue using Stacks",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Stack",
+        "Design",
+        "Queue"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "10.00\nMB",
+      "solvedAt": "2026-10-18T10:11:47.447Z",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "views": [
+        "0232-implement-queue-using-stacks"
+      ],
+      "commitMessage": "solve(easy): implement-queue-using-stacks | Stack, Design"
     }
   }
 }

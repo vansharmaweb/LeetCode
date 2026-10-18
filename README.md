@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-142-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-107-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-143-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-108-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0155-min-stack](https://github.com/vansharmaweb/LeetCode/tree/main/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vansharmaweb/LeetCode/tree/main/0232-implement-queue-using-stacks) |
 
 ### Divide and Conquer
 
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vansharmaweb/LeetCode/tree/main/0232-implement-queue-using-stacks) |
 
 ### Quickselect
 
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vansharmaweb/LeetCode/tree/main/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vansharmaweb/LeetCode/tree/main/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0856-score-of-parentheses) |
