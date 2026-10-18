@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-17T13:29:08.181Z",
+  "updatedAt": "2026-10-18T08:42:48.098Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3241,6 +3241,32 @@
         "1662-check-if-two-string-arrays-are-equivalent"
       ],
       "commitMessage": "solve(easy): check-if-two-string-arrays-are-equivalent | Array, String"
+    },
+    "longest-consecutive-sequence": {
+      "platform": "LeetCode",
+      "number": "128",
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-18T08:42:48.098Z",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "views": [
+        "0128-longest-consecutive-sequence"
+      ],
+      "commitMessage": "solve(medium): longest-consecutive-sequence | Array, Hash Table"
     }
   }
 }
