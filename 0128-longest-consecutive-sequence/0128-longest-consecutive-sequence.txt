@@ -5,21 +5,24 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/longest-consecutive-sequence/
  * Solved on: 2026-10-18
+ * Runtime: 15
+ms | Memory: 60.17
+MB
  */
 
-        for (auto it : st) {
-                int c = 1;
-                int x = it;
-                while (st.find(x + 1) != st.end
-                    c++;
-        }
-            st.insert(val);
-        for (int val : nums) {
-        int count = 0;
-            if (st.find(it - 1) == st.end()) {
-                ()) {
+                count++;
+            }else {
+            }else if (nums[i] - nums[i - 1] == 
+                count = 1;
+            1) {
+                continue;
+            if (nums[i] == nums[i - 1]) {
+        for (int i = 1; i < n; i++) {
+        int count = 1, longest = 1;
+        sort(nums.begin(), nums.end());
     int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> st;
+        int n = nums.size();
 class Solution {
 public:
+        if(n == 0) return 0;
 

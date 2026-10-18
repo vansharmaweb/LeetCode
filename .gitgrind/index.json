@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T08:42:48.098Z",
+  "updatedAt": "2026-10-18T08:46:10.359Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3259,9 +3259,9 @@
         "NeetCode 150"
       ],
       "contest": null,
-      "runtime": null,
-      "memory": null,
-      "solvedAt": "2026-10-18T08:42:48.098Z",
+      "runtime": "15\nms",
+      "memory": "60.17\nMB",
+      "solvedAt": "2026-10-18T08:46:10.359Z",
       "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
       "views": [
         "0128-longest-consecutive-sequence"
