@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-146-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-110-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-147-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-111-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vansharmaweb/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/vansharmaweb/LeetCode/tree/main/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/vansharmaweb/LeetCode/tree/main/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |

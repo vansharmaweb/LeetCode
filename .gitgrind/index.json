@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T17:15:31.680Z",
+  "updatedAt": "2026-10-18T20:44:17.028Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3385,6 +3385,27 @@
         "2957-remove-adjacent-almost-equal-characters"
       ],
       "commitMessage": "solve(medium): remove-adjacent-almost-equal-characters | String, Dynamic Programming"
+    },
+    "delete-characters-to-make-fancy-string": {
+      "platform": "LeetCode",
+      "number": "1957",
+      "title": "Delete Characters to Make Fancy String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "33\nms",
+      "memory": "44.51\nMB",
+      "solvedAt": "2026-10-18T20:44:17.028Z",
+      "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/",
+      "views": [
+        "1957-delete-characters-to-make-fancy-string"
+      ],
+      "commitMessage": "solve(easy): delete-characters-to-make-fancy-string | String"
     }
   }
 }
