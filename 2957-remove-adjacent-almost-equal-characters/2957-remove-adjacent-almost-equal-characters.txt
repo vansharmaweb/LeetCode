@@ -1,0 +1,25 @@
+/*
+ * Problem: Remove Adjacent Almost-Equal Characters (#2957)
+ * Difficulty: Medium
+ * Topics: String, Dynamic Programming, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/remove-adjacent-almost-equal-characters/
+ * Solved on: 2026-10-18
+ * Runtime: 0 ms | Memory: 8.98
+MB
+ */
+
+class Solution {
+public:
+    int removeAlmostEqualCharacters(string word) {
+        for(int i = 1; i < word.length(); i++){
+            if(word[i] == word[i-1] || word[i] == (word[i-1]-1) || word[i] == (word[i-1]+1)){
+                word[i] = '*';
+            }
+        }
+    }
+        return count;
+                count++; 
+        int count = 0;
+};
+

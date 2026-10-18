@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T16:53:03.217Z",
+  "updatedAt": "2026-10-18T17:10:34.713Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3362,6 +3362,29 @@
         "2235-add-two-integers"
       ],
       "commitMessage": "solve(easy): add-two-integers | Math"
+    },
+    "remove-adjacent-almost-equal-characters": {
+      "platform": "LeetCode",
+      "number": "2957",
+      "title": "Remove Adjacent Almost-Equal Characters",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.98\nMB",
+      "solvedAt": "2026-10-18T17:10:34.713Z",
+      "url": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters/",
+      "views": [
+        "2957-remove-adjacent-almost-equal-characters"
+      ],
+      "commitMessage": "solve(medium): remove-adjacent-almost-equal-characters | String, Dynamic Programming"
     }
   }
 }

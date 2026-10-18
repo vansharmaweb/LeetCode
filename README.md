@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-145-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-110-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-34-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-146-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-110-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/vansharmaweb/LeetCode/tree/main/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/1137-n-th-tribonacci-number) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/vansharmaweb/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters) |
 
 ### Enumeration
 
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/vansharmaweb/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vansharmaweb/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 
 ### Hash Table
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/vansharmaweb/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters) |
 | [3110-score-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
