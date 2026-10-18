@@ -5,9 +5,6 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/maximum-depth-of-binary-tree/
  * Solved on: 2026-10-18
- * Runtime: 1
-ms | Memory: 22.01
-MB
  */
 
  *     TreeNode(int x, TreeNode *left, 
@@ -20,10 +17,9 @@ public:
     int maxDepth(TreeNode* root) {
         if(root == NULL){
             return 0;
-        }
-        int leftMax = maxDepth(root->left);
-        int rightMax = maxDepth(root->right);  
-        return max(leftMax, rightMax) + 1;
+        } 
+        return max(maxDepth(root->left), 
     }
+        maxDepth(root->right)) + 1;
 };
 

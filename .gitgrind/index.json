@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T09:42:55.151Z",
+  "updatedAt": "2026-10-18T09:43:43.138Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3286,9 +3286,9 @@
         "NeetCode 150"
       ],
       "contest": null,
-      "runtime": "1\nms",
-      "memory": "22.01\nMB",
-      "solvedAt": "2026-10-18T09:42:55.151Z",
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-18T09:43:43.138Z",
       "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
       "views": [
         "0104-maximum-depth-of-binary-tree"
