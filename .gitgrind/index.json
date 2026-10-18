@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T08:46:10.359Z",
+  "updatedAt": "2026-10-18T09:42:55.151Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3267,6 +3267,33 @@
         "0128-longest-consecutive-sequence"
       ],
       "commitMessage": "solve(medium): longest-consecutive-sequence | Array, Hash Table"
+    },
+    "maximum-depth-of-binary-tree": {
+      "platform": "LeetCode",
+      "number": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "1\nms",
+      "memory": "22.01\nMB",
+      "solvedAt": "2026-10-18T09:42:55.151Z",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "views": [
+        "0104-maximum-depth-of-binary-tree"
+      ],
+      "commitMessage": "solve(easy): maximum-depth-of-binary-tree | Tree, Depth-First Search"
     }
   }
 }
