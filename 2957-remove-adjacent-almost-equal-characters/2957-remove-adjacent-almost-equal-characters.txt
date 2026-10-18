@@ -5,7 +5,7 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/remove-adjacent-almost-equal-characters/
  * Solved on: 2026-10-18
- * Runtime: 0 ms | Memory: 9.02
+ * Runtime: 0 ms | Memory: 9.07
 MB
  */
 
@@ -15,11 +15,11 @@ public:
         int count = 0;
         for(int i = 1; i < word.length(); i++){
             if(abs(word[i] - word[i-1]) <= 1){
-                word[i] = '*';
                 count++; 
             }
         }
         return count;
     }
+                i++;
 };
 
