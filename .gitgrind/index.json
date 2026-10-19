@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-19T14:46:24.677Z",
+  "updatedAt": "2026-10-19T14:59:08.220Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3406,6 +3406,28 @@
         "1957-delete-characters-to-make-fancy-string"
       ],
       "commitMessage": "solve(easy): delete-characters-to-make-fancy-string | String"
+    },
+    "maximum-product-of-two-digits": {
+      "platform": "LeetCode",
+      "number": "3536",
+      "title": "Maximum Product of Two Digits",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.88\nMB",
+      "solvedAt": "2026-10-19T14:59:08.220Z",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "views": [
+        "3536-maximum-product-of-two-digits"
+      ],
+      "commitMessage": "solve(easy): maximum-product-of-two-digits | Math, Sorting"
     }
   }
 }
