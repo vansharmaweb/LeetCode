@@ -4,16 +4,16 @@
  * Topics: Array, Binary Search, Sorting
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/find-target-indices-after-sorting-array/
- * Solved on: 2026-10-07
- * Runtime: 0 ms | Memory: 15.12
+ * Solved on: 2026-10-19
+ * Runtime: 0 ms | Memory: 15.26
 MB
  */
 
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        vector<int> ans;
         sort(nums.begin(), nums.end());
+        vector<int> ans;
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] == target){
         }

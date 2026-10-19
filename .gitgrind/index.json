@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-18T20:44:17.028Z",
+  "updatedAt": "2026-10-19T14:46:24.677Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -2306,8 +2306,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "15.12\nMB",
-      "solvedAt": "2026-10-07T05:58:25.484Z",
+      "memory": "15.26\nMB",
+      "solvedAt": "2026-10-19T14:46:24.677Z",
       "url": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
       "views": [
         "2089-find-target-indices-after-sorting-array"
