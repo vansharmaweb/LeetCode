@@ -5,7 +5,7 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/
  * Solved on: 2026-10-19
- * Runtime: 0 ms | Memory: 32.12
+ * Runtime: 0 ms | Memory: 32.04
 MB
  */
 
@@ -13,15 +13,14 @@ MB
         sort(nums.begin(), nums.end());
         int i = 0;
         int j = nums.size()-1;
-        while(i < k){
-            s1 += nums[i];
-        }
-    }
         int s1 = 0;
         int s2 = 0;
+        for(int i = 0; i < k; i++){
+            s1 += nums[i];
             s2 += nums[j];
             j--;
-            i++;
+        }
         return abs(s1 - s2);
+    }
 };
 

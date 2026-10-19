@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-19T15:21:55.516Z",
+  "updatedAt": "2026-10-19T15:25:13.396Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3443,8 +3443,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "32.12\nMB",
-      "solvedAt": "2026-10-19T15:21:55.516Z",
+      "memory": "32.04\nMB",
+      "solvedAt": "2026-10-19T15:25:13.396Z",
       "url": "https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/",
       "views": [
         "3774-absolute-difference-between-maximum-and-minimum-k-elements"
