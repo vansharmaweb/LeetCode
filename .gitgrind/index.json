@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-19T15:03:30.053Z",
+  "updatedAt": "2026-10-19T15:21:55.516Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3428,6 +3428,28 @@
         "3536-maximum-product-of-two-digits"
       ],
       "commitMessage": "solve(easy): maximum-product-of-two-digits | Math, Sorting"
+    },
+    "absolute-difference-between-maximum-and-minimum-k-elements": {
+      "platform": "LeetCode",
+      "number": "3774",
+      "title": "Absolute Difference Between Maximum and Minimum K Elements",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "32.12\nMB",
+      "solvedAt": "2026-10-19T15:21:55.516Z",
+      "url": "https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/",
+      "views": [
+        "3774-absolute-difference-between-maximum-and-minimum-k-elements"
+      ],
+      "commitMessage": "solve(easy): absolute-difference-between-maximum-and-minimum-k-elements | Array, Sorting"
     }
   }
 }
