@@ -1,0 +1,28 @@
+/*
+ * Problem: Find Numbers with Even Number of Digits (#1295)
+ * Difficulty: Easy
+ * Topics: Array, Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+ * Solved on: 2026-10-20
+ * Runtime: 0 ms | Memory: 13.45
+MB
+ */
+
+    }
+public:
+    int findNumbers(vector<int>& nums) {
+        int count = 0;
+        for(int val : nums){
+            if(nod(val) % 2 == 0){
+                count++;
+        }
+        return d;
+        while(n > 0){
+            d++;
+            n /= 10;
+    int nod(int n){
+        int d = 0;
+class Solution {
+private:
+
