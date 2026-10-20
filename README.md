@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-151-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-115-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-152-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-116-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vansharmaweb/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vansharmaweb/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vansharmaweb/LeetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vansharmaweb/LeetCode/tree/main/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vansharmaweb/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vansharmaweb/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/vansharmaweb/LeetCode/tree/main/1200-minimum-absolute-difference) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vansharmaweb/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |

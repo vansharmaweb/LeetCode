@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-20T16:12:00.718Z",
+  "updatedAt": "2026-10-20T16:19:27.156Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3493,6 +3493,29 @@
         "2652-sum-multiples"
       ],
       "commitMessage": "solve(easy): sum-multiples | Math"
+    },
+    "make-two-arrays-equal-by-reversing-subarrays": {
+      "platform": "LeetCode",
+      "number": "1460",
+      "title": "Make Two Arrays Equal by Reversing Subarrays",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "18.06\nMB",
+      "solvedAt": "2026-10-20T16:19:27.156Z",
+      "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/",
+      "views": [
+        "1460-make-two-arrays-equal-by-reversing-subarrays"
+      ],
+      "commitMessage": "solve(easy): make-two-arrays-equal-by-reversing-subarrays | Array, Hash Table"
     }
   }
 }
