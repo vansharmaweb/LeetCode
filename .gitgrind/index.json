@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-20T15:55:29.822Z",
+  "updatedAt": "2026-10-20T16:10:35.620Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3472,6 +3472,27 @@
         "1295-find-numbers-with-even-number-of-digits"
       ],
       "commitMessage": "solve(easy): find-numbers-with-even-number-of-digits | Array, Math"
+    },
+    "sum-multiples": {
+      "platform": "LeetCode",
+      "number": "2652",
+      "title": "Sum Multiples",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.50\nMB",
+      "solvedAt": "2026-10-20T16:10:35.620Z",
+      "url": "https://leetcode.com/problems/sum-multiples/",
+      "views": [
+        "2652-sum-multiples"
+      ],
+      "commitMessage": "solve(easy): sum-multiples | Math"
     }
   }
 }
