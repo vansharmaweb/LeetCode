@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-20T16:10:35.620Z",
+  "updatedAt": "2026-10-20T16:12:00.718Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3486,8 +3486,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "8.50\nMB",
-      "solvedAt": "2026-10-20T16:10:35.620Z",
+      "memory": null,
+      "solvedAt": "2026-10-20T16:12:00.718Z",
       "url": "https://leetcode.com/problems/sum-multiples/",
       "views": [
         "2652-sum-multiples"
