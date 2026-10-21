@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T06:14:48.666Z",
+  "updatedAt": "2026-10-21T10:04:07.204Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3212,8 +3212,8 @@
       ],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "9.66\nMB",
-      "solvedAt": "2026-10-17T12:55:37.146Z",
+      "memory": null,
+      "solvedAt": "2026-10-21T10:04:07.204Z",
       "url": "https://leetcode.com/problems/valid-anagram/",
       "views": [
         "0242-valid-anagram"
