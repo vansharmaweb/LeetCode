@@ -5,23 +5,24 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/corporate-flight-bookings/
  * Solved on: 2026-10-21
- * Runtime: 0 ms | Memory: 78.45
+ * Runtime: 32
+ms | Memory: 78.44
 MB
  */
 
-        }
+class Solution {
+public:
+    vector<int> corpFlightBookings
+    (vector<vector<int>>& bookings, int n) {
+        vector<int> answer(n);
+        for(vector<int> booking : bookings){
+            int f = booking[0];
+            int l = booking[1];
+            int s = booking[2];
+            answer[f - 1] += s;
             if(l < n){
                 answer[l] -= s;
             }
+        }
 
-            answer[f - 1] += s;
-            int s = booking[2];
-            int l = booking[1];
-            int f = booking[0];
-        for(vector<int> booking : bookings){
-        vector<int> answer(n);
-    (vector<vector<int>>& bookings, int n) {
-    vector<int> corpFlightBookings
-public:
-class Solution {
 
