@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T11:18:57.735Z",
+  "updatedAt": "2026-10-21T12:24:45.183Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3627,6 +3627,28 @@
         "1221-split-a-string-in-balanced-strings"
       ],
       "commitMessage": "solve(easy): split-a-string-in-balanced-strings | String, Greedy"
+    },
+    "corporate-flight-bookings": {
+      "platform": "LeetCode",
+      "number": "1109",
+      "title": "Corporate Flight Bookings",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "78.45\nMB",
+      "solvedAt": "2026-10-21T12:24:45.183Z",
+      "url": "https://leetcode.com/problems/corporate-flight-bookings/",
+      "views": [
+        "1109-corporate-flight-bookings"
+      ],
+      "commitMessage": "solve(medium): corporate-flight-bookings | Array, Prefix Sum"
     }
   }
 }
