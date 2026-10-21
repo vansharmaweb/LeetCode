@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-155-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-117-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-37-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-156-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-118-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-37-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vansharmaweb/LeetCode/tree/main/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vansharmaweb/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vansharmaweb/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/vansharmaweb/LeetCode/tree/main/3842-toggle-light-bulbs) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/vansharmaweb/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters) |
 | [3110-score-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vansharmaweb/LeetCode/tree/main/3120-count-the-number-of-special-characters-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |

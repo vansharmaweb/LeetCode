@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T10:08:01.547Z",
+  "updatedAt": "2026-10-21T10:31:56.773Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3582,6 +3582,28 @@
         "1757-recyclable-and-low-fat-products"
       ],
       "commitMessage": "solve(easy): recyclable-and-low-fat-products | Database"
+    },
+    "count-the-number-of-special-characters-i": {
+      "platform": "LeetCode",
+      "number": "3120",
+      "title": "Count the Number of Special Characters I",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "9.01\nMB",
+      "solvedAt": "2026-10-21T10:31:56.773Z",
+      "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "views": [
+        "3120-count-the-number-of-special-characters-i"
+      ],
+      "commitMessage": "solve(easy): count-the-number-of-special-characters-i | Hash Table, String"
     }
   }
 }
