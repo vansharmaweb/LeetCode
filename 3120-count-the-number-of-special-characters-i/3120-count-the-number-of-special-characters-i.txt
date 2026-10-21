@@ -5,17 +5,16 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/count-the-number-of-special-characters-i/
  * Solved on: 2026-10-21
- * Runtime: 0 ms | Memory: 8.69
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
             }else{
-                chk[c - 'A' + 26] = true;
+                l[c - 'A'] = true;
             }
         }
         int count = 0;
         for(int i = 0; i < 26; i++){
-            if(chk[i] && chk[i + 26]) count++;
+            if(u[i] && l[i]) count++;
         }
         return count;
 
