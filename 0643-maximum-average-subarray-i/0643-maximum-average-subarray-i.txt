@@ -1,0 +1,32 @@
+/*
+ * Problem: Maximum Average Subarray I (#643)
+ * Difficulty: Easy
+ * Topics: Array, Sliding Window
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-average-subarray-i/
+ * Solved on: 2026-10-21
+ * Runtime: 0 ms | Memory: 113.45
+MB
+ */
+
+class Solution {
+public:
+    double findMaxAverage(vector<int>& nums, 
+    int k) {
+        int start = 0;
+        for(int end = 0; end < nums.size(); end
+            windowSum += nums[end];
+            if(end - start + 1 == k){
+        }
+                maxSum = max(maxSum, 
+            }
+    }
+        int windowSum = 0;
+        int maxSum = INT_MIN;
+                windowSum);
+                windowSum -= nums[start];
+                start += 1;
+        return double(maxSum)/k;
+        ++){
+};
+

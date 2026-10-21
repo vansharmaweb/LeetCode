@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T12:25:08.944Z",
+  "updatedAt": "2026-10-21T13:39:14.784Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3649,6 +3649,28 @@
         "1109-corporate-flight-bookings"
       ],
       "commitMessage": "solve(medium): corporate-flight-bookings | Array, Prefix Sum"
+    },
+    "maximum-average-subarray-i": {
+      "platform": "LeetCode",
+      "number": "643",
+      "title": "Maximum Average Subarray I",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "113.45\nMB",
+      "solvedAt": "2026-10-21T13:39:14.784Z",
+      "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "views": [
+        "0643-maximum-average-subarray-i"
+      ],
+      "commitMessage": "solve(easy): maximum-average-subarray-i | Array, Sliding Window"
     }
   }
 }
