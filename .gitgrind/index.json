@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T10:31:56.773Z",
+  "updatedAt": "2026-10-21T10:34:46.623Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3597,8 +3597,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "9.01\nMB",
-      "solvedAt": "2026-10-21T10:31:56.773Z",
+      "memory": "8.69\nMB",
+      "solvedAt": "2026-10-21T10:34:46.623Z",
       "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
       "views": [
         "3120-count-the-number-of-special-characters-i"
