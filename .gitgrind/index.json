@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T04:29:44.407Z",
+  "updatedAt": "2026-10-21T06:14:18.520Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3561,6 +3561,27 @@
         "3760-maximum-substrings-with-distinct-start"
       ],
       "commitMessage": "solve(medium): maximum-substrings-with-distinct-start | Hash Table, String"
+    },
+    "recyclable-and-low-fat-products": {
+      "platform": "LeetCode",
+      "number": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "94 ms",
+      "memory": null,
+      "solvedAt": "2026-10-21T06:14:18.520Z",
+      "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "views": [
+        "1757-recyclable-and-low-fat-products"
+      ],
+      "commitMessage": "solve(easy): recyclable-and-low-fat-products | Database"
     }
   }
 }
