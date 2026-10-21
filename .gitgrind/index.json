@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-20T16:20:28.076Z",
+  "updatedAt": "2026-10-21T04:13:12.533Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3516,6 +3516,29 @@
         "1460-make-two-arrays-equal-by-reversing-subarrays"
       ],
       "commitMessage": "solve(easy): make-two-arrays-equal-by-reversing-subarrays | Array, Hash Table"
+    },
+    "insert-greatest-common-divisors-in-linked-list": {
+      "platform": "LeetCode",
+      "number": "2807",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "35.76\nMB",
+      "solvedAt": "2026-10-21T04:13:12.534Z",
+      "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+      "views": [
+        "2807-insert-greatest-common-divisors-in-linked-list"
+      ],
+      "commitMessage": "solve(medium): insert-greatest-common-divisors-in-linked-list | Linked List, Math"
     }
   }
 }

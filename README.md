@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-152-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-116-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-35-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-153-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-116-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-36-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list) |
 
 ### Math
 
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/vansharmaweb/LeetCode/tree/main/2579-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/vansharmaweb/LeetCode/tree/main/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vansharmaweb/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/vansharmaweb/LeetCode/tree/main/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
 
 ### Pigeonhole Principle
