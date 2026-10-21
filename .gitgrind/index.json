@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T10:43:52.593Z",
+  "updatedAt": "2026-10-21T11:18:57.735Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3604,6 +3604,29 @@
         "3120-count-the-number-of-special-characters-i"
       ],
       "commitMessage": "solve(easy): count-the-number-of-special-characters-i | Hash Table, String"
+    },
+    "split-a-string-in-balanced-strings": {
+      "platform": "LeetCode",
+      "number": "1221",
+      "title": "Split a String in Balanced Strings",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-21T11:18:57.735Z",
+      "url": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
+      "views": [
+        "1221-split-a-string-in-balanced-strings"
+      ],
+      "commitMessage": "solve(easy): split-a-string-in-balanced-strings | String, Greedy"
     }
   }
 }

@@ -1,0 +1,27 @@
+/*
+ * Problem: Split a String in Balanced Strings (#1221)
+ * Difficulty: Easy
+ * Topics: String, Greedy, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+ * Solved on: 2026-10-21
+ * Runtime: 0 ms | Memory: null
+ */
+
+public:
+    int balancedStringSplit(string s) {
+        int bal = 0;
+        int ans = 0;
+        for(char c : s){
+            if(c == 'L'){
+        }
+                bal++;
+            }else{
+                bal--;
+            }
+            if(bal == 0){
+                ans++;
+            }
+        return ans;
+    }
+
