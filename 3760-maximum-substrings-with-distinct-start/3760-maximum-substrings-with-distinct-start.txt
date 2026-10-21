@@ -1,0 +1,22 @@
+/*
+ * Problem: Maximum Substrings With Distinct Start (#3760)
+ * Difficulty: Medium
+ * Topics: Hash Table, String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-substrings-with-distinct-start/
+ * Solved on: 2026-10-21
+ * Runtime: 0 ms | Memory: 25.37
+MB
+ */
+
+class Solution {
+public:
+    int maxDistinct(string s) {
+        unordered_set<char> st;
+        for(char c : s){
+            st.insert(c);
+        }
+        return st.size();
+    }
+};
+

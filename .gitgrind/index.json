@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T04:13:12.533Z",
+  "updatedAt": "2026-10-21T04:29:44.407Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3539,6 +3539,28 @@
         "2807-insert-greatest-common-divisors-in-linked-list"
       ],
       "commitMessage": "solve(medium): insert-greatest-common-divisors-in-linked-list | Linked List, Math"
+    },
+    "maximum-substrings-with-distinct-start": {
+      "platform": "LeetCode",
+      "number": "3760",
+      "title": "Maximum Substrings With Distinct Start",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "25.37\nMB",
+      "solvedAt": "2026-10-21T04:29:44.407Z",
+      "url": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+      "views": [
+        "3760-maximum-substrings-with-distinct-start"
+      ],
+      "commitMessage": "solve(medium): maximum-substrings-with-distinct-start | Hash Table, String"
     }
   }
 }
