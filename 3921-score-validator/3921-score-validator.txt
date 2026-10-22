@@ -5,13 +5,14 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/score-validator/
  * Solved on: 2026-10-22
- * Runtime: 0 ms | Memory: 53.76
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
-                }else if(s == "WD"){
-                    score++;
-                }else if(s == "NB"){
+        for(string s : events){
+            if(counter < 10){
+                if(s == "W"){
+                    counter++;
+                }else if(s == "WD" || s == "NB"){
                     score++;
                 }else{
                     score += stoi(s);
@@ -20,10 +21,8 @@ MB
         }
         return {score, counter};
     }
-                    counter++;
-                if(s == "W"){
-            if(counter < 10){
-        for(string s : events){
-        int counter = 0;
 };
+        int counter = 0;
+        int score = 0;
+    vector<int> scoreValidator(vector<string>& events) {
 
