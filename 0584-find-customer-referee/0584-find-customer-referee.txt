@@ -5,13 +5,12 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/find-customer-referee/
  * Solved on: 2026-10-22
- * Runtime: 662
+ * Runtime: 502
 ms | Memory: null
  */
 
 # Write your MySQL query statement below
 select name
 from Customer
-where (referee_id != 2 
-    or referee_id is NULL);
+where referee_id != 2 or referee_id is NULL;
 
