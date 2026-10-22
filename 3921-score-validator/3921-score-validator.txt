@@ -8,21 +8,21 @@
  * Runtime: 0 ms | Memory: null
  */
 
-        for(string s : events){
+        for(int i = 0; i < events.size(); i++){
             if(counter < 10){
-                if(s == "W"){
+                if(events[i] == "W"){
                     counter++;
-                }else if(s == "WD" || s == "NB"){
+                }else if(events[i] == "WD" || events[i] == "NB"){
                     score++;
                 }else{
-                    score += stoi(s);
+                    score += stoi(events[i]);
                 }
             }
         }
         return {score, counter};
     }
-};
         int counter = 0;
         int score = 0;
     vector<int> scoreValidator(vector<string>& events) {
+public:
 
