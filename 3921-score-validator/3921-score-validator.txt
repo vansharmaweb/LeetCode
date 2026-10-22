@@ -1,0 +1,29 @@
+/*
+ * Problem: Score Validator (#3921)
+ * Difficulty: Easy
+ * Topics: Array, String, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/score-validator/
+ * Solved on: 2026-10-22
+ * Runtime: 0 ms | Memory: 53.76
+MB
+ */
+
+                }else if(s == "WD"){
+                    score++;
+                }else if(s == "NB"){
+                    score++;
+                }else{
+                    score += stoi(s);
+                }
+            }
+        }
+        return {score, counter};
+    }
+                    counter++;
+                if(s == "W"){
+            if(counter < 10){
+        for(string s : events){
+        int counter = 0;
+};
+
