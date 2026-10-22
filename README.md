@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-161-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-122-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-162-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-123-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0595-big-countries](https://github.com/vansharmaweb/LeetCode/tree/main/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vansharmaweb/LeetCode/tree/main/1757-recyclable-and-low-fat-products) |
 
 ### Depth-First Search

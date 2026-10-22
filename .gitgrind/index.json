@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-22T12:09:15.193Z",
+  "updatedAt": "2026-10-22T13:16:40.761Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3717,6 +3717,27 @@
         "3921-score-validator"
       ],
       "commitMessage": "solve(easy): score-validator | Array, String"
+    },
+    "big-countries": {
+      "platform": "LeetCode",
+      "number": "595",
+      "title": "Big Countries",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "535\nms",
+      "memory": null,
+      "solvedAt": "2026-10-22T13:16:40.761Z",
+      "url": "https://leetcode.com/problems/big-countries/",
+      "views": [
+        "0595-big-countries"
+      ],
+      "commitMessage": "solve(easy): big-countries | Database"
     }
   }
 }
