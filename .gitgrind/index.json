@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-22T13:16:40.761Z",
+  "updatedAt": "2026-10-22T13:24:25.183Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3738,6 +3738,27 @@
         "0595-big-countries"
       ],
       "commitMessage": "solve(easy): big-countries | Database"
+    },
+    "find-customer-referee": {
+      "platform": "LeetCode",
+      "number": "584",
+      "title": "Find Customer Referee",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "820\nms",
+      "memory": null,
+      "solvedAt": "2026-10-22T13:24:25.183Z",
+      "url": "https://leetcode.com/problems/find-customer-referee/",
+      "views": [
+        "0584-find-customer-referee"
+      ],
+      "commitMessage": "solve(easy): find-customer-referee | Database"
     }
   }
 }
