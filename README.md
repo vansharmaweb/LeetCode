@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-159-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-120-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-160-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-121-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-38-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/vansharmaweb/LeetCode/tree/main/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |

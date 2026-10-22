@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-21T13:39:14.784Z",
+  "updatedAt": "2026-10-22T08:48:11.903Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3671,6 +3671,29 @@
         "0643-maximum-average-subarray-i"
       ],
       "commitMessage": "solve(easy): maximum-average-subarray-i | Array, Sliding Window"
+    },
+    "maximum-number-of-balloons": {
+      "platform": "LeetCode",
+      "number": "1189",
+      "title": "Maximum Number of Balloons",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-22T08:48:11.903Z",
+      "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "views": [
+        "1189-maximum-number-of-balloons"
+      ],
+      "commitMessage": "solve(easy): maximum-number-of-balloons | Hash Table, String"
     }
   }
 }
