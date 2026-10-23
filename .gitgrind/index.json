@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-23T12:38:34.131Z",
+  "updatedAt": "2026-10-23T13:50:36.465Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3804,6 +3804,35 @@
         "0209-minimum-size-subarray-sum"
       ],
       "commitMessage": "solve(medium): minimum-size-subarray-sum | Array, Binary Search"
+    },
+    "longest-substring-without-repeating-characters": {
+      "platform": "LeetCode",
+      "number": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "companies": [
+        "Google",
+        "Microsoft"
+      ],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-23T13:50:36.465Z",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "views": [
+        "0003-longest-substring-without-repeating-characters"
+      ],
+      "commitMessage": "solve(medium): longest-substring-without-repeating-characters | Hash Table, String"
     }
   }
 }

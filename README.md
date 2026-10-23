@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-165-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-125-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-39-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-166-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-125-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-40-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0001-two-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
