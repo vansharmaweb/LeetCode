@@ -1,0 +1,29 @@
+/*
+ * Problem: Minimum Size Subarray Sum (#209)
+ * Difficulty: Medium
+ * Topics: Array, Binary Search, Sliding Window, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-size-subarray-sum/
+ * Solved on: 2026-10-23
+ * Runtime: 0
+ms | Memory: 41.87
+MB
+ */
+
+class Solution {
+public:
+    int minSubArrayLen(int target, 
+    vector<int>& nums) {
+        int start = 0;
+        int minLength = INT_MAX;
+        int winSum = 0;
+        for(int end = 0; end < nums.size(); 
+        end++){
+            winSum += nums[end];
+            while(winSum >= target){
+                minLength = min(minLength, 
+                end - start + 1);
+                winSum -= nums[start];
+                start++;
+            }
+

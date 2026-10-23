@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-23T08:25:09.647Z",
+  "updatedAt": "2026-10-23T12:38:34.131Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3780,6 +3780,30 @@
         "0610-triangle-judgement"
       ],
       "commitMessage": "solve(easy): triangle-judgement | Database"
+    },
+    "minimum-size-subarray-sum": {
+      "platform": "LeetCode",
+      "number": "209",
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "41.87\nMB",
+      "solvedAt": "2026-10-23T12:38:34.131Z",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "views": [
+        "0209-minimum-size-subarray-sum"
+      ],
+      "commitMessage": "solve(medium): minimum-size-subarray-sum | Array, Binary Search"
     }
   }
 }
