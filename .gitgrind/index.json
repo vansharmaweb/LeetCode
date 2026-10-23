@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-22T13:28:55.725Z",
+  "updatedAt": "2026-10-23T08:25:09.647Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3759,6 +3759,27 @@
         "0584-find-customer-referee"
       ],
       "commitMessage": "solve(easy): find-customer-referee | Database"
+    },
+    "triangle-judgement": {
+      "platform": "LeetCode",
+      "number": "610",
+      "title": "Triangle Judgement",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "99 ms",
+      "memory": null,
+      "solvedAt": "2026-10-23T08:25:09.648Z",
+      "url": "https://leetcode.com/problems/triangle-judgement/",
+      "views": [
+        "0610-triangle-judgement"
+      ],
+      "commitMessage": "solve(easy): triangle-judgement | Database"
     }
   }
 }

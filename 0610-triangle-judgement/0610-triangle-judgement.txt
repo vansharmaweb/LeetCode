@@ -1,0 +1,14 @@
+/*
+ * Problem: Triangle Judgement (#610)
+ * Difficulty: Easy
+ * Topics: Database
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/triangle-judgement/
+ * Solved on: 2026-10-23
+ * Runtime: 99 ms | Memory: null
+ */
+
+# Write your MySQL query statement below
+SELECT x, y, z,
+IF ((x + y) > z AND (x + z) > y AND (y + z) > x, 'Yes', 'No') as triangle FROM Triangle;
+
