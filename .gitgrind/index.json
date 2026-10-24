@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-24T17:17:44.027Z",
+  "updatedAt": "2026-10-24T17:29:57.413Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3881,6 +3881,27 @@
         "2404-most-frequent-even-element"
       ],
       "commitMessage": "solve(easy): most-frequent-even-element | Array, Hash Table"
+    },
+    "three-consecutive-odds": {
+      "platform": "LeetCode",
+      "number": "1550",
+      "title": "Three Consecutive Odds",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-24T17:29:57.413Z",
+      "url": "https://leetcode.com/problems/three-consecutive-odds/",
+      "views": [
+        "1550-three-consecutive-odds"
+      ],
+      "commitMessage": "solve(easy): three-consecutive-odds | Array"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-168-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-126-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-169-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-127-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vansharmaweb/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/vansharmaweb/LeetCode/tree/main/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/vansharmaweb/LeetCode/tree/main/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/vansharmaweb/LeetCode/tree/main/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vansharmaweb/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
