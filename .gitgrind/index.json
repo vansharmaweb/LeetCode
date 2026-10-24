@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-24T16:54:02.544Z",
+  "updatedAt": "2026-10-24T17:17:44.027Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3858,6 +3858,29 @@
         "0229-majority-element-ii"
       ],
       "commitMessage": "solve(medium): majority-element-ii | Array, Hash Table"
+    },
+    "most-frequent-even-element": {
+      "platform": "LeetCode",
+      "number": "2404",
+      "title": "Most Frequent Even Element",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-24T17:17:44.027Z",
+      "url": "https://leetcode.com/problems/most-frequent-even-element/",
+      "views": [
+        "2404-most-frequent-even-element"
+      ],
+      "commitMessage": "solve(easy): most-frequent-even-element | Array, Hash Table"
     }
   }
 }

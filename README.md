@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-167-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-125-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-168-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-126-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-41-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
+| [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vansharmaweb/LeetCode/tree/main/3120-count-the-number-of-special-characters-i) |

@@ -1,0 +1,28 @@
+/*
+ * Problem: Most Frequent Even Element (#2404)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/most-frequent-even-element/
+ * Solved on: 2026-10-24
+ * Runtime: 0 ms | Memory: null
+ */
+
+        }
+        for(auto it : mp){
+            }
+            if(it.second > max || (it.second == max && it.first < num)){
+                    max = it.second;
+                mp[val]++;
+            }
+                    num = it.first;
+        }
+        return mp.empty() ? -1 : max;
+    }
+};
+        int num = INT_MAX;
+        for(int val : nums){
+            if(val % 2 == 0){
+        unordered_map<int, int> mp;
+        int max = INT_MIN;
+
