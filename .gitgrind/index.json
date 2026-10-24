@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-24T16:33:03.800Z",
+  "updatedAt": "2026-10-24T16:54:02.544Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3851,8 +3851,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "26.44\nMB",
-      "solvedAt": "2026-10-24T16:33:03.801Z",
+      "memory": "23.88\nMB",
+      "solvedAt": "2026-10-24T16:54:02.544Z",
       "url": "https://leetcode.com/problems/majority-element-ii/",
       "views": [
         "0229-majority-element-ii"

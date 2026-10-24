@@ -5,24 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/majority-element-ii/
  * Solved on: 2026-10-24
- * Runtime: 0 ms | Memory: 26.44
+ * Runtime: 0 ms | Memory: 23.88
 MB
  */
 
-class Solution {
-public:
-    vector<int> majorityElement(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(int val : nums){
-            mp[val]++;
         }
-        for(auto it : mp){
-            if(it.second > (nums.size()/3)){
-        }
-                ans.push_back(it.first);
+                freq = 1;
             }
-    }
+                if (freq > nums.size() / 3) {
+                    ans.push_back(nums[i-1]);
+                }
         return ans;
-        int count = 0;
-        vector<int> ans;
+        if (freq > nums.size() / 3) {
+            ans.push_back(nums.back());
+        }
+    }
+};
+            if (nums[i] == nums[i - 1]) {
+                freq++;
+            } else {
 
