@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-23T13:52:03.458Z",
+  "updatedAt": "2026-10-24T16:33:03.800Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3833,6 +3833,31 @@
         "0003-longest-substring-without-repeating-characters"
       ],
       "commitMessage": "solve(medium): longest-substring-without-repeating-characters | Hash Table, String"
+    },
+    "majority-element-ii": {
+      "platform": "LeetCode",
+      "number": "229",
+      "title": "Majority Element II",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "26.44\nMB",
+      "solvedAt": "2026-10-24T16:33:03.801Z",
+      "url": "https://leetcode.com/problems/majority-element-ii/",
+      "views": [
+        "0229-majority-element-ii"
+      ],
+      "commitMessage": "solve(medium): majority-element-ii | Array, Hash Table"
     }
   }
 }
