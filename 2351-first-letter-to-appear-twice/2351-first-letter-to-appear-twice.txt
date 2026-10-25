@@ -1,0 +1,27 @@
+/*
+ * Problem: First Letter to Appear Twice (#2351)
+ * Difficulty: Easy
+ * Topics: Hash Table, String, Bit Manipulation, Counting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/first-letter-to-appear-twice/
+ * Solved on: 2026-10-25
+ * Runtime: 0 ms | Memory: 8.31
+MB
+ */
+
+class Solution {
+public:
+    char repeatedCharacter(string s) {
+        unordered_set<char> st;
+        for(char c : s){
+            if(it != st.end()){
+                return c;
+            }else{
+        }
+            auto it = st.find(c);
+        return 0;
+                st.insert(c);
+            }
+    }
+};
+

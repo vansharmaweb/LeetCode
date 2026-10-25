@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-24T17:30:44.054Z",
+  "updatedAt": "2026-10-25T16:42:10.308Z",
   "problems": {
     "palindrome-number": {
       "platform": "LeetCode",
@@ -3902,6 +3902,30 @@
         "1550-three-consecutive-odds"
       ],
       "commitMessage": "solve(easy): three-consecutive-odds | Array"
+    },
+    "first-letter-to-appear-twice": {
+      "platform": "LeetCode",
+      "number": "2351",
+      "title": "First Letter to Appear Twice",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.31\nMB",
+      "solvedAt": "2026-10-25T16:42:10.308Z",
+      "url": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "views": [
+        "2351-first-letter-to-appear-twice"
+      ],
+      "commitMessage": "solve(easy): first-letter-to-appear-twice | Hash Table, String"
     }
   }
 }
