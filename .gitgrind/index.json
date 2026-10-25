@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-25T16:50:27.800Z",
+  "updatedAt": "2026-10-25T16:58:04.636Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
       "number": "GFG",
-      "title": "Largest in Array",
+      "title": "Reverse Array",
       "difficulty": "Medium",
       "language": "cpp",
       "topics": [
@@ -18,8 +18,8 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-10-25T16:50:27.800Z",
-      "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+      "solvedAt": "2026-10-25T16:58:04.636Z",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
       "views": [
         "1"
       ],
