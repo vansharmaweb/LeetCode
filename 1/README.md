@@ -1,9 +1,7 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/reverse-an-array/1">Reverse Array</a></h2><h3>Medium</h3><hr><p><span style="font-size: 14pt;">You are given an array of integers&nbsp;<strong>arr[]</strong>. You have to reverse the given array.</span></p>
-<p><span style="font-size: 14pt;"><strong>Note:<span style="background-color: #ffffff; color: #1e2229; font-family: Nunito;">&nbsp;</span></strong>Modify the array in place.</span></p>
-<p><span style="font-size: 14pt;"><strong>Examples:<br></strong></span></p>
-<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr = [1, 4, 3, 2, 6, 5]
-<strong>Output: </strong>[5, 6, 2, 3, 4, 1]</span><br><span style="font-size: 14pt;"><strong>Explanation: </strong>The elements of the array are [1, 4, 3, 2, 6, 5]. After reversing the array, the first element goes to the last position, the second element goes to the second last position and so on. Hence, the answer is [5, 6, 2, 3, 4, 1].</span></pre>
-<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr = [4, 5, 2]
-<strong>Output: </strong>[2, 5, 4]</span><br><span style="font-size: 14pt;"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong>The elements of the array are [4, 5, 2]. The reversed array will be [2, 5, 4].<br></span></pre>
-<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr = [1]
-<strong>Output: </strong>[1]</span><br><span style="font-size: 14pt;"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong>The array has only single element, hence the reversed array is same as the original.</span></pre>
+<h2><a href="https://www.geeksforgeeks.org/problems/second-largest3735/1">Second Largest</a></h2><h3>Medium</h3><hr><p><span style="font-size: 18px;">Given an array of positive integers <strong>arr[]</strong>, return the<strong> </strong>second largest element from the array. </span><span style="font-size: 18px;">If the second largest element doesn't exist then return <strong>-1.</strong></span></p><p><span style="font-size: 18px;">Note: The second largest element should not be equal to the largest element.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [12, 35, 1, 10, 34, 1]
+<strong>Output:</strong> 34
+<strong>Explanation: </strong>The largest element of the array is 35 and the second largest element is 34.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [10, 5, 10]
+<strong>Output:</strong> 5
+<strong>Explanation: </strong>The largest element of the array is 10 and the second largest element is 5.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [10, 10, 10]
+<strong>Output:</strong> -1
+<strong>Explanation: </strong>The largest element of the array is 10 and the second largest element does not exist.</span></pre>

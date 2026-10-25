@@ -1,5 +1,5 @@
 /*
- * Problem: Reverse Array (#GFG)
+ * Problem: Second Largest (#GFG)
  * Difficulty: Medium
  * Topics: Uncategorized
  * Language: cpp
@@ -9,14 +9,22 @@
 
 class Solution {
   public:
-    void reverseArray(vector<int> &arr) {
+    int getSecondLargest(vector<int> &arr) {
         // code here
-        int i = 0; 
-        int j = arr.size()-1;
-        while(i < j){
-            swap(arr[i], arr[j]);
-            i++;
-            j--;
+        int largest = INT_MIN;
+        for(int val : arr){
+            if(val > largest){
+                largest = val;
+            }
         }
+        int secLargest = INT_MIN;
+        for(int val : arr){
+            if(val == largest){
+                continue;
+            }else if(val > secLargest){
+                secLargest = val;
+            }
+        }
+        return secLargest > 0 ? secLargest : -1;
     }
 };

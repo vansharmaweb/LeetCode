@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-25T16:58:04.636Z",
+  "updatedAt": "2026-10-25T17:05:15.665Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
       "number": "GFG",
-      "title": "Reverse Array",
+      "title": "Second Largest",
       "difficulty": "Medium",
       "language": "cpp",
       "topics": [
@@ -18,8 +18,8 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-10-25T16:58:04.636Z",
-      "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+      "solvedAt": "2026-10-25T17:05:15.665Z",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
       "views": [
         "1"
       ],
