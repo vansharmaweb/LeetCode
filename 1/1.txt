@@ -1,0 +1,23 @@
+/*
+ * Problem: Largest in Array (#GFG)
+ * Difficulty: Medium
+ * Topics: Uncategorized
+ * Language: cpp
+ * LeetCode URL: https://leetcode.com/problems/1/
+ * Solved on: 2026-10-25
+ */
+
+class Solution {
+  public:
+    int largest(vector<int> &arr) {
+        // code here
+        int largest = INT_MIN;
+        for(int val : arr){
+            if(val > largest){
+                largest = val;
+            }
+        }
+        return largest;
+    }
+};
+

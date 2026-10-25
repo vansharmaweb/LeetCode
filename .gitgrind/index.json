@@ -2,8 +2,29 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-25T16:42:10.308Z",
+  "updatedAt": "2026-10-25T16:50:27.800Z",
   "problems": {
+    "1": {
+      "platform": "LeetCode",
+      "number": "GFG",
+      "title": "Largest in Array",
+      "difficulty": "Medium",
+      "language": "cpp",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-10-25T16:50:27.800Z",
+      "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+      "views": [
+        "1"
+      ],
+      "commitMessage": "solve(medium): 1 | Uncategorized"
+    },
     "palindrome-number": {
       "platform": "LeetCode",
       "number": "9",
