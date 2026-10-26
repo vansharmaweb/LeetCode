@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T09:37:20.753Z",
+  "updatedAt": "2026-10-26T12:28:43.352Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -2759,9 +2759,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "0\nms",
-      "memory": "12.52\nMB",
-      "solvedAt": "2026-10-13T13:23:31.366Z",
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-26T12:28:43.352Z",
       "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
       "views": [
         "1480-running-sum-of-1d-array"

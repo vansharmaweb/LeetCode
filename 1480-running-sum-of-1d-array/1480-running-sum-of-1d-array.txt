@@ -4,19 +4,17 @@
  * Topics: Array, Prefix Sum
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/running-sum-of-1d-array/
- * Solved on: 2026-10-13
- * Runtime: 0
-ms | Memory: 12.52
-MB
+ * Solved on: 2026-10-26
+ * Runtime: 0 ms | Memory: null
  */
 
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
         for(int i = 1; i < nums.size(); i++){
-            nums[i] += nums[i-1];
+            nums[i] = nums[i] + nums[i-1];
         }
-        return nums;
     }
+        return nums;
 };
 
