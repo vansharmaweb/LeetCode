@@ -1,0 +1,27 @@
+/*
+ * Problem: Find the Middle Index in Array (#1991)
+ * Difficulty: Easy
+ * Topics: Array, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-the-middle-index-in-array/
+ * Solved on: 2026-10-26
+ * Runtime: 0 ms | Memory: 15.86
+MB
+ */
+
+class Solution {
+public:
+    int findMiddleIndex(vector<int>& nums) {
+        int total = 0;
+        for(int i = 0; i < nums.size(); i++){
+            total = total + nums[i];
+        }
+        int leftSum = 0;
+        for(int i = 0; i < nums.size(); i++){
+            if(leftSum == total - leftSum - nums[i]) return i;
+            leftSum += nums[i]; 
+        }
+        return -1;
+    }
+};
+

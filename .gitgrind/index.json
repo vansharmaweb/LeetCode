@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T09:16:37.117Z",
+  "updatedAt": "2026-10-26T09:18:17.715Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -3969,6 +3969,28 @@
         "0724-find-pivot-index"
       ],
       "commitMessage": "solve(easy): find-pivot-index | Array, Prefix Sum"
+    },
+    "find-the-middle-index-in-array": {
+      "platform": "LeetCode",
+      "number": "1991",
+      "title": "Find the Middle Index in Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "15.86\nMB",
+      "solvedAt": "2026-10-26T09:18:17.715Z",
+      "url": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "views": [
+        "1991-find-the-middle-index-in-array"
+      ],
+      "commitMessage": "solve(easy): find-the-middle-index-in-array | Array, Prefix Sum"
     }
   }
 }
