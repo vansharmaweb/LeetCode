@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-25T17:05:15.665Z",
+  "updatedAt": "2026-10-26T09:15:39.071Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -3947,6 +3947,28 @@
         "2351-first-letter-to-appear-twice"
       ],
       "commitMessage": "solve(easy): first-letter-to-appear-twice | Hash Table, String"
+    },
+    "find-pivot-index": {
+      "platform": "LeetCode",
+      "number": "724",
+      "title": "Find Pivot Index",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "35.90\nMB",
+      "solvedAt": "2026-10-26T09:15:39.071Z",
+      "url": "https://leetcode.com/problems/find-pivot-index/",
+      "views": [
+        "0724-find-pivot-index"
+      ],
+      "commitMessage": "solve(easy): find-pivot-index | Array, Prefix Sum"
     }
   }
 }

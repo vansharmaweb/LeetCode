@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-171-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-128-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-172-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-129-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/vansharmaweb/LeetCode/tree/main/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/vansharmaweb/LeetCode/tree/main/1480-running-sum-of-1d-array) |
