@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T12:28:43.352Z",
+  "updatedAt": "2026-10-26T13:32:58.357Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4013,6 +4013,29 @@
         "2574-left-and-right-sum-differences"
       ],
       "commitMessage": "solve(easy): left-and-right-sum-differences | Array, Prefix Sum"
+    },
+    "subarray-sum-equals-k": {
+      "platform": "LeetCode",
+      "number": "560",
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-26T13:32:58.357Z",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "views": [
+        "0560-subarray-sum-equals-k"
+      ],
+      "commitMessage": "solve(medium): subarray-sum-equals-k | Array, Hash Table"
     }
   }
 }

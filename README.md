@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-174-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-131-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-175-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-131-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-43-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/vansharmaweb/LeetCode/tree/main/1002-find-common-characters) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/vansharmaweb/LeetCode/tree/main/1109-corporate-flight-bookings) |

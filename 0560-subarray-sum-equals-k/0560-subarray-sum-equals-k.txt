@@ -1,0 +1,27 @@
+/*
+ * Problem: Subarray Sum Equals K (#560)
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/subarray-sum-equals-k/
+ * Solved on: 2026-10-26
+ * Runtime: 0 ms | Memory: null
+ */
+
+            auto it2 = mp.find(nums[i]);
+            }
+        for(int i = 0; i < nums.size(); i++){
+            int extra = nums[i] - k; 
+            auto it = mp.find(extra);
+            if(it != mp.end()){
+                count += mp[extra];
+    int subarraySum(vector<int>& nums, int k) {
+        unordered_map<int, int> mp;
+        int count = 0;
+        for(int i = 1; i < nums.size(); i++){
+            nums[i] = nums[i] + nums[i -1];
+        }
+        mp[0] = 1;
+class Solution {
+public:
+
