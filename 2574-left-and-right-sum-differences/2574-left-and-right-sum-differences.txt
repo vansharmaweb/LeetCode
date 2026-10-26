@@ -1,0 +1,28 @@
+/*
+ * Problem: Left and Right Sum Differences (#2574)
+ * Difficulty: Easy
+ * Topics: Array, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/left-and-right-sum-differences/
+ * Solved on: 2026-10-26
+ * Runtime: 0 ms | Memory: 15.23
+MB
+ */
+
+class Solution {
+public:
+    vector<int> leftRightDifference(vector<int>& nums) {
+        vector<int> leftSum(n, 0);
+        vector<int> rightSum(n, 0);
+        for(int i = 1; i < n; i++){
+            leftSum[i] = nums[i-1] + leftSum[i-1];
+        }
+        int n = nums.size();
+        for(int j = n-2; j >= 0; j--){
+            rightSum[j] = nums[j+1] + rightSum[j+1];
+        }
+        return nums;
+        for(int i = 0; i < n; i++){
+            nums[i] = abs(leftSum[i] - rightSum[i]);
+        }
+

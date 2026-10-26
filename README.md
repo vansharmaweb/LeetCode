@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-173-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-130-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-174-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-131-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/vansharmaweb/LeetCode/tree/main/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vansharmaweb/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vansharmaweb/LeetCode/tree/main/2798-number-of-employees-who-met-the-target) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vansharmaweb/LeetCode/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1991-find-the-middle-index-in-array](https://github.com/vansharmaweb/LeetCode/tree/main/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/vansharmaweb/LeetCode/tree/main/2574-left-and-right-sum-differences) |
 
 ### Prime Factorization
 

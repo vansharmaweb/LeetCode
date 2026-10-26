@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T09:19:06.770Z",
+  "updatedAt": "2026-10-26T09:37:20.753Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -3991,6 +3991,28 @@
         "1991-find-the-middle-index-in-array"
       ],
       "commitMessage": "solve(easy): find-the-middle-index-in-array | Array, Prefix Sum"
+    },
+    "left-and-right-sum-differences": {
+      "platform": "LeetCode",
+      "number": "2574",
+      "title": "Left and Right Sum Differences",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "15.23\nMB",
+      "solvedAt": "2026-10-26T09:37:20.753Z",
+      "url": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "views": [
+        "2574-left-and-right-sum-differences"
+      ],
+      "commitMessage": "solve(easy): left-and-right-sum-differences | Array, Prefix Sum"
     }
   }
 }
