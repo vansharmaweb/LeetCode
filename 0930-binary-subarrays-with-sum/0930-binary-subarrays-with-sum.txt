@@ -5,20 +5,24 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/binary-subarrays-with-sum/
  * Solved on: 2026-10-26
- * Runtime: 0 ms | Memory: 38.49
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
+        unordered_map<int, int> mp;
+        int count = 0;
+        for(int i = 1; i < nums.size(); i++){
+            nums[i] = nums[i] + nums[i -1];
+        }
+        mp[0] = 1;
+        for(int i = 0; i < nums.size(); i++){
+            int extra = nums[i] - goal; 
+            if(mp.find(extra) != mp.end()){
                 count += mp[extra];
             }
-            auto it2 = mp.find(nums[i]);
-            if(it2 != mp.end()){
+            if(mp.find(nums[i]) != mp.end()){
                 mp[nums[i]]++;
             }else{
                 mp[nums[i]] = 1;
             }
         }
-        return count;    
-    }
-};
 

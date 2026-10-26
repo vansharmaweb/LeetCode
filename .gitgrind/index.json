@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T13:36:44.871Z",
+  "updatedAt": "2026-10-26T13:41:02.123Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4053,8 +4053,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "38.49\nMB",
-      "solvedAt": "2026-10-26T13:36:44.871Z",
+      "memory": null,
+      "solvedAt": "2026-10-26T13:41:02.123Z",
       "url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
       "views": [
         "0930-binary-subarrays-with-sum"
