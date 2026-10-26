@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T13:32:58.357Z",
+  "updatedAt": "2026-10-26T13:36:44.871Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4036,6 +4036,30 @@
         "0560-subarray-sum-equals-k"
       ],
       "commitMessage": "solve(medium): subarray-sum-equals-k | Array, Hash Table"
+    },
+    "binary-subarrays-with-sum": {
+      "platform": "LeetCode",
+      "number": "930",
+      "title": "Binary Subarrays With Sum",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "38.49\nMB",
+      "solvedAt": "2026-10-26T13:36:44.871Z",
+      "url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "views": [
+        "0930-binary-subarrays-with-sum"
+      ],
+      "commitMessage": "solve(medium): binary-subarrays-with-sum | Array, Hash Table"
     }
   }
 }

@@ -1,0 +1,24 @@
+/*
+ * Problem: Binary Subarrays With Sum (#930)
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, Sliding Window, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/binary-subarrays-with-sum/
+ * Solved on: 2026-10-26
+ * Runtime: 0 ms | Memory: 38.49
+MB
+ */
+
+                count += mp[extra];
+            }
+            auto it2 = mp.find(nums[i]);
+            if(it2 != mp.end()){
+                mp[nums[i]]++;
+            }else{
+                mp[nums[i]] = 1;
+            }
+        }
+        return count;    
+    }
+};
+
