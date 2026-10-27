@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-27T04:02:25.259Z",
+  "updatedAt": "2026-10-27T04:08:36.662Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4074,8 +4074,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "12.14\nMB",
-      "solvedAt": "2026-10-27T04:02:25.259Z",
+      "memory": "10.91\nMB",
+      "solvedAt": "2026-10-27T04:08:36.662Z",
       "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
       "views": [
         "3963-create-grid-with-exactly-one-path"

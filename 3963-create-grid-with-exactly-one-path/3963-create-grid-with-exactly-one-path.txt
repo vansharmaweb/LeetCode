@@ -5,24 +5,21 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/create-grid-with-exactly-one-path/
  * Solved on: 2026-10-27
- * Runtime: 0 ms | Memory: 12.14
+ * Runtime: 0 ms | Memory: 10.91
 MB
  */
 
+class Solution {
 public:
-    vector<string> createGrid(int m, int n) {
+    vector<string> createGrid(int n, int m) {
+        vector<string> ans(n, string(m, '#'));
         for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-            }
+            ans[0][i] = '.';
         }
-        vector<string> ans;
-                if(i == m-1 || j == 0){
-                    s += '.';
-                }else{
-                    s += '#';
-                }
-    }
-            ans.push_back(s);
-            string s = "";
+        for(int i = 0; i < n; i++){
+            ans[i][m-1] = '.';
+        }
         return ans;
+    }
+};
 
