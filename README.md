@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-177-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-132-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-178-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-132-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 

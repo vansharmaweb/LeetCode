@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-27T04:08:36.662Z",
+  "updatedAt": "2026-10-27T13:44:15.976Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4081,6 +4081,29 @@
         "3963-create-grid-with-exactly-one-path"
       ],
       "commitMessage": "solve(easy): create-grid-with-exactly-one-path | Uncategorized"
+    },
+    "fruit-into-baskets": {
+      "platform": "LeetCode",
+      "number": "904",
+      "title": "Fruit Into Baskets",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "84.95\nMB",
+      "solvedAt": "2026-10-27T13:44:15.976Z",
+      "url": "https://leetcode.com/problems/fruit-into-baskets/",
+      "views": [
+        "0904-fruit-into-baskets"
+      ],
+      "commitMessage": "solve(medium): fruit-into-baskets | Array, Hash Table"
     }
   }
 }
