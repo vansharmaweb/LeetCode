@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-26T13:41:02.123Z",
+  "updatedAt": "2026-10-27T04:02:25.259Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4060,6 +4060,27 @@
         "0930-binary-subarrays-with-sum"
       ],
       "commitMessage": "solve(medium): binary-subarrays-with-sum | Array, Hash Table"
+    },
+    "create-grid-with-exactly-one-path": {
+      "platform": "LeetCode",
+      "number": "3963",
+      "title": "Create Grid With Exactly One Path",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Uncategorized"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "12.14\nMB",
+      "solvedAt": "2026-10-27T04:02:25.259Z",
+      "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+      "views": [
+        "3963-create-grid-with-exactly-one-path"
+      ],
+      "commitMessage": "solve(easy): create-grid-with-exactly-one-path | Uncategorized"
     }
   }
 }

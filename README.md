@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-176-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-131-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-177-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-132-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [3963-create-grid-with-exactly-one-path](https://github.com/vansharmaweb/LeetCode/tree/main/3963-create-grid-with-exactly-one-path) |
 | [1](https://github.com/vansharmaweb/LeetCode/tree/main/1) |
 
 ### Union-Find
