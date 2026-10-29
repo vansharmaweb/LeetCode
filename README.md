@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-178-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-132-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-179-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-133-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/vansharmaweb/LeetCode/tree/main/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/vansharmaweb/LeetCode/tree/main/0610-triangle-judgement) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vansharmaweb/LeetCode/tree/main/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/vansharmaweb/LeetCode/tree/main/1873-calculate-special-bonus) |
 
 ### Depth-First Search
 

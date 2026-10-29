@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-27T13:44:15.976Z",
+  "updatedAt": "2026-10-29T13:06:15.953Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4104,6 +4104,27 @@
         "0904-fruit-into-baskets"
       ],
       "commitMessage": "solve(medium): fruit-into-baskets | Array, Hash Table"
+    },
+    "calculate-special-bonus": {
+      "platform": "LeetCode",
+      "number": "1873",
+      "title": "Calculate Special Bonus",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "121 ms",
+      "memory": null,
+      "solvedAt": "2026-10-29T13:06:15.953Z",
+      "url": "https://leetcode.com/problems/calculate-special-bonus/",
+      "views": [
+        "1873-calculate-special-bonus"
+      ],
+      "commitMessage": "solve(easy): calculate-special-bonus | Database"
     }
   }
 }
