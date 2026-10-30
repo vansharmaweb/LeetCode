@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-181-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-135-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-182-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-136-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/vansharmaweb/LeetCode/tree/main/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vansharmaweb/LeetCode/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/vansharmaweb/LeetCode/tree/main/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/vansharmaweb/LeetCode/tree/main/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vansharmaweb/LeetCode/tree/main/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/vansharmaweb/LeetCode/tree/main/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vansharmaweb/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |

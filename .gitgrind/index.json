@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-30T13:51:00.363Z",
+  "updatedAt": "2026-10-30T19:22:51.560Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4167,6 +4167,29 @@
         "0627-swap-sex-of-employees"
       ],
       "commitMessage": "solve(easy): swap-sex-of-employees | Database"
+    },
+    "baseball-game": {
+      "platform": "LeetCode",
+      "number": "682",
+      "title": "Baseball Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "11.80\nMB",
+      "solvedAt": "2026-10-30T19:22:51.560Z",
+      "url": "https://leetcode.com/problems/baseball-game/",
+      "views": [
+        "0682-baseball-game"
+      ],
+      "commitMessage": "solve(easy): baseball-game | Array, Stack"
     }
   }
 }

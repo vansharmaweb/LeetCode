@@ -1,0 +1,29 @@
+/*
+ * Problem: Baseball Game (#682)
+ * Difficulty: Easy
+ * Topics: Array, Stack, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/baseball-game/
+ * Solved on: 2026-10-30
+ * Runtime: 0 ms | Memory: 11.80
+MB
+ */
+
+                ans.push_back(ans[ptr-1]*2);
+            }else if(op[i] == "+"){
+                ptr++;
+                ans.push_back(ans[ptr-1] + ans[ptr-2]);
+            }else{
+                ptr++;
+                ans.push_back(stoi(op[i]));
+            }
+        }
+                ptr++;
+        int sum = 0;
+        for(int val : ans){
+            sum += val;
+        }
+        return sum;
+    }
+};
+
