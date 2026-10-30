@@ -1,0 +1,14 @@
+/*
+ * Problem: Swap Sex of Employees (#627)
+ * Difficulty: Easy
+ * Topics: Database
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/swap-sex-of-employees/
+ * Solved on: 2026-10-30
+ * Runtime: 93 ms | Memory: null
+ */
+
+# Write your MySQL query statement below
+UPDATE Salary
+SET sex = IF(sex = 'm', 'f', 'm');
+

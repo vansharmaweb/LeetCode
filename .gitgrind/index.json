@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-30T13:37:07.589Z",
+  "updatedAt": "2026-10-30T13:51:00.363Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4146,6 +4146,27 @@
         "0620-not-boring-movies"
       ],
       "commitMessage": "solve(easy): not-boring-movies | Database"
+    },
+    "swap-sex-of-employees": {
+      "platform": "LeetCode",
+      "number": "627",
+      "title": "Swap Sex of Employees",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "93 ms",
+      "memory": null,
+      "solvedAt": "2026-10-30T13:51:00.363Z",
+      "url": "https://leetcode.com/problems/swap-sex-of-employees/",
+      "views": [
+        "0627-swap-sex-of-employees"
+      ],
+      "commitMessage": "solve(easy): swap-sex-of-employees | Database"
     }
   }
 }
