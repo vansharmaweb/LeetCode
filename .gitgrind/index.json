@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-29T13:06:15.953Z",
+  "updatedAt": "2026-10-30T13:36:04.009Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4125,6 +4125,27 @@
         "1873-calculate-special-bonus"
       ],
       "commitMessage": "solve(easy): calculate-special-bonus | Database"
+    },
+    "not-boring-movies": {
+      "platform": "LeetCode",
+      "number": "620",
+      "title": "Not Boring Movies",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Database"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "96 ms",
+      "memory": null,
+      "solvedAt": "2026-10-30T13:36:04.009Z",
+      "url": "https://leetcode.com/problems/not-boring-movies/",
+      "views": [
+        "0620-not-boring-movies"
+      ],
+      "commitMessage": "solve(easy): not-boring-movies | Database"
     }
   }
 }

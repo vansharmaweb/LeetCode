@@ -1,0 +1,15 @@
+/*
+ * Problem: Not Boring Movies (#620)
+ * Difficulty: Easy
+ * Topics: Database
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/not-boring-movies/
+ * Solved on: 2026-10-30
+ * Runtime: 96 ms | Memory: null
+ */
+
+# Write your MySQL query statement below
+SELECT *
+FROM Cinema 
+WHERE id % 2 != 0 AND description != "boring" ORDER BY rating DESC;
+
