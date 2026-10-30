@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-30T19:22:51.560Z",
+  "updatedAt": "2026-10-30T19:27:11.505Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4190,6 +4190,30 @@
         "0682-baseball-game"
       ],
       "commitMessage": "solve(easy): baseball-game | Array, Stack"
+    },
+    "minimum-number-game": {
+      "platform": "LeetCode",
+      "number": "2974",
+      "title": "Minimum Number Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-10-30T19:27:11.505Z",
+      "url": "https://leetcode.com/problems/minimum-number-game/",
+      "views": [
+        "2974-minimum-number-game"
+      ],
+      "commitMessage": "solve(easy): minimum-number-game | Array, Sorting"
     }
   }
 }
