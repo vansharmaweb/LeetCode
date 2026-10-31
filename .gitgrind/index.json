@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-10-30T19:27:11.505Z",
+  "updatedAt": "2026-10-31T16:41:31.127Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4206,9 +4206,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "0 ms",
-      "memory": null,
-      "solvedAt": "2026-10-30T19:27:11.505Z",
+      "runtime": "1\nms",
+      "memory": "28.32\nMB",
+      "solvedAt": "2026-10-31T16:41:31.128Z",
       "url": "https://leetcode.com/problems/minimum-number-game/",
       "views": [
         "2974-minimum-number-game"
