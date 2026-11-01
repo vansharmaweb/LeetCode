@@ -4,14 +4,12 @@
  * Topics: Array, Hash Table, Sliding Window
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/fruit-into-baskets/
- * Solved on: 2026-10-27
- * Runtime: 0 ms | Memory: 84.95
+ * Solved on: 2026-11-01
+ * Runtime: 51
+ms | Memory: 84.77
 MB
  */
 
-        int maxLength = 0;
-        for(int end = 0; end < fruits.size(); end++){
-            int curr = fruits[end];
             freqMap[curr]++;
             if(freqMap.size() > 2){
                 int left = fruits[start];
@@ -25,4 +23,5 @@ MB
         }
         return maxLength;
     }
+};
 
