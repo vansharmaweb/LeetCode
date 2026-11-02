@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-183-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-137-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-184-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-137-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/vansharmaweb/LeetCode/tree/main/0682-baseball-game) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vansharmaweb/LeetCode/tree/main/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/vansharmaweb/LeetCode/tree/main/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vansharmaweb/LeetCode/tree/main/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/vansharmaweb/LeetCode/tree/main/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vansharmaweb/LeetCode/tree/main/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0633-sum-of-square-numbers) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/vansharmaweb/LeetCode/tree/main/1200-minimum-absolute-difference) |

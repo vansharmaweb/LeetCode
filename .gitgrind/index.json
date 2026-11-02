@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-01T17:45:50.765Z",
+  "updatedAt": "2026-11-02T08:44:03.268Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4214,6 +4214,29 @@
         "2974-minimum-number-game"
       ],
       "commitMessage": "solve(easy): minimum-number-game | Array, Sorting"
+    },
+    "minimum-moves-to-equal-array-elements-ii": {
+      "platform": "LeetCode",
+      "number": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "15.84\nMB",
+      "solvedAt": "2026-11-02T08:44:03.268Z",
+      "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "views": [
+        "0462-minimum-moves-to-equal-array-elements-ii"
+      ],
+      "commitMessage": "solve(medium): minimum-moves-to-equal-array-elements-ii | Array, Math"
     }
   }
 }
