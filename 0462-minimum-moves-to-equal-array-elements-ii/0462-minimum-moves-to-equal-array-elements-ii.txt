@@ -5,24 +5,19 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
  * Solved on: 2026-11-02
- * Runtime: 0 ms | Memory: 15.84
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
     int minMoves2(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int med;
-        if(n % 2 != 0){
-            med = nums[(n-1)/2];
-        }else{
         int n = nums.size();
-            med = nums[n/2];
-        }
         int diff = 0;
         for(int i = 0; i < n; i++){
             diff += abs(nums[i] - med);
         }
-    }
         return diff;
+    }
+public:
+        int med = nums[n/2];
 };
 
