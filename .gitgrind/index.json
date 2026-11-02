@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-02T08:45:34.196Z",
+  "updatedAt": "2026-11-02T09:11:28.328Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4237,6 +4237,27 @@
         "0462-minimum-moves-to-equal-array-elements-ii"
       ],
       "commitMessage": "solve(medium): minimum-moves-to-equal-array-elements-ii | Array, Math"
+    },
+    "percentage-of-letter-in-string": {
+      "platform": "LeetCode",
+      "number": "2278",
+      "title": "Percentage of Letter in String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.17\nMB",
+      "solvedAt": "2026-11-02T09:11:28.328Z",
+      "url": "https://leetcode.com/problems/percentage-of-letter-in-string/",
+      "views": [
+        "2278-percentage-of-letter-in-string"
+      ],
+      "commitMessage": "solve(easy): percentage-of-letter-in-string | String"
     }
   }
 }
