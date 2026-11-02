@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-185-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-138-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-186-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-139-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vansharmaweb/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vansharmaweb/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/vansharmaweb/LeetCode/tree/main/3842-toggle-light-bulbs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
 
 ### Boyer–Moore Majority Vote Algorithm
 
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/vansharmaweb/LeetCode/tree/main/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/vansharmaweb/LeetCode/tree/main/3921-score-validator) |
 

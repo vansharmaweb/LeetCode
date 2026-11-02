@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-02T09:11:28.328Z",
+  "updatedAt": "2026-11-02T09:34:05.443Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4258,6 +4258,29 @@
         "2278-percentage-of-letter-in-string"
       ],
       "commitMessage": "solve(easy): percentage-of-letter-in-string | String"
+    },
+    "bitwise-or-of-even-numbers-in-an-array": {
+      "platform": "LeetCode",
+      "number": "3688",
+      "title": "Bitwise OR of Even Numbers in an Array",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "24.45\nMB",
+      "solvedAt": "2026-11-02T09:34:05.443Z",
+      "url": "https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/",
+      "views": [
+        "3688-bitwise-or-of-even-numbers-in-an-array"
+      ],
+      "commitMessage": "solve(easy): bitwise-or-of-even-numbers-in-an-array | Array, Bit Manipulation"
     }
   }
 }
