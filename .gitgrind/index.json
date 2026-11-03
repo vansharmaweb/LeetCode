@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-03T13:03:17.068Z",
+  "updatedAt": "2026-11-03T13:04:33.627Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4348,8 +4348,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "1 ms",
-      "memory": null,
-      "solvedAt": "2026-11-03T13:03:17.068Z",
+      "memory": "99.95\nMB",
+      "solvedAt": "2026-11-03T13:04:33.627Z",
       "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
       "views": [
         "1877-minimize-maximum-pair-sum-in-array"

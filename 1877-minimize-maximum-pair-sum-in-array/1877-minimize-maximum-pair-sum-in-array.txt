@@ -5,7 +5,8 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
  * Solved on: 2026-11-03
- * Runtime: 1 ms | Memory: null
+ * Runtime: 1 ms | Memory: 99.95
+MB
  */
 
 class Solution {
@@ -14,13 +15,14 @@ public:
         sort(nums.begin(), nums.end());
         int i = 0;
         int j = nums.size()-1;
-        while(i < j){
-        return ans;
-            ans = max(ans, (nums[i] + nums[j]));
-        }
-    }
         int ans = 0;
+        while(i < j){
+            ans = max(ans, sum);
             i++;
             j--;
+        }
+        return ans;
+    }
+            int sum = nums[i] + nums[j];
 };
 
