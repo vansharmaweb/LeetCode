@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-02T09:34:05.443Z",
+  "updatedAt": "2026-11-03T03:54:44.699Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4281,6 +4281,28 @@
         "3688-bitwise-or-of-even-numbers-in-an-array"
       ],
       "commitMessage": "solve(easy): bitwise-or-of-even-numbers-in-an-array | Array, Bit Manipulation"
+    },
+    "minimum-moves-to-equal-array-elements-iii": {
+      "platform": "LeetCode",
+      "number": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "31.38\nMB",
+      "solvedAt": "2026-11-03T03:54:44.699Z",
+      "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "views": [
+        "3736-minimum-moves-to-equal-array-elements-iii"
+      ],
+      "commitMessage": "solve(easy): minimum-moves-to-equal-array-elements-iii | Array, Math"
     }
   }
 }

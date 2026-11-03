@@ -1,0 +1,28 @@
+/*
+ * Problem: Minimum Moves to Equal Array Elements III (#3736)
+ * Difficulty: Easy
+ * Topics: Array, Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/
+ * Solved on: 2026-11-03
+ * Runtime: 0 ms | Memory: 31.38
+MB
+ */
+
+class Solution {
+public:
+    int minMoves(vector<int>& nums) {
+        int maximum = INT_MIN;
+        for(int val : nums){
+            if(val > maximum){
+                maximum = val;
+            }
+        }
+        for(int i = 0; i < nums.size(); i++){
+            count += abs(nums[i] - maximum); 
+        }
+    }
+        return count;
+        int count = 0;
+};
+

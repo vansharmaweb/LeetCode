@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-186-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-139-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-187-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vansharmaweb/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansharmaweb/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/vansharmaweb/LeetCode/tree/main/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/vansharmaweb/LeetCode/tree/main/3921-score-validator) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/vansharmaweb/LeetCode/tree/main/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansharmaweb/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vansharmaweb/LeetCode/tree/main/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/vansharmaweb/LeetCode/tree/main/3870-count-commas-in-range) |
 
