@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-03T03:54:44.699Z",
+  "updatedAt": "2026-11-03T05:20:41.428Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -241,8 +241,8 @@
       ],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "11.2 MB",
-      "solvedAt": "2026-10-02T19:25:10.562Z",
+      "memory": "13.58\nMB",
+      "solvedAt": "2026-11-03T05:20:41.428Z",
       "url": "https://leetcode.com/problems/reverse-linked-list/",
       "views": [
         "0206-reverse-linked-list"

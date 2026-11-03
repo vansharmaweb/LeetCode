@@ -4,25 +4,26 @@
  * Topics: Linked List, Recursion
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/reverse-linked-list/
- * Solved on: 2026-10-02
- * Runtime: 0 ms | Memory: 11.2 MB
+ * Solved on: 2026-11-03
+ * Runtime: 0 ms | Memory: 13.58
+MB
  */
 
- *     struct ListNode *next;
- * };
- */
-struct ListNode* reverseList(struct ListNode* head) {
-    struct ListNode *prev = NULL;
-    struct ListNode *current = head;
-    struct ListNode *next = NULL;
 
-    while(current != NULL){
-        next = current->next;
-        current->next = prev;
-        prev = current;
-        current = next;
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
-/**
+    // struct ListNode *prev = NULL;
+    // struct ListNode *current = head;
+    // struct ListNode *next = NULL;
+
+    // while(current != NULL){
+    }
+};
+        head->next = NULL;
+        return p;
+        head->next->next = head;
+        ListNode* p = reverseList(head->next);
+        }
+            return head;
+    ListNode* reverseList(ListNode* head) {
+        if(head == NULL || head->next == NULL){
+public:
 
