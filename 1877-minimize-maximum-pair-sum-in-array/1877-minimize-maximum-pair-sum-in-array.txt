@@ -5,24 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
  * Solved on: 2026-11-03
- * Runtime: 1 ms | Memory: 99.95
+ * Runtime: 1 ms | Memory: 99.74
 MB
  */
 
-class Solution {
-public:
-    int minPairSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
         int i = 0;
         int j = nums.size()-1;
         int ans = 0;
         while(i < j){
+            int sum = nums[i] + nums[j];
             ans = max(ans, sum);
             i++;
             j--;
         }
         return ans;
     }
-            int sum = nums[i] + nums[j];
 };
+        sort(nums.begin(), nums.end());
+    int minPairSum(vector<int>& nums) {
+public:
 
