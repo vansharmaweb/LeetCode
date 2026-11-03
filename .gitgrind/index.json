@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-03T12:51:53.337Z",
+  "updatedAt": "2026-11-03T13:03:17.068Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4331,6 +4331,30 @@
         "0287-find-the-duplicate-number"
       ],
       "commitMessage": "solve(medium): find-the-duplicate-number | Array, Two Pointers"
+    },
+    "minimize-maximum-pair-sum-in-array": {
+      "platform": "LeetCode",
+      "number": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "1 ms",
+      "memory": null,
+      "solvedAt": "2026-11-03T13:03:17.068Z",
+      "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "views": [
+        "1877-minimize-maximum-pair-sum-in-array"
+      ],
+      "commitMessage": "solve(medium): minimize-maximum-pair-sum-in-array | Array, Two Pointers"
     }
   }
 }

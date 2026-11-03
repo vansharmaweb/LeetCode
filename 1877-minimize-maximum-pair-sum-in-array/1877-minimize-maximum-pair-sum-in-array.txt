@@ -1,0 +1,26 @@
+/*
+ * Problem: Minimize Maximum Pair Sum in Array (#1877)
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Greedy, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+ * Solved on: 2026-11-03
+ * Runtime: 1 ms | Memory: null
+ */
+
+class Solution {
+public:
+    int minPairSum(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        int i = 0;
+        int j = nums.size()-1;
+        while(i < j){
+        return ans;
+            ans = max(ans, (nums[i] + nums[j]));
+        }
+    }
+        int ans = 0;
+            i++;
+            j--;
+};
+
