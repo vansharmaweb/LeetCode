@@ -5,24 +5,24 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/find-the-duplicate-number/
  * Solved on: 2026-11-03
- * Runtime: 0 ms | Memory: 104.68
+ * Runtime: 0 ms | Memory: 64.86
 MB
  */
 
-class Solution {
-public:
     int findDuplicate(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(int val : nums){
-            mp[val]++;
-        } 
-        for(auto it : mp){
-            if(it.second > 1){
+        sort(nums.begin(), nums.end());
+        // unordered_map<int, int> mp;
+        // for(int val : nums){
+        //     mp[val]++;
+        // } 
+        // for(auto it : mp){
+        //     if(it.second > 1){
+        //         return it.first;
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] == nums[i+1]){
         }
-                return it.first;
+                return nums[i];
             }
-    }
             continue;
         return 0;
-};
 
