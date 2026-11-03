@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-03T05:20:41.428Z",
+  "updatedAt": "2026-11-03T12:14:55.127Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4303,6 +4303,34 @@
         "3736-minimum-moves-to-equal-array-elements-iii"
       ],
       "commitMessage": "solve(easy): minimum-moves-to-equal-array-elements-iii | Array, Math"
+    },
+    "find-the-duplicate-number": {
+      "platform": "LeetCode",
+      "number": "287",
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation",
+        "Pigeonhole Principle",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "104.68\nMB",
+      "solvedAt": "2026-11-03T12:14:55.127Z",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "views": [
+        "0287-find-the-duplicate-number"
+      ],
+      "commitMessage": "solve(medium): find-the-duplicate-number | Array, Two Pointers"
     }
   }
 }

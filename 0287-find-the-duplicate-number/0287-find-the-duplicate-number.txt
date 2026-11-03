@@ -1,0 +1,28 @@
+/*
+ * Problem: Find the Duplicate Number (#287)
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-the-duplicate-number/
+ * Solved on: 2026-11-03
+ * Runtime: 0 ms | Memory: 104.68
+MB
+ */
+
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        unordered_map<int, int> mp;
+        for(int val : nums){
+            mp[val]++;
+        } 
+        for(auto it : mp){
+            if(it.second > 1){
+        }
+                return it.first;
+            }
+    }
+            continue;
+        return 0;
+};
+

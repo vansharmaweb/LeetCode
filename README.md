@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-187-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-46-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-188-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-47-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vansharmaweb/LeetCode/tree/main/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vansharmaweb/LeetCode/tree/main/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vansharmaweb/LeetCode/tree/main/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 
 ### Game Theory
 
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 
 ### Prefix Sum
 
@@ -740,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vansharmaweb/LeetCode/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
