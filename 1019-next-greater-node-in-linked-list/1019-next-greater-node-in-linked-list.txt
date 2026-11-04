@@ -1,0 +1,28 @@
+/*
+ * Problem: Next Greater Node In Linked List (#1019)
+ * Difficulty: Medium
+ * Topics: Array, Linked List, Stack, Monotonic Stack
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/next-greater-node-in-linked-list/
+ * Solved on: 2026-11-04
+ * Runtime: 0 ms | Memory: 47.41
+MB
+ */
+
+        for(int i = 0; i < n; i++){
+            while(!st.empty() && values[st.top()] < values[i]){
+                int idx = st.top();
+                st.pop();
+                ans[idx] = values[i];
+            }
+            st.push(i);
+        }
+
+        return ans;
+    }
+};
+        stack<int> st; 
+        vector<int> ans(n, 0);
+        int n = values.size();
+        }
+

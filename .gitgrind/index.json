@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-04T06:29:17.881Z",
+  "updatedAt": "2026-11-04T12:39:48.226Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4423,6 +4423,30 @@
         "0237-delete-node-in-a-linked-list"
       ],
       "commitMessage": "solve(medium): delete-node-in-a-linked-list | Linked List"
+    },
+    "next-greater-node-in-linked-list": {
+      "platform": "LeetCode",
+      "number": "1019",
+      "title": "Next Greater Node In Linked List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "47.41\nMB",
+      "solvedAt": "2026-11-04T12:39:48.226Z",
+      "url": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+      "views": [
+        "1019-next-greater-node-in-linked-list"
+      ],
+      "commitMessage": "solve(medium): next-greater-node-in-linked-list | Array, Linked List"
     }
   }
 }
