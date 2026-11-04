@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-04T06:25:28.851Z",
+  "updatedAt": "2026-11-04T06:29:17.881Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4415,9 +4415,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "3 ms",
-      "memory": null,
-      "solvedAt": "2026-11-04T06:25:28.851Z",
+      "runtime": "9\nms",
+      "memory": "12.49\nMB",
+      "solvedAt": "2026-11-04T06:29:17.881Z",
       "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
       "views": [
         "0237-delete-node-in-a-linked-list"
