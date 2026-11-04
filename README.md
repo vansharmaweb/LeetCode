@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-190-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-49-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-191-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-50-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vansharmaweb/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/vansharmaweb/LeetCode/tree/main/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vansharmaweb/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/vansharmaweb/LeetCode/tree/main/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/vansharmaweb/LeetCode/tree/main/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |

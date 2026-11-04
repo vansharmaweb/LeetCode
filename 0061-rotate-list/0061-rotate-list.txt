@@ -1,0 +1,29 @@
+/*
+ * Problem: Rotate List (#61)
+ * Difficulty: Medium
+ * Topics: Linked List, Two Pointers
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/rotate-list/
+ * Solved on: 2026-11-04
+ * Runtime: 0 ms | Memory: 16.37
+MB
+ */
+
+        }
+        for(int i = 0; i < n - k - 1; i++){
+            n++;
+        while(temp->next != NULL){
+        ListNode* temp = head;
+        int n = 1;
+    ListNode* rotateRight(ListNode* head, int k) {
+            temp = temp->next;
+        temp->next = head;
+        k = k % n;
+            traveller = traveller->next;
+        ListNode* traveller = head;
+        }
+        head = traveller->next;
+        traveller->next = NULL;
+        return head;
+        if(head == NULL) return head;
+

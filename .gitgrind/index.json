@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-04T04:35:07.210Z",
+  "updatedAt": "2026-11-04T05:16:56.706Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4380,6 +4380,28 @@
         "0019-remove-nth-node-from-end-of-list"
       ],
       "commitMessage": "solve(medium): remove-nth-node-from-end-of-list | Linked List, Two Pointers"
+    },
+    "rotate-list": {
+      "platform": "LeetCode",
+      "number": "61",
+      "title": "Rotate List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "16.37\nMB",
+      "solvedAt": "2026-11-04T05:16:56.706Z",
+      "url": "https://leetcode.com/problems/rotate-list/",
+      "views": [
+        "0061-rotate-list"
+      ],
+      "commitMessage": "solve(medium): rotate-list | Linked List, Two Pointers"
     }
   }
 }
