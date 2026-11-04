@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-04T05:16:56.706Z",
+  "updatedAt": "2026-11-04T06:25:28.851Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4402,6 +4402,27 @@
         "0061-rotate-list"
       ],
       "commitMessage": "solve(medium): rotate-list | Linked List, Two Pointers"
+    },
+    "delete-node-in-a-linked-list": {
+      "platform": "LeetCode",
+      "number": "237",
+      "title": "Delete Node in a Linked List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "3 ms",
+      "memory": null,
+      "solvedAt": "2026-11-04T06:25:28.851Z",
+      "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "views": [
+        "0237-delete-node-in-a-linked-list"
+      ],
+      "commitMessage": "solve(medium): delete-node-in-a-linked-list | Linked List"
     }
   }
 }
