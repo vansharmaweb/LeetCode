@@ -1,0 +1,29 @@
+/*
+ * Problem: Remove Nth Node From End of List (#19)
+ * Difficulty: Medium
+ * Topics: Linked List, Two Pointers
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ * Solved on: 2026-11-04
+ * Runtime: 0 ms | Memory: 14.78
+MB
+ */
+
+        temp->next = temp2;
+        return head;
+        }
+            temp2 = temp2->next;
+        for(int i = 0; i < nodeToDelete + 1; i++){
+        for(int i = 0; i < nodeToDelete - 1; i++){
+            temp = temp->next;
+        }
+        ListNode* temp2 = head;
+        int nodeToDelete = size - n;
+        temp = head;
+        } 
+            temp = temp->next;
+            size++;
+        while(temp != NULL){
+        ListNode* temp = head;
+        if(nodeToDelete == 0) return head->next;
+
