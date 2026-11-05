@@ -1,0 +1,29 @@
+/*
+ * Problem: Divide a String Into Groups of Size k (#2138)
+ * Difficulty: Easy
+ * Topics: String, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+ * Solved on: 2026-11-05
+ * Runtime: 0 ms | Memory: 10.04
+MB
+ */
+
+        int rem = size % k;
+        for(int i = 0; i < k - rem; i++){
+            s += fill;
+        }
+        for(int j = 0; j < s.size();){
+            for(int i = 0; i < k; i++){
+                temp += s[j];
+            }
+            string temp = "";
+            ans.push_back(temp);
+        vector<string> ans;
+                j++;
+        }
+        int size = s.length();
+    vector<string> divideString(string s, int k, char fill) {
+public:
+            if(rem == 0) break;
+

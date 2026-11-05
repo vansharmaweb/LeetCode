@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-05T06:23:03.015Z",
+  "updatedAt": "2026-11-05T18:42:52.428Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4472,6 +4472,28 @@
         "0148-sort-list"
       ],
       "commitMessage": "solve(medium): sort-list | Linked List, Two Pointers"
+    },
+    "divide-a-string-into-groups-of-size-k": {
+      "platform": "LeetCode",
+      "number": "2138",
+      "title": "Divide a String Into Groups of Size k",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "10.04\nMB",
+      "solvedAt": "2026-11-05T18:42:52.428Z",
+      "url": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/",
+      "views": [
+        "2138-divide-a-string-into-groups-of-size-k"
+      ],
+      "commitMessage": "solve(easy): divide-a-string-into-groups-of-size-k | String, Simulation"
     }
   }
 }

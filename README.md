@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-194-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-195-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-141-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1929-concatenation-of-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/vansharmaweb/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vansharmaweb/LeetCode/tree/main/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vansharmaweb/LeetCode/tree/main/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/vansharmaweb/LeetCode/tree/main/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vansharmaweb/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/vansharmaweb/LeetCode/tree/main/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/vansharmaweb/LeetCode/tree/main/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
