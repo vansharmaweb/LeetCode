@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-193-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-52-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-194-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-140-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vansharmaweb/LeetCode/tree/main/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vansharmaweb/LeetCode/tree/main/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vansharmaweb/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 
 ### Minimax
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vansharmaweb/LeetCode/tree/main/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vansharmaweb/LeetCode/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |

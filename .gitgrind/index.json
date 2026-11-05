@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-04T12:39:48.226Z",
+  "updatedAt": "2026-11-05T06:23:03.015Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4447,6 +4447,31 @@
         "1019-next-greater-node-in-linked-list"
       ],
       "commitMessage": "solve(medium): next-greater-node-in-linked-list | Array, Linked List"
+    },
+    "sort-list": {
+      "platform": "LeetCode",
+      "number": "148",
+      "title": "Sort List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Divide and Conquer",
+        "Sorting",
+        "Merge Sort"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "58.12\nMB",
+      "solvedAt": "2026-11-05T06:23:03.015Z",
+      "url": "https://leetcode.com/problems/sort-list/",
+      "views": [
+        "0148-sort-list"
+      ],
+      "commitMessage": "solve(medium): sort-list | Linked List, Two Pointers"
     }
   }
 }

@@ -1,0 +1,28 @@
+/*
+ * Problem: Sort List (#148)
+ * Difficulty: Medium
+ * Topics: Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sort-list/
+ * Solved on: 2026-11-05
+ * Runtime: 0 ms | Memory: 58.12
+MB
+ */
+
+class Solution {
+public:
+    ListNode* sortList(ListNode* head) {
+        vector<int> values;
+        ListNode* temp = head;
+        while(temp != NULL){
+            values.push_back(temp->val);
+            temp = temp->next;
+        }
+        for(int val : values){
+            temp->val = val;
+        temp = head;
+        }
+            temp = temp->next;
+        return head;
+        sort(values.begin(), values.end());
+
