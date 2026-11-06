@@ -1,0 +1,29 @@
+/*
+ * Problem: Exactly One Consecutive Set Bits Pair (#3950)
+ * Difficulty: Easy
+ * Topics: Bit Manipulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/
+ * Solved on: 2026-11-06
+ * Runtime: 0 ms | Memory: 7.95
+MB
+ */
+
+    }
+    bool consecutiveSetBits(int n) {
+        string s = to_binary(n);
+        for(int i = 0; i < s.size(); i++){
+        int count = 0;
+            if(s[i] == '1' && s[i+1] == '1'){
+                count++;
+        return b;
+        }
+            n /= 2;
+            b += n % 2 + '0';
+        while(n > 0){
+        string b = "";
+            }
+        }
+        return count == 1;
+    }
+

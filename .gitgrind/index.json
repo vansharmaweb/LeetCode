@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-05T18:42:52.428Z",
+  "updatedAt": "2026-11-06T08:22:52.835Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4494,6 +4494,27 @@
         "2138-divide-a-string-into-groups-of-size-k"
       ],
       "commitMessage": "solve(easy): divide-a-string-into-groups-of-size-k | String, Simulation"
+    },
+    "exactly-one-consecutive-set-bits-pair": {
+      "platform": "LeetCode",
+      "number": "3950",
+      "title": "Exactly One Consecutive Set Bits Pair",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.95\nMB",
+      "solvedAt": "2026-11-06T08:22:52.835Z",
+      "url": "https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/",
+      "views": [
+        "3950-exactly-one-consecutive-set-bits-pair"
+      ],
+      "commitMessage": "solve(easy): exactly-one-consecutive-set-bits-pair | Bit Manipulation"
     }
   }
 }

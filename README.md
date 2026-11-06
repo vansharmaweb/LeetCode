@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-195-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-141-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-196-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-142-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/vansharmaweb/LeetCode/tree/main/3950-exactly-one-consecutive-set-bits-pair) |
 
 ### Boyer–Moore Majority Vote Algorithm
 
