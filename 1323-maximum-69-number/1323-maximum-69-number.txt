@@ -1,0 +1,28 @@
+/*
+ * Problem: Maximum 69 Number (#1323)
+ * Difficulty: Easy
+ * Topics: Math, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-69-number/
+ * Solved on: 2026-11-07
+ * Runtime: 0 ms | Memory: 7.91
+MB
+ */
+
+                    count++;
+                } else {
+                    ans = (ans * 10) + rev % 10;
+                    rev /= 10;
+                    rev /= 10;
+                    ans = (ans * 10) + 9;
+                if (count < 1) {
+            if (rev % 10 == 6) {
+        while (rev > 0) {
+        int count = 0;
+                }
+            }else{
+                ans = (ans * 10) + rev % 10;
+                rev /= 10;
+        }
+            }
+

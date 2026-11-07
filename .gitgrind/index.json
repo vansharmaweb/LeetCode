@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-06T08:29:48.707Z",
+  "updatedAt": "2026-11-07T14:41:23.936Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4536,6 +4536,28 @@
         "1281-subtract-the-product-and-sum-of-digits-of-an-integer"
       ],
       "commitMessage": "solve(easy): subtract-the-product-and-sum-of-digits-of-an-integer | Math"
+    },
+    "maximum-69-number": {
+      "platform": "LeetCode",
+      "number": "1323",
+      "title": "Maximum 69 Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.91\nMB",
+      "solvedAt": "2026-11-07T14:41:23.936Z",
+      "url": "https://leetcode.com/problems/maximum-69-number/",
+      "views": [
+        "1323-maximum-69-number"
+      ],
+      "commitMessage": "solve(easy): maximum-69-number | Math, Greedy"
     }
   }
 }
