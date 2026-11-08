@@ -5,22 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/contains-duplicate/
  * Solved on: 2026-11-08
- * Runtime: 0 ms | Memory: 112.89
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(int val : nums){
-            if(mp.find(val) != mp.end()){
-                return true;
-            }else{
+        // unordered_map<int, int> mp;
+        // for(int val : nums){
+        //     if(mp.find(val) != mp.end()){
+        //         return true;
+        //     }else{
+        //         mp[val]++;
+        sort(nums.begin(), nums.end());
+        for(int i = 0; i < nums.size()-1; i++){
+            if(nums[i] == nums[i+1]){
         }
-                mp[val]++;
+                return true;
             }
-    }
         return false;
-};
 
