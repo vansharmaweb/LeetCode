@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-07T14:41:23.936Z",
+  "updatedAt": "2026-11-08T07:46:37.104Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4558,6 +4558,32 @@
         "1323-maximum-69-number"
       ],
       "commitMessage": "solve(easy): maximum-69-number | Math, Greedy"
+    },
+    "contains-duplicate": {
+      "platform": "LeetCode",
+      "number": "217",
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "112.89\nMB",
+      "solvedAt": "2026-11-08T07:46:37.104Z",
+      "url": "https://leetcode.com/problems/contains-duplicate/",
+      "views": [
+        "0217-contains-duplicate"
+      ],
+      "commitMessage": "solve(easy): contains-duplicate | Array, Hash Table"
     }
   }
 }

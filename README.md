@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-198-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-144-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-199-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-145-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vansharmaweb/LeetCode/tree/main/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vansharmaweb/LeetCode/tree/main/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vansharmaweb/LeetCode/tree/main/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
