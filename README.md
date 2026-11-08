@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-199-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-145-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-200-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-146-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-53-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vansharmaweb/LeetCode/tree/main/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vansharmaweb/LeetCode/tree/main/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vansharmaweb/LeetCode/tree/main/0283-move-zeroes) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vansharmaweb/LeetCode/tree/main/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vansharmaweb/LeetCode/tree/main/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vansharmaweb/LeetCode/tree/main/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vansharmaweb/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vansharmaweb/LeetCode/tree/main/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
