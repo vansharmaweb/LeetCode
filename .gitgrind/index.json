@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-09T10:24:23.057Z",
+  "updatedAt": "2026-11-09T10:59:32.774Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4629,6 +4629,28 @@
         "1785-minimum-elements-to-add-to-form-a-given-sum"
       ],
       "commitMessage": "solve(medium): minimum-elements-to-add-to-form-a-given-sum | Array, Greedy"
+    },
+    "count-digit-appearances": {
+      "platform": "LeetCode",
+      "number": "3895",
+      "title": "Count Digit Appearances",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-09T10:59:32.774Z",
+      "url": "https://leetcode.com/problems/count-digit-appearances/",
+      "views": [
+        "3895-count-digit-appearances"
+      ],
+      "commitMessage": "solve(medium): count-digit-appearances | Array, Math"
     }
   }
 }

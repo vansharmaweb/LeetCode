@@ -1,0 +1,28 @@
+/*
+ * Problem: Count Digit Appearances (#3895)
+ * Difficulty: Medium
+ * Topics: Array, Math
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/count-digit-appearances/
+ * Solved on: 2026-11-09
+ * Runtime: 0 ms | Memory: null
+ */
+
+    int countDig(int n, int k){
+        int count = 0;
+    }
+    int countDigitOccurrences(vector<int>& nums, int digit) {
+        for(int val : nums){    
+        }
+            if(n % 10 == k){
+        }
+                count++;
+            }
+            n /= 10;
+        while(n > 0){
+            totalCount += countDig(val, digit);
+        int totalCount = 0;
+public:
+class Solution {
+        return count;
+

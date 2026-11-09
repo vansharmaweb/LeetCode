@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-201-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-146-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-54-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-202-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-146-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansharmaweb/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vansharmaweb/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/vansharmaweb/LeetCode/tree/main/3842-toggle-light-bulbs) |
+| [3895-count-digit-appearances](https://github.com/vansharmaweb/LeetCode/tree/main/3895-count-digit-appearances) |
 | [3921-score-validator](https://github.com/vansharmaweb/LeetCode/tree/main/3921-score-validator) |
 
 ### Binary Indexed Tree
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vansharmaweb/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vansharmaweb/LeetCode/tree/main/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/vansharmaweb/LeetCode/tree/main/3870-count-commas-in-range) |
+| [3895-count-digit-appearances](https://github.com/vansharmaweb/LeetCode/tree/main/3895-count-digit-appearances) |
 
 ### Matrix
 
