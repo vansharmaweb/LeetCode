@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-08T08:02:18.709Z",
+  "updatedAt": "2026-11-09T10:24:23.057Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4607,6 +4607,28 @@
         "0219-contains-duplicate-ii"
       ],
       "commitMessage": "solve(easy): contains-duplicate-ii | Array, Hash Table"
+    },
+    "minimum-elements-to-add-to-form-a-given-sum": {
+      "platform": "LeetCode",
+      "number": "1785",
+      "title": "Minimum Elements to Add to Form a Given Sum",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "8 ms",
+      "memory": "77.34\nMB",
+      "solvedAt": "2026-11-09T10:24:23.057Z",
+      "url": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/",
+      "views": [
+        "1785-minimum-elements-to-add-to-form-a-given-sum"
+      ],
+      "commitMessage": "solve(medium): minimum-elements-to-add-to-form-a-given-sum | Array, Greedy"
     }
   }
 }

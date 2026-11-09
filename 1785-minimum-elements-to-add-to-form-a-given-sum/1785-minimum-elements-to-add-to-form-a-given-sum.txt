@@ -1,0 +1,13 @@
+/*
+ * Problem: Minimum Elements to Add to Form a Given Sum (#1785)
+ * Difficulty: Medium
+ * Topics: Array, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
+ * Solved on: 2026-11-09
+ * Runtime: 8 ms | Memory: 77.34
+MB
+ */
+
+c
+
