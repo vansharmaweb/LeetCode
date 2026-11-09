@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-09T10:59:32.774Z",
+  "updatedAt": "2026-11-09T11:02:07.184Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4644,8 +4644,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": null,
-      "solvedAt": "2026-11-09T10:59:32.774Z",
+      "memory": "36.89\nMB",
+      "solvedAt": "2026-11-09T11:02:07.184Z",
       "url": "https://leetcode.com/problems/count-digit-appearances/",
       "views": [
         "3895-count-digit-appearances"

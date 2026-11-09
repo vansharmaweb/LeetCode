@@ -5,24 +5,25 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/count-digit-appearances/
  * Solved on: 2026-11-09
- * Runtime: 0 ms | Memory: null
+ * Runtime: 0 ms | Memory: 36.89
+MB
  */
 
-    int countDig(int n, int k){
-        int count = 0;
-    }
+    //     return count;
+    // }
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        for(int val : nums){    
-        }
-            if(n % 10 == k){
-        }
-                count++;
-            }
-            n /= 10;
-        while(n > 0){
-            totalCount += countDig(val, digit);
         int totalCount = 0;
-public:
-class Solution {
-        return count;
+        for (int val : nums) {
+            while (val > 0) {
+                if (val % 10 == digit) {
+                    count++;
+                }
+                val /= 10;
+            }
+            totalCount += count;
+        }
+            int count = 0;
+        return totalCount;
+    }
+};
 
