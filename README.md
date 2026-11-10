@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-202-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-146-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-203-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-147-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/vansharmaweb/LeetCode/tree/main/2236-root-equals-sum-of-children) |
 
 ### Bit Manipulation
 
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vansharmaweb/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vansharmaweb/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/vansharmaweb/LeetCode/tree/main/2236-root-equals-sum-of-children) |
 
 ### Two Pointers
 

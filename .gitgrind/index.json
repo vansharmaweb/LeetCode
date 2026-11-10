@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-09T11:02:07.184Z",
+  "updatedAt": "2026-11-10T08:40:32.075Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4651,6 +4651,28 @@
         "3895-count-digit-appearances"
       ],
       "commitMessage": "solve(medium): count-digit-appearances | Array, Math"
+    },
+    "root-equals-sum-of-children": {
+      "platform": "LeetCode",
+      "number": "2236",
+      "title": "Root Equals Sum of Children",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Tree",
+        "Binary Tree"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "15.20\nMB",
+      "solvedAt": "2026-11-10T08:40:32.075Z",
+      "url": "https://leetcode.com/problems/root-equals-sum-of-children/",
+      "views": [
+        "2236-root-equals-sum-of-children"
+      ],
+      "commitMessage": "solve(easy): root-equals-sum-of-children | Tree, Binary Tree"
     }
   }
 }
