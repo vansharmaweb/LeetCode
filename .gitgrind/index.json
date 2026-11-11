@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-10T08:40:32.075Z",
+  "updatedAt": "2026-11-11T09:16:49.143Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4673,6 +4673,30 @@
         "2236-root-equals-sum-of-children"
       ],
       "commitMessage": "solve(easy): root-equals-sum-of-children | Tree, Binary Tree"
+    },
+    "sort-the-people": {
+      "platform": "LeetCode",
+      "number": "2418",
+      "title": "Sort the People",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-11T09:16:49.143Z",
+      "url": "https://leetcode.com/problems/sort-the-people/",
+      "views": [
+        "2418-sort-the-people"
+      ],
+      "commitMessage": "solve(easy): sort-the-people | Array, Hash Table"
     }
   }
 }

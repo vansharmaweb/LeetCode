@@ -1,0 +1,26 @@
+/*
+ * Problem: Sort the People (#2418)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, String, Sorting
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sort-the-people/
+ * Solved on: 2026-11-11
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
+        map<int, string> mp;
+        for(int i = 0; i < names.size(); i++){
+            mp[heights[i]] = names[i];
+        }
+        for(auto it : mp){
+        vector<string> ans;
+            ans.push_back(it.second);
+        }
+    }
+        return ans;
+        reverse(ans.begin(), ans.end());
+};
+

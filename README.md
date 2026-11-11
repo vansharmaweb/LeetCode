@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-203-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-147-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-204-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-148-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/vansharmaweb/LeetCode/tree/main/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/vansharmaweb/LeetCode/tree/main/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vansharmaweb/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vansharmaweb/LeetCode/tree/main/3120-count-the-number-of-special-characters-i) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/vansharmaweb/LeetCode/tree/main/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vansharmaweb/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/vansharmaweb/LeetCode/tree/main/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/vansharmaweb/LeetCode/tree/main/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/vansharmaweb/LeetCode/tree/main/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vansharmaweb/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/vansharmaweb/LeetCode/tree/main/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/vansharmaweb/LeetCode/tree/main/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/vansharmaweb/LeetCode/tree/main/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/vansharmaweb/LeetCode/tree/main/2942-find-words-containing-character) |
