@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-11T09:16:49.143Z",
+  "updatedAt": "2026-11-12T14:57:52.587Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4697,6 +4697,27 @@
         "2418-sort-the-people"
       ],
       "commitMessage": "solve(easy): sort-the-people | Array, Hash Table"
+    },
+    "divisible-and-non-divisible-sums-difference": {
+      "platform": "LeetCode",
+      "number": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.3 MB",
+      "solvedAt": "2026-11-12T14:57:52.587Z",
+      "url": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "views": [
+        "2894-divisible-and-non-divisible-sums-difference"
+      ],
+      "commitMessage": "solve(easy): divisible-and-non-divisible-sums-difference | Math"
     }
   }
 }
