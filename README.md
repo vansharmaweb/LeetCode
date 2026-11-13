@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-205-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-149-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-206-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-149-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-56-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vansharmaweb/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/vansharmaweb/LeetCode/tree/main/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/vansharmaweb/LeetCode/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vansharmaweb/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/vansharmaweb/LeetCode/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/vansharmaweb/LeetCode/tree/main/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vansharmaweb/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |

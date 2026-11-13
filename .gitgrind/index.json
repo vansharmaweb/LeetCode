@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-12T14:57:52.587Z",
+  "updatedAt": "2026-11-13T18:11:08.301Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4718,6 +4718,28 @@
         "2894-divisible-and-non-divisible-sums-difference"
       ],
       "commitMessage": "solve(easy): divisible-and-non-divisible-sums-difference | Math"
+    },
+    "number-of-substrings-with-only-1s": {
+      "platform": "LeetCode",
+      "number": "1513",
+      "title": "Number of Substrings With Only 1s",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-11-13T18:11:08.301Z",
+      "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+      "views": [
+        "1513-number-of-substrings-with-only-1s"
+      ],
+      "commitMessage": "solve(medium): number-of-substrings-with-only-1s | Math, String"
     }
   }
 }
