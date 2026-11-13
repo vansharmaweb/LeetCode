@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-13T18:11:08.301Z",
+  "updatedAt": "2026-11-13T18:13:54.829Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4734,7 +4734,7 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-11-13T18:11:08.301Z",
+      "solvedAt": "2026-11-13T18:13:54.829Z",
       "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
       "views": [
         "1513-number-of-substrings-with-only-1s"
