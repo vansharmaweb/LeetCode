@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-14T09:31:49.390Z",
+  "updatedAt": "2026-11-15T21:17:34.020Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -1100,9 +1100,9 @@
         "NeetCode 150"
       ],
       "contest": null,
-      "runtime": "0 ms",
-      "memory": "14.7 MB",
-      "solvedAt": "2026-10-02T19:57:07.620Z",
+      "runtime": "2 ms",
+      "memory": "15 MB",
+      "solvedAt": "2026-11-15T21:17:34.020Z",
       "url": "https://leetcode.com/problems/two-sum/",
       "views": [
         "0001-two-sum"
