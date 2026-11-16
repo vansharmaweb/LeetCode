@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-15T21:17:34.020Z",
+  "updatedAt": "2026-11-16T05:02:54.523Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4740,6 +4740,28 @@
         "1513-number-of-substrings-with-only-1s"
       ],
       "commitMessage": "solve(medium): number-of-substrings-with-only-1s | Math, String"
+    },
+    "calculate-digit-sum-of-a-string": {
+      "platform": "LeetCode",
+      "number": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "9.00\nMB",
+      "solvedAt": "2026-11-16T05:02:54.523Z",
+      "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "views": [
+        "2243-calculate-digit-sum-of-a-string"
+      ],
+      "commitMessage": "solve(easy): calculate-digit-sum-of-a-string | String, Simulation"
     }
   }
 }
