@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-16T05:02:54.523Z",
+  "updatedAt": "2026-11-16T06:00:51.339Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4762,6 +4762,31 @@
         "2243-calculate-digit-sum-of-a-string"
       ],
       "commitMessage": "solve(easy): calculate-digit-sum-of-a-string | String, Simulation"
+    },
+    "find-triangular-sum-of-an-array": {
+      "platform": "LeetCode",
+      "number": "2221",
+      "title": "Find Triangular Sum of an Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math",
+        "Simulation",
+        "Combinatorics",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-16T06:00:51.339Z",
+      "url": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+      "views": [
+        "2221-find-triangular-sum-of-an-array"
+      ],
+      "commitMessage": "solve(medium): find-triangular-sum-of-an-array | Array, Math"
     }
   }
 }
