@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-16T06:00:51.339Z",
+  "updatedAt": "2026-11-16T10:15:47.866Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -1250,8 +1250,8 @@
       ],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "95.8 MB",
-      "solvedAt": "2026-10-02T19:59:45.468Z",
+      "memory": "95.85\nMB",
+      "solvedAt": "2026-11-16T10:15:47.866Z",
       "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
       "views": [
         "0004-median-of-two-sorted-arrays"
