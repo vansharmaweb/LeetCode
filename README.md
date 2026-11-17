@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-208-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-150-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-209-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-150-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vansharmaweb/LeetCode/tree/main/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0033-search-in-rotated-sorted-array) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0015-3sum](https://github.com/vansharmaweb/LeetCode/tree/main/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vansharmaweb/LeetCode/tree/main/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vansharmaweb/LeetCode/tree/main/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vansharmaweb/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vansharmaweb/LeetCode/tree/main/0027-remove-element) |

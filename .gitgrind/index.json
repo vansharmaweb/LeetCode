@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-16T10:15:47.866Z",
+  "updatedAt": "2026-11-17T04:21:43.445Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4787,6 +4787,32 @@
         "2221-find-triangular-sum-of-an-array"
       ],
       "commitMessage": "solve(medium): find-triangular-sum-of-an-array | Array, Math"
+    },
+    "3sum": {
+      "platform": "LeetCode",
+      "number": "15",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "295.22\nMB",
+      "solvedAt": "2026-11-17T04:21:43.445Z",
+      "url": "https://leetcode.com/problems/3sum/",
+      "views": [
+        "0015-3sum"
+      ],
+      "commitMessage": "solve(medium): 3sum | Array, Two Pointers"
     }
   }
 }
