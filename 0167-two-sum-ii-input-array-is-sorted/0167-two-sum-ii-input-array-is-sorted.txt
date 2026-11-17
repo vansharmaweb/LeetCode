@@ -1,0 +1,24 @@
+/*
+ * Problem: Two Sum II - Input Array Is Sorted (#167)
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ * Solved on: 2026-11-17
+ * Runtime: 0
+ms | Memory: 25.46
+MB
+ */
+
+            }else if(sum < target){
+                i++;
+            }else{
+                j--;
+            }
+        }
+        return {-1, -1};
+    }
+};
+                return {i+1, j+1};
+            if(sum == target){
+

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-17T05:04:31.793Z",
+  "updatedAt": "2026-11-17T12:38:36.561Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4835,6 +4835,31 @@
         "0086-partition-list"
       ],
       "commitMessage": "solve(medium): partition-list | Linked List, Two Pointers"
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "platform": "LeetCode",
+      "number": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "25.46\nMB",
+      "solvedAt": "2026-11-17T12:38:36.561Z",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "views": [
+        "0167-two-sum-ii-input-array-is-sorted"
+      ],
+      "commitMessage": "solve(medium): two-sum-ii-input-array-is-sorted | Array, Two Pointers"
     }
   }
 }
