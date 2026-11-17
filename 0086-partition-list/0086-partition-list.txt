@@ -5,7 +5,7 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/partition-list/
  * Solved on: 2026-11-17
- * Runtime: 0 ms | Memory: 14.91
+ * Runtime: 0 ms | Memory: 14.76
 MB
  */
 
@@ -17,9 +17,11 @@ MB
         }
         p2->next = NULL;
         p1->next = dummy2->next;
-        return dummy1->next;
+        return result;
     }
                 p1 = p1->next;
-
+        delete dummy1;
+        delete dummy2;
+        ListNode* result = dummy1->next;
 };
 
