@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-17T04:29:03.549Z",
+  "updatedAt": "2026-11-17T04:47:33.364Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4813,6 +4813,28 @@
         "0015-3sum"
       ],
       "commitMessage": "solve(medium): 3sum | Array, Two Pointers"
+    },
+    "partition-list": {
+      "platform": "LeetCode",
+      "number": "86",
+      "title": "Partition List",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "14.91\nMB",
+      "solvedAt": "2026-11-17T04:47:33.364Z",
+      "url": "https://leetcode.com/problems/partition-list/",
+      "views": [
+        "0086-partition-list"
+      ],
+      "commitMessage": "solve(medium): partition-list | Linked List, Two Pointers"
     }
   }
 }
