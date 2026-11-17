@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-17T12:38:36.561Z",
+  "updatedAt": "2026-11-17T13:04:26.149Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -1276,9 +1276,9 @@
         "NeetCode 150"
       ],
       "contest": null,
-      "runtime": "7 ms",
-      "memory": "19.6 MB",
-      "solvedAt": "2026-10-02T20:00:41.744Z",
+      "runtime": "1\nms",
+      "memory": "9.73\nMB",
+      "solvedAt": "2026-11-17T13:04:26.149Z",
       "url": "https://leetcode.com/problems/valid-palindrome/",
       "views": [
         "0125-valid-palindrome"
