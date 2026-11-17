@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-17T04:50:09.827Z",
+  "updatedAt": "2026-11-17T05:04:31.793Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -433,9 +433,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "7 ms",
-      "memory": "132.2 MB",
-      "solvedAt": "2026-10-02T19:29:15.042Z",
+      "runtime": "0 ms",
+      "memory": "117.84\nMB",
+      "solvedAt": "2026-11-17T05:04:31.793Z",
       "url": "https://leetcode.com/problems/palindrome-linked-list/",
       "views": [
         "0234-palindrome-linked-list"
