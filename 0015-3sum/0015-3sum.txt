@@ -5,25 +5,21 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/3sum/
  * Solved on: 2026-11-17
- * Runtime: 0 ms | Memory: 295.22
+ * Runtime: 0 ms | Memory: 291.77
 MB
  */
 
-                    st.insert({nums[i], nums[lo], nums[hi]});
-                }else if(sum < 0){
                     lo++;
                     hi--;
+                }else if(sum < 0){
                     lo++;
                 }else{
                     hi--;
-                if(sum == 0){
-            while(lo < hi){
-            int hi = nums.size()-1;
-            int lo = i + 1;
-        for(int i = 0; i < nums.size(); i++){
-        set<vector<int>> st;
-        sort(nums.begin(), nums.end());
-    vector<vector<int>> threeSum(vector<int>& nums) {
-public:
-                int sum = nums[i] + nums[lo] + nums[hi];
+                }
+            }
+        }
+        return ans;
+    }
+        vector<vector<int>> ans (st.begin(), st.end());
+};
 
