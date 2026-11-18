@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-211-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-150-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-212-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-151-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vansharmaweb/LeetCode/tree/main/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vansharmaweb/LeetCode/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vansharmaweb/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/vansharmaweb/LeetCode/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vansharmaweb/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/vansharmaweb/LeetCode/tree/main/1920-build-array-from-permutation) |

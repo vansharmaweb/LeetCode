@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-17T13:04:26.149Z",
+  "updatedAt": "2026-11-18T04:59:21.235Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4860,6 +4860,27 @@
         "0167-two-sum-ii-input-array-is-sorted"
       ],
       "commitMessage": "solve(medium): two-sum-ii-input-array-is-sorted | Array, Two Pointers"
+    },
+    "check-if-array-is-sorted-and-rotated": {
+      "platform": "LeetCode",
+      "number": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-18T04:59:21.235Z",
+      "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "views": [
+        "1752-check-if-array-is-sorted-and-rotated"
+      ],
+      "commitMessage": "solve(easy): check-if-array-is-sorted-and-rotated | Array"
     }
   }
 }
