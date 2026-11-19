@@ -1,0 +1,26 @@
+/*
+ * Problem: Remove Linked List Elements (#203)
+ * Difficulty: Easy
+ * Topics: Linked List, Recursion
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/remove-linked-list-elements/
+ * Solved on: 2026-11-19
+ * Runtime: 0 ms | Memory: 20.02
+MB
+ */
+
+        while(curr != NULL){
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+            if(curr->val == val){
+                else prev->next = curr->next;
+            }else{
+            curr = curr->next;
+        }
+        return head;
+                prev = curr;
+            }
+                if(prev == NULL) head = curr->next;
+    }
+};
+

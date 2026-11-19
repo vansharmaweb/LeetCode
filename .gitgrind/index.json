@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-18T04:59:21.235Z",
+  "updatedAt": "2026-11-19T06:47:41.102Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4881,6 +4881,28 @@
         "1752-check-if-array-is-sorted-and-rotated"
       ],
       "commitMessage": "solve(easy): check-if-array-is-sorted-and-rotated | Array"
+    },
+    "remove-linked-list-elements": {
+      "platform": "LeetCode",
+      "number": "203",
+      "title": "Remove Linked List Elements",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "20.02\nMB",
+      "solvedAt": "2026-11-19T06:47:41.102Z",
+      "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "views": [
+        "0203-remove-linked-list-elements"
+      ],
+      "commitMessage": "solve(easy): remove-linked-list-elements | Linked List, Recursion"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-212-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-151-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-213-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-152-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-60-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vansharmaweb/LeetCode/tree/main/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/vansharmaweb/LeetCode/tree/main/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0021-merge-two-sorted-lists](https://github.com/vansharmaweb/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/vansharmaweb/LeetCode/tree/main/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/vansharmaweb/LeetCode/tree/main/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0234-palindrome-linked-list) |
