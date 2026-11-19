@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-19T06:47:41.102Z",
+  "updatedAt": "2026-11-19T07:18:10.586Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4903,6 +4903,29 @@
         "0203-remove-linked-list-elements"
       ],
       "commitMessage": "solve(easy): remove-linked-list-elements | Linked List, Recursion"
+    },
+    "delete-nodes-from-linked-list-present-in-array": {
+      "platform": "LeetCode",
+      "number": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "21 ms",
+      "memory": "291.75\nMB",
+      "solvedAt": "2026-11-19T07:18:10.586Z",
+      "url": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "views": [
+        "3217-delete-nodes-from-linked-list-present-in-array"
+      ],
+      "commitMessage": "solve(medium): delete-nodes-from-linked-list-present-in-array | Array, Hash Table"
     }
   }
 }

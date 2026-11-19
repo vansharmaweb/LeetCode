@@ -1,0 +1,28 @@
+/*
+ * Problem: Delete Nodes From Linked List Present in Array (#3217)
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, Linked List
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
+ * Solved on: 2026-11-19
+ * Runtime: 21 ms | Memory: 291.75
+MB
+ */
+
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        while(curr != NULL){
+    ListNode* to_delete(ListNode* &head, unordered_set<int> st){
+ */
+class Solution {
+private:
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ * struct ListNode {
+ *     int val;
+/**
+ * Definition for singly-linked list.
+
