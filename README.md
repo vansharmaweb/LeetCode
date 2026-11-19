@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-214-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-152-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-61-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-215-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-153-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-61-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/vansharmaweb/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/vansharmaweb/LeetCode/tree/main/2579-count-total-number-of-colored-cells) |
+| [2651-calculate-delayed-arrival-time](https://github.com/vansharmaweb/LeetCode/tree/main/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/vansharmaweb/LeetCode/tree/main/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vansharmaweb/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference) |

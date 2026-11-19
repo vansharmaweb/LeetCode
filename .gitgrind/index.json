@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-19T07:18:10.586Z",
+  "updatedAt": "2026-11-19T07:21:43.751Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4926,6 +4926,27 @@
         "3217-delete-nodes-from-linked-list-present-in-array"
       ],
       "commitMessage": "solve(medium): delete-nodes-from-linked-list-present-in-array | Array, Hash Table"
+    },
+    "calculate-delayed-arrival-time": {
+      "platform": "LeetCode",
+      "number": "2651",
+      "title": "Calculate Delayed Arrival Time",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.32\nMB",
+      "solvedAt": "2026-11-19T07:21:43.751Z",
+      "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
+      "views": [
+        "2651-calculate-delayed-arrival-time"
+      ],
+      "commitMessage": "solve(easy): calculate-delayed-arrival-time | Math"
     }
   }
 }
