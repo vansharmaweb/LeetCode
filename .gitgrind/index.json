@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-19T07:21:43.751Z",
+  "updatedAt": "2026-11-19T07:22:13.372Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4940,8 +4940,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "8.32\nMB",
-      "solvedAt": "2026-11-19T07:21:43.751Z",
+      "memory": "8.21\nMB",
+      "solvedAt": "2026-11-19T07:22:13.372Z",
       "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
       "views": [
         "2651-calculate-delayed-arrival-time"

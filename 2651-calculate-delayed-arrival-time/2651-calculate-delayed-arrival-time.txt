@@ -5,14 +5,14 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/calculate-delayed-arrival-time/
  * Solved on: 2026-11-19
- * Runtime: 0 ms | Memory: 8.32
+ * Runtime: 0 ms | Memory: 8.21
 MB
  */
 
 class Solution {
 public:
     int findDelayedArrivalTime(int arrivalTime, int delayedTime) {
-        return (arrivalTime + delayedTime) % 24;
+        return (arrivalTime + delayedTime)%24;
     }
 };
 
