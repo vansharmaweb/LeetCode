@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-19T07:22:13.372Z",
+  "updatedAt": "2026-11-20T10:34:33.771Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4947,6 +4947,35 @@
         "2651-calculate-delayed-arrival-time"
       ],
       "commitMessage": "solve(easy): calculate-delayed-arrival-time | Math"
+    },
+    "missing-number": {
+      "platform": "LeetCode",
+      "number": "268",
+      "title": "Missing Number",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "21.72\nMB",
+      "solvedAt": "2026-11-20T10:34:33.771Z",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "views": [
+        "0268-missing-number"
+      ],
+      "commitMessage": "solve(easy): missing-number | Array, Hash Table"
     }
   }
 }
