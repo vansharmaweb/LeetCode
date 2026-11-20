@@ -1,0 +1,25 @@
+/*
+ * Problem: Distribute Candies (#575)
+ * Difficulty: Easy
+ * Topics: Array, Hash Table
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/distribute-candies/
+ * Solved on: 2026-11-20
+ * Runtime: 0 ms | Memory: 120.01
+MB
+ */
+
+class Solution {
+public:
+    int distributeCandies(vector<int>& candyType) {
+        unordered_map<int, int> mp;
+        for(int val : candyType){
+            mp[val]++;
+        }
+        return ans;
+    }
+        int canEat = candyType.size()/2;
+        int ans = min(n, canEat);
+        int n = mp.size();
+};
+

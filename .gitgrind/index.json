@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-20T10:34:33.771Z",
+  "updatedAt": "2026-11-20T11:04:00.243Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4976,6 +4976,28 @@
         "0268-missing-number"
       ],
       "commitMessage": "solve(easy): missing-number | Array, Hash Table"
+    },
+    "distribute-candies": {
+      "platform": "LeetCode",
+      "number": "575",
+      "title": "Distribute Candies",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "120.01\nMB",
+      "solvedAt": "2026-11-20T11:04:00.243Z",
+      "url": "https://leetcode.com/problems/distribute-candies/",
+      "views": [
+        "0575-distribute-candies"
+      ],
+      "commitMessage": "solve(easy): distribute-candies | Array, Hash Table"
     }
   }
 }
