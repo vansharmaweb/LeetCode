@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-20T11:04:00.243Z",
+  "updatedAt": "2026-11-21T06:25:23.459Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -4998,6 +4998,28 @@
         "0575-distribute-candies"
       ],
       "commitMessage": "solve(easy): distribute-candies | Array, Hash Table"
+    },
+    "determine-if-string-halves-are-alike": {
+      "platform": "LeetCode",
+      "number": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Counting"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "1 ms",
+      "memory": null,
+      "solvedAt": "2026-11-21T06:25:23.459Z",
+      "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "views": [
+        "1704-determine-if-string-halves-are-alike"
+      ],
+      "commitMessage": "solve(easy): determine-if-string-halves-are-alike | String, Counting"
     }
   }
 }

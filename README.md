@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-217-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-155-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-61-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-218-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-156-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-61-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vansharmaweb/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/vansharmaweb/LeetCode/tree/main/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vansharmaweb/LeetCode/tree/main/1704-determine-if-string-halves-are-alike) |
 | [2351-first-letter-to-appear-twice](https://github.com/vansharmaweb/LeetCode/tree/main/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/vansharmaweb/LeetCode/tree/main/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vansharmaweb/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vansharmaweb/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/vansharmaweb/LeetCode/tree/main/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vansharmaweb/LeetCode/tree/main/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/vansharmaweb/LeetCode/tree/main/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vansharmaweb/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words) |
