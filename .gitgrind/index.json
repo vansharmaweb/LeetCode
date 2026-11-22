@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-21T06:25:23.459Z",
+  "updatedAt": "2026-11-22T13:07:54.427Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5020,6 +5020,27 @@
         "1704-determine-if-string-halves-are-alike"
       ],
       "commitMessage": "solve(easy): determine-if-string-halves-are-alike | String, Counting"
+    },
+    "check-if-all-as-appears-before-all-bs": {
+      "platform": "LeetCode",
+      "number": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "String"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "8.15\nMB",
+      "solvedAt": "2026-11-22T13:07:54.427Z",
+      "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "views": [
+        "2124-check-if-all-as-appears-before-all-bs"
+      ],
+      "commitMessage": "solve(easy): check-if-all-as-appears-before-all-bs | String"
     }
   }
 }

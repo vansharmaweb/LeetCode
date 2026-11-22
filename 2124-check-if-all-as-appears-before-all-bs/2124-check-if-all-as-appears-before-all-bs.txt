@@ -1,0 +1,23 @@
+/*
+ * Problem: Check if All A's Appears Before All B's (#2124)
+ * Difficulty: Easy
+ * Topics: String
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+ * Solved on: 2026-11-22
+ * Runtime: 0 ms | Memory: 8.15
+MB
+ */
+
+class Solution {
+public:
+    bool checkString(string s) {
+        for(int i = 0; i < s.length(); i++){
+            if(s[i] == 'b' && s[i+1] == 'a'){
+                return false;
+            }
+        }
+    }
+        return true;
+};
+
