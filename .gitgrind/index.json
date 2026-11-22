@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-22T13:07:54.427Z",
+  "updatedAt": "2026-11-22T13:13:19.022Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5041,6 +5041,29 @@
         "2124-check-if-all-as-appears-before-all-bs"
       ],
       "commitMessage": "solve(easy): check-if-all-as-appears-before-all-bs | String"
+    },
+    "minimum-deletions-to-make-string-balanced": {
+      "platform": "LeetCode",
+      "number": "1653",
+      "title": "Minimum Deletions to Make String Balanced",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "35.01\nMB",
+      "solvedAt": "2026-11-22T13:13:19.022Z",
+      "url": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/",
+      "views": [
+        "1653-minimum-deletions-to-make-string-balanced"
+      ],
+      "commitMessage": "solve(medium): minimum-deletions-to-make-string-balanced | String, Dynamic Programming"
     }
   }
 }

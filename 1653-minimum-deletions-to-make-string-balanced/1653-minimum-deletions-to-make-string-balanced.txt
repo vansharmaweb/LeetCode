@@ -1,0 +1,28 @@
+/*
+ * Problem: Minimum Deletions to Make String Balanced (#1653)
+ * Difficulty: Medium
+ * Topics: String, Dynamic Programming, Stack
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+ * Solved on: 2026-11-22
+ * Runtime: 0 ms | Memory: 35.01
+MB
+ */
+
+class Solution {
+public:
+    int minimumDeletions(string s) {
+        stack<int> st;
+        for(int i = s.length(); i >= 0; i--){
+            if(s[i] == 'b' && st.top() == 'a'){
+                st.pop();
+            }else{
+        }
+                count++;
+                st.push(s[i]);
+            }
+    }
+        return count;
+        int count = 0;
+};
+
