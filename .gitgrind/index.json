@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-23T09:00:10.686Z",
+  "updatedAt": "2026-11-23T09:21:13.977Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5082,8 +5082,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "98.29\nMB",
-      "solvedAt": "2026-11-23T09:00:10.686Z",
+      "memory": null,
+      "solvedAt": "2026-11-23T09:21:13.977Z",
       "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
       "views": [
         "1352-product-of-the-last-k-numbers"

@@ -5,25 +5,23 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/product-of-the-last-k-numbers/
  * Solved on: 2026-11-23
- * Runtime: 0 ms | Memory: 98.29
-MB
+ * Runtime: 0 ms | Memory: null
  */
 
+class ProductOfNumbers {
+public:
+    vector<int> list;
+    ProductOfNumbers() {
+        list.push_back(0);
+    }
+    
+    void add(int num) {
+        list.push_back(num);
+    }
+    
+    int getProduct(int k) {
+        int product = 1;
+        for(int i = list.size()-k; i < list.size(); i++){
             product *= list[i];
         }
-        for(int i = list.size()-k; i < list.size(); i++){
-        int product = 1;
-    int getProduct(int k) {
-    
-    }
-        list.push_back(num);
-    void add(int num) {
-    
-    }
-    ProductOfNumbers() {
-        return product;
-    }
-};
-
-/**
 
