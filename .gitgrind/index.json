@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-22T13:13:19.022Z",
+  "updatedAt": "2026-11-23T09:00:10.686Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5064,6 +5064,31 @@
         "1653-minimum-deletions-to-make-string-balanced"
       ],
       "commitMessage": "solve(medium): minimum-deletions-to-make-string-balanced | String, Dynamic Programming"
+    },
+    "product-of-the-last-k-numbers": {
+      "platform": "LeetCode",
+      "number": "1352",
+      "title": "Product of the Last K Numbers",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Math",
+        "Design",
+        "Data Stream",
+        "Prefix Sum"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "98.29\nMB",
+      "solvedAt": "2026-11-23T09:00:10.686Z",
+      "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "views": [
+        "1352-product-of-the-last-k-numbers"
+      ],
+      "commitMessage": "solve(medium): product-of-the-last-k-numbers | Array, Math"
     }
   }
 }

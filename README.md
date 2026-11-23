@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-220-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-157-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-62-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-221-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-157-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-63-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/vansharmaweb/LeetCode/tree/main/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/vansharmaweb/LeetCode/tree/main/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vansharmaweb/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vansharmaweb/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vansharmaweb/LeetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vansharmaweb/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -242,6 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 
+### Data Stream
+
+|  |
+| --- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
+
 ### Database
 
 |  |
@@ -271,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vansharmaweb/LeetCode/tree/main/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vansharmaweb/LeetCode/tree/main/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vansharmaweb/LeetCode/tree/main/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 
 ### Divide and Conquer
 
@@ -472,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vansharmaweb/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/vansharmaweb/LeetCode/tree/main/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vansharmaweb/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/vansharmaweb/LeetCode/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
@@ -571,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vansharmaweb/LeetCode/tree/main/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/vansharmaweb/LeetCode/tree/main/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/vansharmaweb/LeetCode/tree/main/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vansharmaweb/LeetCode/tree/main/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vansharmaweb/LeetCode/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |

@@ -1,0 +1,29 @@
+/*
+ * Problem: Product of the Last K Numbers (#1352)
+ * Difficulty: Medium
+ * Topics: Array, Math, Design, Data Stream, Prefix Sum
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/product-of-the-last-k-numbers/
+ * Solved on: 2026-11-23
+ * Runtime: 0 ms | Memory: 98.29
+MB
+ */
+
+            product *= list[i];
+        }
+        for(int i = list.size()-k; i < list.size(); i++){
+        int product = 1;
+    int getProduct(int k) {
+    
+    }
+        list.push_back(num);
+    void add(int num) {
+    
+    }
+    ProductOfNumbers() {
+        return product;
+    }
+};
+
+/**
+
