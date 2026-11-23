@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-23T10:20:11.164Z",
+  "updatedAt": "2026-11-23T10:23:41.186Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5111,6 +5111,27 @@
         "3918-sum-of-primes-between-number-and-its-reverse"
       ],
       "commitMessage": "solve(medium): sum-of-primes-between-number-and-its-reverse | Math, Number Theory"
+    },
+    "sum-of-digits-in-base-k": {
+      "platform": "LeetCode",
+      "number": "1837",
+      "title": "Sum of Digits in Base K",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "7.92\nMB",
+      "solvedAt": "2026-11-23T10:23:41.186Z",
+      "url": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+      "views": [
+        "1837-sum-of-digits-in-base-k"
+      ],
+      "commitMessage": "solve(easy): sum-of-digits-in-base-k | Math"
     }
   }
 }

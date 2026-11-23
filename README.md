@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-222-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-157-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-64-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-223-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-64-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/vansharmaweb/LeetCode/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vansharmaweb/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square) |
+| [1837-sum-of-digits-in-base-k](https://github.com/vansharmaweb/LeetCode/tree/main/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/vansharmaweb/LeetCode/tree/main/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vansharmaweb/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vansharmaweb/LeetCode/tree/main/2169-count-operations-to-obtain-zero) |
