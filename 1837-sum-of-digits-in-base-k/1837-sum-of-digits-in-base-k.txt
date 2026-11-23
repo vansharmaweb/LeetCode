@@ -5,7 +5,7 @@
  * Language: Sort by:
  * LeetCode URL: https://leetcode.com/problems/sum-of-digits-in-base-k/
  * Solved on: 2026-11-23
- * Runtime: 0 ms | Memory: 7.92
+ * Runtime: 0 ms | Memory: 7.68
 MB
  */
 
@@ -14,10 +14,10 @@ public:
     int sumBase(int n, int k) {
         int sum = 0;
         while(n > 0){
-            sum += n % k;
+            sum = sum + n % k;
             n /= k;
         }
-    }
         return sum;
+    }
 };
 

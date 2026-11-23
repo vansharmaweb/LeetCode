@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-23T10:23:41.186Z",
+  "updatedAt": "2026-11-23T10:24:09.947Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5125,8 +5125,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "7.92\nMB",
-      "solvedAt": "2026-11-23T10:23:41.186Z",
+      "memory": "7.68\nMB",
+      "solvedAt": "2026-11-23T10:24:09.947Z",
       "url": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
       "views": [
         "1837-sum-of-digits-in-base-k"
