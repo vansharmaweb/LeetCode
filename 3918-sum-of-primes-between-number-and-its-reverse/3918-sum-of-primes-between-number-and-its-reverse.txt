@@ -1,0 +1,23 @@
+/*
+ * Problem: Sum of Primes Between Number and Its Reverse (#3918)
+ * Difficulty: Medium
+ * Topics: Math, Number Theory
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/
+ * Solved on: 2026-11-23
+ * Runtime: 0 ms | Memory: null
+ */
+
+        int n = reverse(m);
+        int x = min(m, n);
+        int y = max(m, n);
+        long sum = 0;
+        for(int i = x; i <= y; i++){
+            if(isPrime(i)){
+                sum += i;
+            }
+        }
+        return sum;
+    }
+};
+

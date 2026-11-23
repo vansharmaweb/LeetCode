@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-23T09:21:13.977Z",
+  "updatedAt": "2026-11-23T10:20:11.164Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5089,6 +5089,28 @@
         "1352-product-of-the-last-k-numbers"
       ],
       "commitMessage": "solve(medium): product-of-the-last-k-numbers | Array, Math"
+    },
+    "sum-of-primes-between-number-and-its-reverse": {
+      "platform": "LeetCode",
+      "number": "3918",
+      "title": "Sum of Primes Between Number and Its Reverse",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-23T10:20:11.164Z",
+      "url": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+      "views": [
+        "3918-sum-of-primes-between-number-and-its-reverse"
+      ],
+      "commitMessage": "solve(medium): sum-of-primes-between-number-and-its-reverse | Math, Number Theory"
     }
   }
 }

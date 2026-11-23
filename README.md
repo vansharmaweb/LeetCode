@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-221-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-157-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-63-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-222-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-157-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-64-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/vansharmaweb/LeetCode/tree/main/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/vansharmaweb/LeetCode/tree/main/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/vansharmaweb/LeetCode/tree/main/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vansharmaweb/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse) |
 
 ### Matrix
 
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vansharmaweb/LeetCode/tree/main/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vansharmaweb/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse) |
 
 ### Pigeonhole Principle
 
