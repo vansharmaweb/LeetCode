@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-223-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-64-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-224-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-65-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vansharmaweb/LeetCode/tree/main/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vansharmaweb/LeetCode/tree/main/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/vansharmaweb/LeetCode/tree/main/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/vansharmaweb/LeetCode/tree/main/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vansharmaweb/LeetCode/tree/main/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/vansharmaweb/LeetCode/tree/main/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vansharmaweb/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vansharmaweb/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 

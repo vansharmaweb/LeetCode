@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-24T04:32:43.151Z",
+  "updatedAt": "2026-11-24T05:24:12.096Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5132,6 +5132,30 @@
         "1837-sum-of-digits-in-base-k"
       ],
       "commitMessage": "solve(easy): sum-of-digits-in-base-k | Math"
+    },
+    "koko-eating-bananas": {
+      "platform": "LeetCode",
+      "number": "875",
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": "23.01\nMB",
+      "solvedAt": "2026-11-24T05:24:12.096Z",
+      "url": "https://leetcode.com/problems/koko-eating-bananas/",
+      "views": [
+        "0875-koko-eating-bananas"
+      ],
+      "commitMessage": "solve(medium): koko-eating-bananas | Array, Binary Search"
     }
   }
 }
