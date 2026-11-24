@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-23T10:24:09.947Z",
+  "updatedAt": "2026-11-24T04:32:43.151Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -3121,8 +3121,8 @@
       "sheets": [],
       "contest": null,
       "runtime": "0 ms",
-      "memory": "0.00\nMB",
-      "solvedAt": "2026-10-17T11:05:50.492Z",
+      "memory": "16.16\nMB",
+      "solvedAt": "2026-11-24T04:32:43.151Z",
       "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
       "views": [
         "1979-find-greatest-common-divisor-of-array"
