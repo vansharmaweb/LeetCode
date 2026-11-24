@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-24T05:24:12.096Z",
+  "updatedAt": "2026-11-24T12:46:13.253Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5156,6 +5156,32 @@
         "0875-koko-eating-bananas"
       ],
       "commitMessage": "solve(medium): koko-eating-bananas | Array, Binary Search"
+    },
+    "partition-labels": {
+      "platform": "LeetCode",
+      "number": "763",
+      "title": "Partition Labels",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ],
+      "companies": [],
+      "sheets": [
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "8.86\nMB",
+      "solvedAt": "2026-11-24T12:46:13.253Z",
+      "url": "https://leetcode.com/problems/partition-labels/",
+      "views": [
+        "0763-partition-labels"
+      ],
+      "commitMessage": "solve(medium): partition-labels | Hash Table, Two Pointers"
     }
   }
 }

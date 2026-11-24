@@ -1,0 +1,28 @@
+/*
+ * Problem: Partition Labels (#763)
+ * Difficulty: Medium
+ * Topics: Hash Table, Two Pointers, String, Greedy
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/partition-labels/
+ * Solved on: 2026-11-24
+ * Runtime: 0
+ms | Memory: 8.86
+MB
+ */
+
+class Solution {
+public:
+    vector<int> partitionLabels(string s) {
+        unordered_map<char, int> mp;
+        vector<int> ans;
+        int start = 0;
+        int end = 0;
+        for(int i = 0; i < s.length(); i++){
+            mp[s[i]] = i; 
+        }
+        for(int i = 0; i < s.length(); i++){
+            end = max(end, mp[s[i]]);
+            if(i == end){
+                ans.push_back(end - start + 
+                1);
+

@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-224-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-65-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-225-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- |
 | [0011-container-with-most-water](https://github.com/vansharmaweb/LeetCode/tree/main/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/vansharmaweb/LeetCode/tree/main/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vansharmaweb/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vansharmaweb/LeetCode/tree/main/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/vansharmaweb/LeetCode/tree/main/1323-maximum-69-number) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vansharmaweb/LeetCode/tree/main/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/vansharmaweb/LeetCode/tree/main/0575-distribute-candies) |
+| [0763-partition-labels](https://github.com/vansharmaweb/LeetCode/tree/main/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/vansharmaweb/LeetCode/tree/main/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/vansharmaweb/LeetCode/tree/main/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vansharmaweb/LeetCode/tree/main/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vansharmaweb/LeetCode/tree/main/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/vansharmaweb/LeetCode/tree/main/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vansharmaweb/LeetCode/tree/main/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/vansharmaweb/LeetCode/tree/main/0917-reverse-only-letters) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/vansharmaweb/LeetCode/tree/main/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/vansharmaweb/LeetCode/tree/main/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/vansharmaweb/LeetCode/tree/main/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/vansharmaweb/LeetCode/tree/main/0917-reverse-only-letters) |
