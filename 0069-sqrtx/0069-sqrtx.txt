@@ -1,0 +1,26 @@
+/*
+ * Problem: Sqrt(x) (#69)
+ * Difficulty: Easy
+ * Topics: Math, Binary Search, Newton's Method
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/sqrtx/
+ * Solved on: 2026-11-25
+ */
+
+        int hi = x / 2;
+        while(lo <= hi){
+            int mid = lo + (hi-lo)/2;
+        }
+            if(mid * mid > x){
+                hi = mid-1;
+            }else{
+                lo = mid+1;
+            }
+        int ans = 0;
+                ans = max(ans, mid);
+        int lo = 0;
+    int mySqrt(int x) {
+public:
+        if(x == 0) return 0;
+        if(x == 1) return 1;
+

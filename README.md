@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-226-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-159-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-227-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-160-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vansharmaweb/LeetCode/tree/main/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vansharmaweb/LeetCode/tree/main/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vansharmaweb/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vansharmaweb/LeetCode/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vansharmaweb/LeetCode/tree/main/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vansharmaweb/LeetCode/tree/main/0050-powx-n) |
+| [0069-sqrtx](https://github.com/vansharmaweb/LeetCode/tree/main/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vansharmaweb/LeetCode/tree/main/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vansharmaweb/LeetCode/tree/main/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vansharmaweb/LeetCode/tree/main/0231-power-of-two) |
@@ -551,6 +553,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | --- |
 | [1019-next-greater-node-in-linked-list](https://github.com/vansharmaweb/LeetCode/tree/main/1019-next-greater-node-in-linked-list) |
+
+### Newton's Method
+
+|  |
+| --- |
+| [0069-sqrtx](https://github.com/vansharmaweb/LeetCode/tree/main/0069-sqrtx) |
 
 ### Nim Game
 

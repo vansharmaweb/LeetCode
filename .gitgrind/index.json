@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T12:22:47.893Z",
+  "updatedAt": "2026-11-25T12:39:13.468Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5204,6 +5204,29 @@
         "0278-first-bad-version"
       ],
       "commitMessage": "solve(easy): first-bad-version | Binary Search, Interactive"
+    },
+    "sqrtx": {
+      "platform": "LeetCode",
+      "number": "69",
+      "title": "Sqrt(x)",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Binary Search",
+        "Newton's Method"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-11-25T12:39:13.468Z",
+      "url": "https://leetcode.com/problems/sqrtx/",
+      "views": [
+        "0069-sqrtx"
+      ],
+      "commitMessage": "solve(easy): sqrtx | Math, Binary Search"
     }
   }
 }
