@@ -1,30 +1,29 @@
 /*
- * Problem: Second Largest (#GFG)
+ * Problem: Floor in Sorted Array (#GFG)
  * Difficulty: Medium
  * Topics: Uncategorized
  * Language: cpp
  * LeetCode URL: https://leetcode.com/problems/1/
- * Solved on: 2026-10-25
+ * Solved on: 2026-11-25
  */
 
 class Solution {
   public:
-    int getSecondLargest(vector<int> &arr) {
+    int findFloor(vector<int>& arr, int x) {
         // code here
-        int largest = INT_MIN;
-        for(int val : arr){
-            if(val > largest){
-                largest = val;
+        int lo = 0;
+        int hi = arr.size()-1;
+        int ans = -1;
+        while(lo <= hi){
+            int mid = lo + (hi - lo)/2;
+            if(arr[mid] > x){
+                hi = mid - 1;
+            }else{
+                lo = mid + 1;
+                ans = mid;
             }
         }
-        int secLargest = INT_MIN;
-        for(int val : arr){
-            if(val == largest){
-                continue;
-            }else if(val > secLargest){
-                secLargest = val;
-            }
-        }
-        return secLargest > 0 ? secLargest : -1;
+        return ans;
     }
 };
+
