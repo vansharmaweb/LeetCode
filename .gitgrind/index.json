@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T12:39:13.468Z",
+  "updatedAt": "2026-11-25T12:41:29.492Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5219,9 +5219,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": null,
-      "memory": null,
-      "solvedAt": "2026-11-25T12:39:13.468Z",
+      "runtime": "0\nms",
+      "memory": "8.66\nMB",
+      "solvedAt": "2026-11-25T12:41:29.492Z",
       "url": "https://leetcode.com/problems/sqrtx/",
       "views": [
         "0069-sqrtx"
