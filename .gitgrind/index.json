@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T12:54:51.999Z",
+  "updatedAt": "2026-11-25T13:01:00.531Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
       "number": "GFG",
-      "title": "Floor in Sorted Array",
+      "title": "Ceil in Sorted Array",
       "difficulty": "Medium",
       "language": "cpp",
       "topics": [
@@ -18,8 +18,8 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-11-25T12:54:51.999Z",
-      "url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+      "solvedAt": "2026-11-25T13:01:00.531Z",
+      "url": "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1",
       "views": [
         "1"
       ],
