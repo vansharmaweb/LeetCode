@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-225-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-158-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-226-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-159-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vansharmaweb/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vansharmaweb/LeetCode/tree/main/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/vansharmaweb/LeetCode/tree/main/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vansharmaweb/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vansharmaweb/LeetCode/tree/main/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vansharmaweb/LeetCode/tree/main/0367-valid-perfect-square) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 |  |
 | --- |
+| [0278-first-bad-version](https://github.com/vansharmaweb/LeetCode/tree/main/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vansharmaweb/LeetCode/tree/main/0374-guess-number-higher-or-lower) |
 
 ### Knuth–Morris–Pratt Algorithm
