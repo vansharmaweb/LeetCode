@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T13:01:00.531Z",
+  "updatedAt": "2026-11-25T13:03:18.523Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
       "number": "GFG",
-      "title": "Ceil in Sorted Array",
+      "title": "Implement Lower Bound",
       "difficulty": "Medium",
       "language": "cpp",
       "topics": [
@@ -18,8 +18,8 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-11-25T13:01:00.531Z",
-      "url": "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1",
+      "solvedAt": "2026-11-25T13:03:18.523Z",
+      "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
       "views": [
         "1"
       ],
