@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T13:03:18.523Z",
+  "updatedAt": "2026-11-25T13:05:39.000Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
       "number": "GFG",
-      "title": "Implement Lower Bound",
+      "title": "Implement Upper Bound",
       "difficulty": "Medium",
       "language": "cpp",
       "topics": [
@@ -18,8 +18,8 @@
       "contest": null,
       "runtime": null,
       "memory": null,
-      "solvedAt": "2026-11-25T13:03:18.523Z",
-      "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+      "solvedAt": "2026-11-25T13:05:39.000Z",
+      "url": "https://www.geeksforgeeks.org/problems/implement-upper-bound/1",
       "views": [
         "1"
       ],
