@@ -1,0 +1,28 @@
+/*
+ * Problem: Find Minimum in Rotated Sorted Array (#153)
+ * Difficulty: Medium
+ * Topics: Array, Binary Search
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+ * Solved on: 2026-11-25
+ * Runtime: 0
+ms | Memory: 13.94
+MB
+ */
+
+            if(nums[lo] <= nums[mid]){
+                ans = min(ans, nums[lo]);
+            }else{
+                lo = mid + 1;
+                ans = min(ans, nums[mid]);
+            }
+                hi = mid - 1;
+        while(lo <= hi){
+            int mid = lo + (hi - lo)/2;
+        int hi = nums.size()-1;
+        int ans = INT_MAX;
+        int lo = 0;
+public:
+    int findMin(vector<int>& nums) {
+class Solution {
+

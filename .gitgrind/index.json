@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T13:05:39.000Z",
+  "updatedAt": "2026-11-25T13:44:47.224Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5227,6 +5227,31 @@
         "0069-sqrtx"
       ],
       "commitMessage": "solve(easy): sqrtx | Math, Binary Search"
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "platform": "LeetCode",
+      "number": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "language": "Sort by:",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "companies": [],
+      "sheets": [
+        "Blind 75",
+        "NeetCode 150"
+      ],
+      "contest": null,
+      "runtime": "0\nms",
+      "memory": "13.94\nMB",
+      "solvedAt": "2026-11-25T13:44:47.224Z",
+      "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "views": [
+        "0153-find-minimum-in-rotated-sorted-array"
+      ],
+      "commitMessage": "solve(medium): find-minimum-in-rotated-sorted-array | Array, Binary Search"
     }
   }
 }

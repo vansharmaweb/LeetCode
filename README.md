@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-227-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-160-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-66-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-228-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-160-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-67-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vansharmaweb/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vansharmaweb/LeetCode/tree/main/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vansharmaweb/LeetCode/tree/main/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/vansharmaweb/LeetCode/tree/main/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vansharmaweb/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vansharmaweb/LeetCode/tree/main/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vansharmaweb/LeetCode/tree/main/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vansharmaweb/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vansharmaweb/LeetCode/tree/main/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vansharmaweb/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansharmaweb/LeetCode/tree/main/0209-minimum-size-subarray-sum) |
