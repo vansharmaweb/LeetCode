@@ -1,0 +1,24 @@
+/*
+ * Problem: Stone Removal Game (#3360)
+ * Difficulty: Easy
+ * Topics: Math, Simulation
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/stone-removal-game/
+ * Solved on: 2026-11-26
+ * Runtime: 0 ms | Memory: null
+ */
+
+class Solution {
+public:
+    bool canAliceWin(int n) {
+        int alice = 10;
+        while(n >= 0){
+            moves++;
+        }
+    }
+            n -= alice;
+            alice--;
+        int moves = 0;
+        return moves % 2 == 0;
+};
+

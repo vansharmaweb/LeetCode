@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-25T13:44:47.224Z",
+  "updatedAt": "2026-11-26T11:20:58.216Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -5252,6 +5252,28 @@
         "0153-find-minimum-in-rotated-sorted-array"
       ],
       "commitMessage": "solve(medium): find-minimum-in-rotated-sorted-array | Array, Binary Search"
+    },
+    "stone-removal-game": {
+      "platform": "LeetCode",
+      "number": "3360",
+      "title": "Stone Removal Game",
+      "difficulty": "Easy",
+      "language": "Sort by:",
+      "topics": [
+        "Math",
+        "Simulation"
+      ],
+      "companies": [],
+      "sheets": [],
+      "contest": null,
+      "runtime": "0 ms",
+      "memory": null,
+      "solvedAt": "2026-11-26T11:20:58.216Z",
+      "url": "https://leetcode.com/problems/stone-removal-game/",
+      "views": [
+        "3360-stone-removal-game"
+      ],
+      "commitMessage": "solve(easy): stone-removal-game | Math, Simulation"
     }
   }
 }

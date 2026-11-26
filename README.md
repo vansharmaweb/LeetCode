@@ -2,7 +2,7 @@
 
 A collection of LeetCode questions to ace the coding interview! - Created using [GitGrind](https://github.com/GitGrindHQ/gitgrind)
 
-![Total Solved](https://img.shields.io/badge/Solved-228-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-160-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-67-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Solved-229-blue?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-161-22c55e?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-67-eab308?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-1-ef4444?style=flat-square)
 
 ## LeetCode Topics
 
@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/vansharmaweb/LeetCode/tree/main/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vansharmaweb/LeetCode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vansharmaweb/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/vansharmaweb/LeetCode/tree/main/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/vansharmaweb/LeetCode/tree/main/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansharmaweb/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansharmaweb/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/vansharmaweb/LeetCode/tree/main/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/vansharmaweb/LeetCode/tree/main/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vansharmaweb/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/vansharmaweb/LeetCode/tree/main/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vansharmaweb/LeetCode/tree/main/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansharmaweb/LeetCode/tree/main/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/vansharmaweb/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array) |
