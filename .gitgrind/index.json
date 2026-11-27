@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-26T11:20:58.216Z",
+  "updatedAt": "2026-11-27T13:04:31.017Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -725,9 +725,9 @@
       "companies": [],
       "sheets": [],
       "contest": null,
-      "runtime": "0 ms",
-      "memory": "16.3 MB",
-      "solvedAt": "2026-10-02T19:49:54.535Z",
+      "runtime": null,
+      "memory": null,
+      "solvedAt": "2026-11-27T13:04:31.017Z",
       "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
       "views": [
         "0083-remove-duplicates-from-sorted-list"
