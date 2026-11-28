@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repositoryVersion": "1.0",
   "createdAt": "2026-10-02T19:18:54.533Z",
-  "updatedAt": "2026-11-27T13:04:31.017Z",
+  "updatedAt": "2026-11-28T12:16:19.777Z",
   "problems": {
     "1": {
       "platform": "LeetCode",
@@ -3846,9 +3846,9 @@
         "NeetCode 150"
       ],
       "contest": null,
-      "runtime": "151 ms",
-      "memory": "39.7 MB",
-      "solvedAt": "2026-11-14T09:31:49.390Z",
+      "runtime": "150\nms",
+      "memory": "39.73\nMB",
+      "solvedAt": "2026-11-28T12:16:19.777Z",
       "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
       "views": [
         "0003-longest-substring-without-repeating-characters"
